@@ -1,0 +1,17 @@
+{
+  "name": "mama-ghost-team-sync",
+  "version": "1.0.0",
+  "description": "Daily automated ghost team pool sync for Mega Auto Matrix Assault",
+  "type": "module",
+  "scripts": {
+    "sync:ghosts": "tsx syncGhostPool.ts"
+  },
+  "dependencies": {
+    "firebase": "^12.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,45 @@
+name: Daily Ghost Pool Sync
+
+on:
+  schedule:
+    # Runs every day at 07:37 UTC (09:37 CEST, shortly after 09:00 CEST daily Firebase quota reset)
+    # Using an odd minute (:37) avoids peak queue congestion on GitHub Actions runners
+    - cron: '37 7 * * *'
+  workflow_dispatch:
+    # Allows manual trigger at any time from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync-ghosts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Ghost Pool Daily Sync
+        run: npm run sync:ghosts
+
+      - name: Commit and Push Updated Ghost Pool
+        run: |
+          if [ -n "$(git status --porcelain ghost-pool.json)" ]; then
+            echo "New ghost teams detected! Committing changes..."
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add ghost-pool.json
+            git commit -m "chore(ghosts): daily sync 245 teams from firestore [skip ci]"
+            git push
+          else
+            echo "No new teams to commit."
+          fi
