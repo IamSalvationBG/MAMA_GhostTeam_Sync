@@ -1,10 +1,112 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1792588292675,
-  "lastSyncDate": "2026-10-21",
-  "totalReadsPerformed": 2568,
+  "lastSyncTimestamp": 1792674657789,
+  "lastSyncDate": "2026-10-22",
+  "totalReadsPerformed": 2780,
   "rounds": {
     "1": [
+      {
+        "round": 1,
+        "slots": [
+          {
+            "copies": 1,
+            "templateId": "overclock_hub",
+            "health": 35,
+            "level": 1,
+            "attack": 35,
+            "maxHealth": 35
+          },
+          {
+            "templateId": "loot_tick",
+            "attack": 25,
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1
+          },
+          {
+            "attack": 60,
+            "templateId": "weapon_proxy",
+            "maxHealth": 25,
+            "copies": 1,
+            "level": 1,
+            "health": 25
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "health": 25,
+            "templateId": "relay_proxy",
+            "copies": 1
+          }
+        ],
+        "totalAtk": 175,
+        "totalHp": 150,
+        "randomSeed": 0.25504087581128954,
+        "name": "Spicy Plunger",
+        "timestamp": 1792598939660,
+        "id": "team_r1_1792598939660_wii1xt"
+      },
+      {
+        "slots": [
+          {
+            "health": 35,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "level": 1,
+            "attack": 25,
+            "maxHealth": 35
+          },
+          {
+            "copies": 1,
+            "maxHealth": 45,
+            "health": 45,
+            "level": 1,
+            "attack": 25,
+            "templateId": "shield_proxy"
+          },
+          {
+            "health": 50,
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 50,
+            "templateId": "data_miner",
+            "attack": 40
+          },
+          {
+            "attack": 35,
+            "templateId": "byte_donor",
+            "maxHealth": 55,
+            "level": 1,
+            "health": 55,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "templateId": "goldfish",
+            "maxHealth": 50,
+            "health": 50,
+            "level": 1,
+            "attack": 20
+          }
+        ],
+        "round": 1,
+        "timestamp": 1792616134682,
+        "totalAtk": 145,
+        "randomSeed": 0.4665599870361905,
+        "id": "team_r1_1792616134682_10yqhs",
+        "totalHp": 235,
+        "name": "Rusty Potato"
+      },
       {
         "totalAtk": 135,
         "slots": [
@@ -2150,9 +2252,250 @@
         "totalAtk": 95,
         "round": 1,
         "timestamp": 1791755007748
+      },
+      {
+        "id": "team_r1_1791902947937_d0jz7j",
+        "randomSeed": 0.6073756678547778,
+        "totalAtk": 95,
+        "name": "Hypnotic Sausage",
+        "timestamp": 1791902947937,
+        "totalHp": 105,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "attack": 20,
+            "level": 1,
+            "health": 20,
+            "templateId": "turret_program",
+            "copies": 2
+          },
+          {
+            "templateId": "data_miner",
+            "attack": 40,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30
+          },
+          null,
+          {
+            "attack": 15,
+            "level": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 1,
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 20,
+            "level": 1,
+            "templateId": "goldfish",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1
+          }
+        ],
+        "round": 1
+      },
+      {
+        "totalAtk": 115,
+        "slots": [
+          {
+            "attack": 40,
+            "level": 1,
+            "templateId": "turret_program",
+            "health": 20,
+            "maxHealth": 20,
+            "copies": 2
+          },
+          {
+            "health": 30,
+            "level": 1,
+            "copies": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "maxHealth": 30
+          },
+          null,
+          {
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "maxHealth": 25,
+            "copies": 1,
+            "level": 1,
+            "health": 25
+          },
+          {
+            "attack": 20,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "goldfish",
+            "copies": 1
+          }
+        ],
+        "round": 1,
+        "id": "team_r1_1791892809947_29o4as",
+        "randomSeed": 0.6199569009709532,
+        "timestamp": 1791892809947,
+        "totalHp": 105,
+        "name": "Crunchy Noodle"
+      },
+      {
+        "totalAtk": 160,
+        "id": "team_r1_1791621524613_orfqhu",
+        "totalHp": 160,
+        "slots": [
+          {
+            "level": 1,
+            "health": 25,
+            "copies": 1,
+            "attack": 35,
+            "maxHealth": 25,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1,
+            "templateId": "network_patcher"
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "templateId": "network_patcher",
+            "copies": 1,
+            "attack": 25,
+            "maxHealth": 30
+          },
+          {
+            "attack": 45,
+            "maxHealth": 35,
+            "copies": 1,
+            "templateId": "overclocker",
+            "health": 35,
+            "level": 1
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "copies": 3,
+            "attack": 30,
+            "templateId": "goldfish",
+            "maxHealth": 40
+          }
+        ],
+        "round": 1,
+        "randomSeed": 0.6236636240780936,
+        "name": "Deranged Muffin",
+        "timestamp": 1791621524613
       }
     ],
     "2": [
+      {
+        "totalHp": 220,
+        "slots": [
+          {
+            "maxHealth": 40,
+            "attack": 35,
+            "level": 1,
+            "copies": 1,
+            "templateId": "overclock_hub",
+            "health": 40
+          },
+          {
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "health": 55,
+            "level": 1,
+            "maxHealth": 55,
+            "attack": 60
+          },
+          {
+            "maxHealth": 50,
+            "attack": 90,
+            "templateId": "weapon_proxy",
+            "copies": 1,
+            "level": 1,
+            "health": 50
+          },
+          {
+            "attack": 35,
+            "maxHealth": 45,
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "health": 45,
+            "copies": 2
+          },
+          {
+            "attack": 25,
+            "maxHealth": 30,
+            "templateId": "relay_proxy",
+            "level": 1,
+            "copies": 1,
+            "health": 30
+          }
+        ],
+        "round": 2,
+        "randomSeed": 0.4787581578265273,
+        "timestamp": 1792599062615,
+        "totalAtk": 245,
+        "name": "Spicy Plunger",
+        "id": "team_r2_1792599062615_02mldd"
+      },
+      {
+        "totalAtk": 160,
+        "totalHp": 230,
+        "timestamp": 1792616288703,
+        "id": "team_r2_1792616288703_59uz8r",
+        "slots": [
+          {
+            "health": 45,
+            "templateId": "shield_proxy",
+            "level": 1,
+            "copies": 1,
+            "attack": 25,
+            "maxHealth": 45
+          },
+          {
+            "templateId": "weapon_proxy",
+            "attack": 35,
+            "copies": 1,
+            "level": 1,
+            "health": 35,
+            "maxHealth": 35
+          },
+          {
+            "attack": 35,
+            "level": 1,
+            "templateId": "shield_proxy",
+            "health": 45,
+            "maxHealth": 45,
+            "copies": 1
+          },
+          {
+            "attack": 40,
+            "maxHealth": 50,
+            "level": 1,
+            "templateId": "data_miner",
+            "health": 50,
+            "copies": 1
+          },
+          {
+            "health": 55,
+            "templateId": "goldfish",
+            "maxHealth": 55,
+            "level": 1,
+            "copies": 2,
+            "attack": 25
+          }
+        ],
+        "round": 2,
+        "randomSeed": 0.9268485831752467,
+        "name": "Rusty Potato"
+      },
       {
         "randomSeed": 0.40564604326060094,
         "teamFoilId": "foil_neon_pulse",
@@ -4174,6 +4517,108 @@
       }
     ],
     "3": [
+      {
+        "randomSeed": 0.522552185046214,
+        "round": 3,
+        "slots": [
+          {
+            "attack": 35,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 40,
+            "health": 40,
+            "templateId": "overclock_hub"
+          },
+          {
+            "attack": 100,
+            "maxHealth": 70,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "level": 1,
+            "health": 70
+          },
+          {
+            "health": 70,
+            "maxHealth": 70,
+            "level": 1,
+            "copies": 1,
+            "templateId": "weapon_proxy",
+            "attack": 120
+          },
+          {
+            "attack": 35,
+            "maxHealth": 45,
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "health": 45,
+            "copies": 2
+          },
+          {
+            "templateId": "relay_proxy",
+            "attack": 25,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30
+          }
+        ],
+        "id": "team_r3_1792599151485_syilgi",
+        "name": "Spicy Plunger",
+        "totalAtk": 315,
+        "totalHp": 255,
+        "timestamp": 1792599151485
+      },
+      {
+        "name": "Rusty Potato",
+        "randomSeed": 0.592972034994092,
+        "round": 3,
+        "slots": [
+          {
+            "templateId": "shield_proxy",
+            "attack": 25,
+            "level": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "copies": 1
+          },
+          {
+            "maxHealth": 45,
+            "copies": 1,
+            "health": 45,
+            "templateId": "weapon_proxy",
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "templateId": "shield_proxy",
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "health": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "attack": 25
+          },
+          {
+            "maxHealth": 60,
+            "health": 60,
+            "templateId": "goldfish",
+            "level": 2,
+            "copies": 3,
+            "attack": 50
+          }
+        ],
+        "totalAtk": 170,
+        "totalHp": 220,
+        "id": "team_r3_1792616592794_4nef5u",
+        "timestamp": 1792616592794
+      },
       {
         "round": 3,
         "id": "team_r3_1792519302758_96k9nt",
@@ -6404,6 +6849,120 @@
       }
     ],
     "4": [
+      {
+        "timestamp": 1792599281743,
+        "slots": [
+          {
+            "templateId": "overclock_hub",
+            "maxHealth": 40,
+            "attack": 35,
+            "copies": 1,
+            "level": 1,
+            "health": 40
+          },
+          {
+            "health": 70,
+            "templateId": "shield_proxy",
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 70,
+            "attack": 100
+          },
+          {
+            "attack": 125,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 70,
+            "copies": 1,
+            "templateId": "weapon_proxy",
+            "health": 70,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1
+          },
+          {
+            "health": 50,
+            "templateId": "trojan_distributor",
+            "copies": 3,
+            "level": 2,
+            "attack": 40,
+            "maxHealth": 50
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "attack": 25,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "round": 4,
+        "randomSeed": 0.6138083064121548,
+        "id": "team_r4_1792599281743_nucp5z",
+        "totalAtk": 325,
+        "name": "Spicy Plunger",
+        "totalHp": 260
+      },
+      {
+        "name": "Rusty Potato",
+        "id": "team_r4_1792616940287_2v78wm",
+        "totalHp": 330,
+        "timestamp": 1792616940287,
+        "totalAtk": 220,
+        "randomSeed": 0.047236953319623076,
+        "round": 4,
+        "slots": [
+          {
+            "templateId": "shield_proxy",
+            "attack": 40,
+            "maxHealth": 70,
+            "copies": 1,
+            "health": 70,
+            "level": 1
+          },
+          {
+            "maxHealth": 60,
+            "level": 1,
+            "health": 60,
+            "copies": 1,
+            "attack": 40,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "maxHealth": 60,
+            "attack": 40,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "level": 1,
+            "health": 60
+          },
+          {
+            "copies": 1,
+            "maxHealth": 60,
+            "health": 60,
+            "level": 1,
+            "attack": 40,
+            "templateId": "relay_proxy"
+          },
+          {
+            "maxHealth": 80,
+            "attack": 60,
+            "templateId": "goldfish",
+            "copies": 4,
+            "health": 80,
+            "level": 2
+          }
+        ]
+      },
       {
         "teamFoilId": "foil_matrix_rain",
         "timestamp": 1792519464805,
@@ -8765,9 +9324,327 @@
         "round": 4,
         "id": "team_r4_1791989257812_5ee610",
         "totalAtk": 160
+      },
+      {
+        "totalAtk": 185,
+        "round": 4,
+        "slots": [
+          {
+            "health": 20,
+            "level": 1,
+            "copies": 2,
+            "templateId": "turret_program",
+            "attack": 40,
+            "maxHealth": 20
+          },
+          {
+            "copies": 3,
+            "health": 25,
+            "templateId": "crypto_staker",
+            "maxHealth": 25,
+            "level": 2,
+            "attack": 25
+          },
+          {
+            "attack": 45,
+            "level": 1,
+            "health": 55,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 55,
+            "copies": 2
+          },
+          {
+            "level": 1,
+            "attack": 45,
+            "maxHealth": 25,
+            "templateId": "wasp",
+            "health": 25,
+            "copies": 2
+          },
+          {
+            "attack": 30,
+            "templateId": "goldfish",
+            "copies": 3,
+            "level": 2,
+            "health": 40,
+            "maxHealth": 40
+          }
+        ],
+        "name": "Spicy Kazoo",
+        "randomSeed": 0.34359913750929993,
+        "timestamp": 1792041222334,
+        "totalHp": 165,
+        "id": "team_r4_1792041222334_q3ukyn"
+      },
+      {
+        "randomSeed": 0.3496852101539133,
+        "totalAtk": 195,
+        "name": "Screaming Flamingo",
+        "round": 4,
+        "slots": [
+          {
+            "attack": 60,
+            "level": 2,
+            "health": 35,
+            "copies": 3,
+            "templateId": "weapon_proxy",
+            "maxHealth": 35
+          },
+          {
+            "attack": 55,
+            "templateId": "shield_proxy",
+            "level": 2,
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 4
+          },
+          {
+            "maxHealth": 25,
+            "attack": 20,
+            "templateId": "rootkit_loader",
+            "copies": 1,
+            "health": 25,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "glitch_rat",
+            "copies": 1
+          },
+          {
+            "maxHealth": 35,
+            "attack": 30,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "health": 35,
+            "copies": 1
+          }
+        ],
+        "totalHp": 180,
+        "id": "team_r4_1791915817066_h44xtp",
+        "timestamp": 1791915817066
+      },
+      {
+        "randomSeed": 0.37052841139864123,
+        "id": "team_r4_1791918785001_qjrk87",
+        "totalHp": 235,
+        "round": 4,
+        "slots": [
+          {
+            "templateId": "byte_donor",
+            "attack": 55,
+            "copies": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "templateId": "defrag_otter",
+            "level": 1,
+            "attack": 45
+          },
+          {
+            "templateId": "spam_pigeon",
+            "attack": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "level": 1
+          },
+          {
+            "attack": 45,
+            "maxHealth": 50,
+            "level": 1,
+            "templateId": "network_patcher",
+            "health": 50,
+            "copies": 1
+          },
+          {
+            "copies": 4,
+            "templateId": "relay_proxy",
+            "maxHealth": 65,
+            "health": 65,
+            "level": 2,
+            "attack": 65
+          }
+        ],
+        "totalAtk": 240,
+        "name": "Feral Keyboard",
+        "timestamp": 1791918785001
+      },
+      {
+        "name": "Frenetic Badger",
+        "randomSeed": 0.37753558664244924,
+        "totalHp": 240,
+        "round": 4,
+        "slots": [
+          {
+            "health": 35,
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 35,
+            "attack": 40,
+            "templateId": "data_miner"
+          },
+          {
+            "copies": 2,
+            "templateId": "buffer_bug",
+            "health": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "attack": 15
+          },
+          {
+            "level": 1,
+            "health": 85,
+            "copies": 1,
+            "templateId": "tank",
+            "attack": 20,
+            "maxHealth": 85
+          },
+          {
+            "attack": 20,
+            "level": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "templateId": "trojan_distributor",
+            "copies": 1
+          },
+          {
+            "maxHealth": 50,
+            "attack": 20,
+            "level": 1,
+            "health": 50,
+            "templateId": "goldfish",
+            "copies": 1
+          }
+        ],
+        "id": "team_r4_1792031983515_c2nkud",
+        "timestamp": 1792031983515,
+        "totalAtk": 115
       }
     ],
     "5": [
+      {
+        "id": "team_r5_1792599403849_k44opg",
+        "timestamp": 1792599403849,
+        "totalHp": 340,
+        "round": 5,
+        "slots": [
+          {
+            "templateId": "overclock_hub",
+            "attack": 35,
+            "maxHealth": 40,
+            "level": 1,
+            "health": 40,
+            "copies": 1
+          },
+          {
+            "health": 70,
+            "maxHealth": 70,
+            "level": 1,
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "attack": 100
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 155,
+            "templateId": "weapon_proxy",
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "health": 110,
+            "maxHealth": 110,
+            "copies": 1
+          },
+          {
+            "maxHealth": 70,
+            "attack": 40,
+            "templateId": "armor_pangolin",
+            "copies": 1,
+            "level": 1,
+            "health": 70
+          },
+          {
+            "templateId": "trojan_distributor",
+            "copies": 3,
+            "health": 50,
+            "maxHealth": 50,
+            "level": 2,
+            "attack": 40
+          }
+        ],
+        "totalAtk": 370,
+        "randomSeed": 0.9176542515121127,
+        "name": "Spicy Plunger"
+      },
+      {
+        "timestamp": 1792617083734,
+        "name": "Rusty Potato",
+        "id": "team_r5_1792617083734_39wpim",
+        "round": 5,
+        "slots": [
+          {
+            "attack": 55,
+            "level": 2,
+            "health": 80,
+            "copies": 3,
+            "templateId": "shield_proxy",
+            "maxHealth": 80
+          },
+          {
+            "maxHealth": 60,
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "copies": 1,
+            "level": 1,
+            "health": 60
+          },
+          {
+            "templateId": "spam_pigeon",
+            "copies": 1,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 1,
+            "attack": 35,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "health": 85,
+            "maxHealth": 85,
+            "copies": 5,
+            "level": 2,
+            "templateId": "goldfish",
+            "attack": 70
+          }
+        ],
+        "totalAtk": 240,
+        "randomSeed": 0.8864082071072428,
+        "totalHp": 305
+      },
       {
         "timestamp": 1792519591293,
         "totalHp": 205,
@@ -11178,9 +12055,379 @@
           }
         ],
         "randomSeed": 0.35702920817172124
+      },
+      {
+        "timestamp": 1791917891960,
+        "name": "Frenetic Spatula",
+        "totalHp": 205,
+        "id": "team_r5_1791917891960_nhsv5t",
+        "totalAtk": 175,
+        "round": 5,
+        "slots": [
+          {
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "maxHealth": 45,
+            "health": 45,
+            "level": 1,
+            "attack": 45
+          },
+          {
+            "attack": 35,
+            "level": 1,
+            "health": 35,
+            "copies": 1,
+            "templateId": "bandwidth_spider",
+            "maxHealth": 35
+          },
+          {
+            "copies": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 35
+          },
+          {
+            "maxHealth": 55,
+            "templateId": "glitch_rat",
+            "health": 55,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "copies": 1,
+            "attack": 35
+          },
+          {
+            "copies": 1,
+            "maxHealth": 35,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "health": 35,
+            "templateId": "glitch_rat",
+            "attack": 25,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "randomSeed": 0.2472443126690308
+      },
+      {
+        "round": 5,
+        "slots": [
+          {
+            "copies": 2,
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "attack": 45
+          },
+          {
+            "attack": 55,
+            "copies": 2,
+            "health": 45,
+            "templateId": "wasp",
+            "maxHealth": 45,
+            "level": 1
+          },
+          {
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "goldfish",
+            "level": 1,
+            "health": 40,
+            "copies": 2
+          },
+          {
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "attack": 30
+          },
+          {
+            "templateId": "relay_proxy",
+            "attack": 65,
+            "maxHealth": 65,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 4,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 65
+          }
+        ],
+        "totalAtk": 225,
+        "id": "team_r5_1791966084968_dky6gt",
+        "totalHp": 225,
+        "randomSeed": 0.27607955363009695,
+        "timestamp": 1791966084968,
+        "name": "Quantum Shoe"
+      },
+      {
+        "timestamp": 1791989629670,
+        "name": "Corrupted Meatloaf",
+        "id": "team_r5_1791989629670_zjtem7",
+        "randomSeed": 0.27761537472820064,
+        "totalHp": 150,
+        "totalAtk": 165,
+        "slots": [
+          {
+            "health": 25,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 25,
+            "attack": 30,
+            "templateId": "crypto_staker"
+          },
+          {
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1
+          },
+          {
+            "attack": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40,
+            "templateId": "goldfish",
+            "copies": 3
+          },
+          {
+            "copies": 3,
+            "health": 35,
+            "maxHealth": 35,
+            "attack": 35,
+            "level": 2,
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 30,
+            "maxHealth": 20,
+            "level": 1,
+            "templateId": "emp_bomber",
+            "copies": 1,
+            "health": 20
+          }
+        ],
+        "round": 5
+      },
+      {
+        "id": "team_r5_1791964738400_gblnka",
+        "lastBattleTime": 1791966365555,
+        "battlesCount": 1,
+        "randomSeed": 0.27871249805335596,
+        "totalHp": 180,
+        "losses": 0,
+        "wins": 1,
+        "round": 5,
+        "slots": [
+          {
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1,
+            "templateId": "gandhi_exe",
+            "health": 25
+          },
+          {
+            "maxHealth": 25,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "health": 25,
+            "level": 1,
+            "attack": 15
+          },
+          {
+            "level": 1,
+            "templateId": "data_cow",
+            "attack": 25,
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "health": 40,
+            "copies": 1,
+            "maxHealth": 40
+          },
+          {
+            "copies": 4,
+            "health": 45,
+            "templateId": "goldfish",
+            "maxHealth": 45,
+            "level": 2,
+            "attack": 35
+          }
+        ],
+        "totalAtk": 130,
+        "name": "Electric Meatloaf",
+        "timestamp": 1791964738400
       }
     ],
     "6": [
+      {
+        "name": "Spicy Plunger",
+        "totalHp": 375,
+        "timestamp": 1792599493225,
+        "randomSeed": 0.539236104600471,
+        "totalAtk": 440,
+        "id": "team_r6_1792599493225_zu31dm",
+        "round": 6,
+        "slots": [
+          {
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 1,
+            "templateId": "overclock_hub"
+          },
+          {
+            "level": 1,
+            "health": 70,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "attack": 100,
+            "maxHealth": 70
+          },
+          {
+            "attack": 155,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "health": 110,
+            "copies": 1,
+            "maxHealth": 110,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "id": "hardcoded"
+              }
+            ]
+          },
+          {
+            "templateId": "armor_pangolin",
+            "attack": 110,
+            "maxHealth": 105,
+            "level": 1,
+            "health": 105,
+            "copies": 1
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "maxHealth": 50,
+            "templateId": "trojan_distributor",
+            "level": 2,
+            "attack": 40
+          }
+        ]
+      },
+      {
+        "randomSeed": 0.818506522521781,
+        "totalAtk": 265,
+        "round": 6,
+        "slots": [
+          {
+            "health": 80,
+            "maxHealth": 80,
+            "level": 2,
+            "copies": 3,
+            "attack": 55,
+            "templateId": "shield_proxy"
+          },
+          {
+            "templateId": "weapon_proxy",
+            "health": 65,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 65,
+            "attack": 50
+          },
+          {
+            "attack": 70,
+            "maxHealth": 85,
+            "templateId": "goldfish",
+            "copies": 5,
+            "level": 2,
+            "health": 85
+          },
+          {
+            "level": 1,
+            "health": 40,
+            "copies": 1,
+            "attack": 55,
+            "maxHealth": 40,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "health": 40,
+            "maxHealth": 40,
+            "templateId": "spam_pigeon",
+            "level": 1,
+            "copies": 1,
+            "attack": 35
+          }
+        ],
+        "id": "team_r6_1792617231339_ku8yod",
+        "totalHp": 310,
+        "name": "Rusty Potato",
+        "timestamp": 1792617231339
+      },
       {
         "totalAtk": 210,
         "round": 6,
@@ -14624,6 +15871,120 @@
       }
     ],
     "7": [
+      {
+        "totalAtk": 480,
+        "round": 7,
+        "slots": [
+          {
+            "attack": 70,
+            "templateId": "ddos_daemon",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 90,
+            "health": 90
+          },
+          {
+            "attack": 100,
+            "level": 1,
+            "templateId": "shield_proxy",
+            "health": 70,
+            "maxHealth": 70,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 110,
+            "maxHealth": 110,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ],
+            "attack": 155,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "attack": 115,
+            "maxHealth": 110,
+            "level": 1,
+            "health": 110,
+            "templateId": "armor_pangolin",
+            "copies": 2
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "templateId": "trojan_distributor",
+            "maxHealth": 50,
+            "level": 2,
+            "attack": 40
+          }
+        ],
+        "totalHp": 430,
+        "randomSeed": 0.38276936253250393,
+        "id": "team_r7_1792599577990_irmn0y",
+        "timestamp": 1792599577990,
+        "name": "Spicy Plunger"
+      },
+      {
+        "totalAtk": 250,
+        "slots": [
+          {
+            "attack": 50,
+            "level": 1,
+            "templateId": "crash_dump_exe",
+            "copies": 1,
+            "maxHealth": 70,
+            "health": 70
+          },
+          {
+            "attack": 55,
+            "level": 2,
+            "maxHealth": 100,
+            "templateId": "shield_proxy",
+            "health": 100,
+            "copies": 3
+          },
+          {
+            "health": 70,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "copies": 3,
+            "attack": 55,
+            "maxHealth": 70
+          },
+          {
+            "health": 40,
+            "level": 1,
+            "templateId": "spam_pigeon",
+            "copies": 1,
+            "attack": 55,
+            "maxHealth": 40
+          },
+          {
+            "copies": 1,
+            "health": 40,
+            "maxHealth": 40,
+            "templateId": "spam_pigeon",
+            "level": 1,
+            "attack": 35
+          }
+        ],
+        "round": 7,
+        "totalHp": 320,
+        "randomSeed": 0.2954094432391625,
+        "name": "Rusty Potato",
+        "timestamp": 1792617381112,
+        "id": "team_r7_1792617381112_6diw0n"
+      },
       {
         "totalAtk": 260,
         "id": "team_r7_1792519931349_27novy",
@@ -18226,9 +19587,331 @@
           }
         ],
         "timestamp": 1791897163198
+      },
+      {
+        "arenaSkinId": "arena_villa_straylight",
+        "totalAtk": 335,
+        "totalHp": 290,
+        "teamFoilId": "foil_prismatic",
+        "randomSeed": 0.5724495273132307,
+        "timestamp": 1792021816485,
+        "slots": [
+          {
+            "copies": 3,
+            "health": 40,
+            "maxHealth": 40,
+            "templateId": "weapon_proxy",
+            "foil": "foil_prismatic",
+            "attack": 60,
+            "level": 2
+          },
+          {
+            "attack": 70,
+            "foil": "foil_prismatic",
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 60,
+            "health": 60,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "templateId": "rootkit_loader",
+            "maxHealth": 30,
+            "attack": 45,
+            "copies": 1,
+            "foil": "foil_prismatic",
+            "health": 30,
+            "level": 1
+          },
+          {
+            "level": 2,
+            "attack": 55,
+            "foil": "foil_prismatic",
+            "health": 55,
+            "copies": 3,
+            "templateId": "glitch_rat",
+            "maxHealth": 55
+          },
+          {
+            "level": 2,
+            "attack": 105,
+            "templateId": "scrap_goat",
+            "foil": "foil_prismatic",
+            "health": 105,
+            "maxHealth": 105,
+            "copies": 3
+          }
+        ],
+        "round": 7,
+        "id": "team_r7_1792021816485_c26xwp",
+        "name": "Screaming Chicken"
+      },
+      {
+        "totalHp": 275,
+        "timestamp": 1791918049819,
+        "round": 7,
+        "slots": [
+          {
+            "level": 1,
+            "health": 45,
+            "copies": 1,
+            "templateId": "defrag_otter",
+            "attack": 45,
+            "maxHealth": 45
+          },
+          {
+            "maxHealth": 40,
+            "attack": 60,
+            "templateId": "bandwidth_spider",
+            "copies": 2,
+            "level": 1,
+            "health": 40
+          },
+          {
+            "attack": 35,
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "maxHealth": 35,
+            "copies": 1,
+            "health": 35,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ]
+          },
+          {
+            "copies": 1,
+            "maxHealth": 55,
+            "health": 55,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 45,
+            "templateId": "glitch_rat"
+          },
+          {
+            "level": 1,
+            "attack": 120,
+            "templateId": "trex",
+            "health": 100,
+            "copies": 2,
+            "maxHealth": 100
+          }
+        ],
+        "randomSeed": 0.5764127815111579,
+        "id": "team_r7_1791918049819_i81sc4",
+        "totalAtk": 305,
+        "name": "Frenetic Spatula"
+      },
+      {
+        "randomSeed": 0.5778758278730562,
+        "totalAtk": 210,
+        "totalHp": 315,
+        "name": "Feral Turnip",
+        "round": 7,
+        "slots": [
+          {
+            "templateId": "load_balancer",
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 80,
+            "health": 80,
+            "copies": 1
+          },
+          {
+            "attack": 50,
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 60,
+            "health": 60
+          },
+          {
+            "maxHealth": 60,
+            "attack": 30,
+            "templateId": "armor_pangolin",
+            "copies": 3,
+            "health": 60,
+            "level": 2
+          },
+          {
+            "health": 75,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "berserk_node",
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 2,
+            "copies": 4,
+            "attack": 60,
+            "maxHealth": 75
+          },
+          {
+            "attack": 30,
+            "level": 2,
+            "templateId": "goldfish",
+            "health": 40,
+            "maxHealth": 40,
+            "copies": 3
+          }
+        ],
+        "id": "team_r7_1792000129937_htgvr4",
+        "timestamp": 1792000129937
       }
     ],
     "8": [
+      {
+        "timestamp": 1792599681501,
+        "id": "team_r8_1792599681501_2u0mh1",
+        "round": 8,
+        "slots": [
+          {
+            "health": 90,
+            "maxHealth": 90,
+            "templateId": "ddos_daemon",
+            "level": 1,
+            "copies": 1,
+            "attack": 70
+          },
+          {
+            "health": 70,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "copies": 1,
+            "attack": 100,
+            "templateId": "shield_proxy",
+            "maxHealth": 70
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 110,
+            "attack": 155,
+            "templateId": "weapon_proxy",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 110
+          },
+          {
+            "health": 135,
+            "level": 2,
+            "copies": 3,
+            "attack": 140,
+            "maxHealth": 135,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "templateId": "trojan_distributor",
+            "maxHealth": 50,
+            "attack": 40,
+            "level": 2
+          }
+        ],
+        "totalHp": 455,
+        "totalAtk": 505,
+        "randomSeed": 0.20150819812644472,
+        "name": "Spicy Plunger"
+      },
+      {
+        "name": "Rusty Potato",
+        "timestamp": 1792617572962,
+        "totalHp": 335,
+        "randomSeed": 0.6640636997004029,
+        "id": "team_r8_1792617572962_6sz393",
+        "totalAtk": 265,
+        "slots": [
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "copies": 1,
+            "level": 1,
+            "templateId": "crash_dump_exe",
+            "attack": 50
+          },
+          {
+            "templateId": "shield_proxy",
+            "copies": 3,
+            "maxHealth": 105,
+            "health": 105,
+            "level": 2,
+            "attack": 60
+          },
+          {
+            "attack": 60,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "health": 75,
+            "maxHealth": 75,
+            "copies": 4
+          },
+          {
+            "health": 40,
+            "level": 1,
+            "copies": 1,
+            "attack": 55,
+            "maxHealth": 40,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "attack": 40,
+            "templateId": "spam_pigeon",
+            "maxHealth": 45,
+            "copies": 2,
+            "health": 45,
+            "level": 1
+          }
+        ],
+        "round": 8
+      },
       {
         "timestamp": 1792520049589,
         "totalHp": 280,
@@ -21678,9 +23361,439 @@
         "totalHp": 375,
         "round": 8,
         "name": "Screaming Flamingo"
+      },
+      {
+        "name": "Deranged Fridge",
+        "timestamp": 1790375735982,
+        "wins": 0,
+        "losses": 2,
+        "round": 8,
+        "slots": [
+          {
+            "maxHealth": 35,
+            "attack": 45,
+            "templateId": "bsod",
+            "copies": 2,
+            "health": 35,
+            "level": 1
+          },
+          {
+            "health": 55,
+            "maxHealth": 55,
+            "level": 1,
+            "copies": 2,
+            "attack": 35,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "maxHealth": 70,
+            "attack": 30,
+            "level": 1,
+            "health": 70,
+            "templateId": "bandwidth_spider",
+            "mods": [
+              {
+                "id": "data_snack",
+                "bonusAttack": 5,
+                "name": "Data Snack",
+                "bonusHealth": 5,
+                "description": "High-density memory wafer for immediate core upgrades."
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Firewall Patch",
+                "description": "Reinforces chassis resilience against hostile intrusion.",
+                "id": "firewall_patch",
+                "bonusHealth": 20
+              }
+            ],
+            "copies": 1
+          },
+          {
+            "attack": 35,
+            "level": 2,
+            "templateId": "spam_pigeon",
+            "health": 55,
+            "maxHealth": 55,
+            "copies": 4
+          },
+          {
+            "level": 2,
+            "health": 60,
+            "copies": 5,
+            "maxHealth": 60,
+            "attack": 40,
+            "templateId": "rootkit_loader"
+          }
+        ],
+        "lastBattleTime": 1791897806831,
+        "id": "team_r8_1790375735982_jds1s8",
+        "battlesCount": 2
+      },
+      {
+        "id": "team_r8_1790406344224_zqaqyx",
+        "name": "Explosive Chihuahua",
+        "timestamp": 1790406344224,
+        "round": 8,
+        "slots": [
+          {
+            "maxHealth": 45,
+            "attack": 35,
+            "templateId": "router_rooster",
+            "copies": 3,
+            "health": 45,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "health": 105,
+            "copies": 3,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 105,
+            "attack": 100
+          },
+          {
+            "copies": 4,
+            "health": 140,
+            "level": 2,
+            "maxHealth": 140,
+            "attack": 120,
+            "mods": [
+              {
+                "bonusHealth": 15,
+                "description": "Balanced neural coprocessor for adaptive subroutines.",
+                "name": "Neural Core",
+                "bonusAttack": 15,
+                "id": "neural_core"
+              },
+              {
+                "bonusAttack": 5,
+                "name": "Data Snack",
+                "description": "High-density memory wafer for immediate core upgrades.",
+                "id": "data_snack",
+                "bonusHealth": 5
+              }
+            ],
+            "templateId": "berserk_node"
+          },
+          {
+            "attack": 70,
+            "level": 2,
+            "maxHealth": 90,
+            "templateId": "trojan_distributor",
+            "health": 90,
+            "copies": 5
+          },
+          {
+            "templateId": "coffee_maker",
+            "attack": 10,
+            "copies": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "perks": [
+              "coffee_spill"
+            ],
+            "level": 1
+          }
+        ]
+      },
+      {
+        "id": "team_r8_1790407616671_t9qhro",
+        "name": "Overclocked Mushroom",
+        "slots": [
+          {
+            "attack": 165,
+            "level": 1,
+            "templateId": "drag_n_drop",
+            "maxHealth": 160,
+            "health": 160,
+            "copies": 1
+          },
+          {
+            "attack": 165,
+            "copies": 3,
+            "maxHealth": 170,
+            "level": 2,
+            "mods": [
+              {
+                "name": "Neural Core",
+                "id": "neural_core",
+                "description": "Balanced neural coprocessor for adaptive subroutines.",
+                "bonusHealth": 15,
+                "bonusAttack": 15
+              },
+              {
+                "bonusAttack": 15,
+                "name": "Neural Core",
+                "id": "neural_core",
+                "description": "Balanced neural coprocessor for adaptive subroutines.",
+                "bonusHealth": 15
+              }
+            ],
+            "health": 170,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 140,
+            "copies": 4,
+            "health": 140,
+            "templateId": "rootkit_loader",
+            "attack": 140,
+            "level": 2
+          },
+          {
+            "attack": 140,
+            "maxHealth": 145,
+            "copies": 4,
+            "health": 145,
+            "templateId": "goldfish",
+            "level": 2
+          },
+          {
+            "health": 60,
+            "perks": [
+              "shield"
+            ],
+            "templateId": "coffee_maker",
+            "copies": 1,
+            "shieldValue": 200,
+            "attack": 55,
+            "maxHealth": 60,
+            "level": 1,
+            "mods": [
+              {
+                "id": "pop_up_blocker",
+                "description": "Shield: Prevents up to 200 damage once.",
+                "name": "Pop-up Blocker",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "round": 8,
+        "timestamp": 1790407616671
+      },
+      {
+        "id": "team_r8_1790414304940_5e4yxu",
+        "timestamp": 1790414304940,
+        "wins": 0,
+        "name": "Greedy Blender",
+        "battlesCount": 1,
+        "losses": 1,
+        "slots": [
+          {
+            "copies": 4,
+            "health": 40,
+            "maxHealth": 40,
+            "templateId": "router_rooster",
+            "level": 2,
+            "attack": 55
+          },
+          {
+            "attack": 100,
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 105,
+            "templateId": "data_cow",
+            "health": 105
+          },
+          {
+            "copies": 1,
+            "templateId": "holo_triceratops",
+            "health": 100,
+            "level": 1,
+            "maxHealth": 100,
+            "attack": 80
+          },
+          {
+            "attack": 100,
+            "maxHealth": 100,
+            "level": 1,
+            "templateId": "trojan_exe",
+            "health": 100,
+            "mods": [
+              {
+                "bonusAttack": 5,
+                "name": "Data Snack",
+                "bonusHealth": 5,
+                "id": "data_snack",
+                "description": "High-density memory wafer for immediate core upgrades."
+              },
+              {
+                "bonusHealth": 5,
+                "description": "High-density memory wafer for immediate core upgrades.",
+                "name": "Data Snack",
+                "bonusAttack": 5,
+                "id": "data_snack"
+              }
+            ],
+            "copies": 1
+          },
+          {
+            "templateId": "rootkit_loader",
+            "health": 115,
+            "level": 2,
+            "copies": 5,
+            "maxHealth": 115,
+            "attack": 115
+          }
+        ],
+        "round": 8,
+        "lastBattleTime": 1790793723701
       }
     ],
     "9": [
+      {
+        "name": "Spicy Plunger",
+        "randomSeed": 0.9299333933216778,
+        "totalHp": 460,
+        "id": "team_r9_1792599806487_te7pv7",
+        "timestamp": 1792599806487,
+        "totalAtk": 510,
+        "round": 9,
+        "slots": [
+          {
+            "templateId": "ddos_daemon",
+            "attack": 70,
+            "copies": 1,
+            "health": 90,
+            "level": 1,
+            "maxHealth": 90
+          },
+          {
+            "attack": 100,
+            "maxHealth": 70,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 70
+          },
+          {
+            "copies": 1,
+            "templateId": "weapon_proxy",
+            "maxHealth": 110,
+            "health": 110,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "attack": 155
+          },
+          {
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 2,
+            "health": 140,
+            "copies": 3,
+            "attack": 145,
+            "maxHealth": 140,
+            "mods": [
+              {
+                "id": "rate_limiter",
+                "bonusAttack": 0,
+                "name": "RateLimiter",
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "armor_pangolin"
+          },
+          {
+            "copies": 3,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              }
+            ],
+            "health": 50,
+            "templateId": "trojan_distributor",
+            "attack": 40,
+            "maxHealth": 50,
+            "perks": [
+              "frontload"
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "totalHp": 425,
+        "timestamp": 1792617756313,
+        "randomSeed": 0.29350958736393806,
+        "name": "Rusty Potato",
+        "round": 9,
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "attack": 60,
+            "maxHealth": 85,
+            "copies": 3,
+            "level": 2,
+            "health": 85
+          },
+          {
+            "attack": 60,
+            "level": 2,
+            "health": 110,
+            "maxHealth": 110,
+            "copies": 3,
+            "templateId": "shield_proxy"
+          },
+          {
+            "copies": 4,
+            "health": 80,
+            "templateId": "weapon_proxy",
+            "maxHealth": 80,
+            "level": 2,
+            "attack": 60
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 75,
+            "copies": 6,
+            "health": 95,
+            "level": 3,
+            "maxHealth": 95
+          },
+          {
+            "copies": 3,
+            "maxHealth": 55,
+            "templateId": "spam_pigeon",
+            "health": 55,
+            "level": 2,
+            "attack": 60
+          }
+        ],
+        "totalAtk": 315,
+        "id": "team_r9_1792617756313_uwkutt"
+      },
       {
         "timestamp": 1792520165645,
         "slots": [
@@ -25374,6 +27487,156 @@
       }
     ],
     "10": [
+      {
+        "round": 10,
+        "slots": [
+          {
+            "health": 90,
+            "level": 1,
+            "maxHealth": 90,
+            "copies": 1,
+            "attack": 70,
+            "templateId": "ddos_daemon"
+          },
+          {
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 70,
+            "attack": 100,
+            "templateId": "shield_proxy",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 70
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "health": 110,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 110,
+            "copies": 1,
+            "templateId": "weapon_proxy",
+            "attack": 155
+          },
+          {
+            "attack": 155,
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 2,
+            "health": 170,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "name": "RateLimiter",
+                "id": "rate_limiter",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "armor_pangolin",
+            "maxHealth": 170,
+            "copies": 5
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "maxHealth": 50,
+            "perks": [
+              "frontload"
+            ],
+            "level": 2,
+            "attack": 40,
+            "mods": [
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "trojan_distributor"
+          }
+        ],
+        "id": "team_r10_1792599928871_qe47et",
+        "totalAtk": 520,
+        "randomSeed": 0.18206652972145665,
+        "name": "Spicy Plunger",
+        "totalHp": 490,
+        "timestamp": 1792599928871
+      },
+      {
+        "totalHp": 395,
+        "totalAtk": 300,
+        "timestamp": 1792617913325,
+        "id": "team_r10_1792617913325_bv5e8s",
+        "round": 10,
+        "slots": [
+          {
+            "attack": 40,
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 50,
+            "health": 50
+          },
+          {
+            "level": 2,
+            "attack": 60,
+            "health": 110,
+            "maxHealth": 110,
+            "templateId": "shield_proxy",
+            "copies": 3
+          },
+          {
+            "level": 2,
+            "attack": 65,
+            "health": 85,
+            "templateId": "weapon_proxy",
+            "copies": 5,
+            "maxHealth": 85
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 75,
+            "copies": 6,
+            "level": 3,
+            "health": 95,
+            "maxHealth": 95
+          },
+          {
+            "health": 55,
+            "maxHealth": 55,
+            "level": 2,
+            "copies": 3,
+            "attack": 60,
+            "templateId": "spam_pigeon"
+          }
+        ],
+        "randomSeed": 0.31884694450460127,
+        "name": "Rusty Potato"
+      },
       {
         "name": "Gigantic Potato",
         "totalHp": 355,
@@ -29273,9 +31536,261 @@
           }
         ],
         "timestamp": 1791916347476
+      },
+      {
+        "totalAtk": 265,
+        "totalHp": 260,
+        "timestamp": 1791772580947,
+        "randomSeed": 0.6900026789308498,
+        "name": "Prickly Taco",
+        "slots": [
+          {
+            "copies": 3,
+            "health": 100,
+            "maxHealth": 100,
+            "attack": 90,
+            "templateId": "holo_triceratops",
+            "level": 2
+          },
+          {
+            "level": 2,
+            "health": 40,
+            "copies": 3,
+            "templateId": "david_exe",
+            "attack": 40,
+            "maxHealth": 40
+          },
+          {
+            "health": 45,
+            "level": 1,
+            "copies": 2,
+            "templateId": "echo_engine",
+            "attack": 20,
+            "maxHealth": 45
+          },
+          {
+            "maxHealth": 40,
+            "templateId": "drone_mosquito",
+            "attack": 55,
+            "copies": 5,
+            "level": 2,
+            "health": 40
+          },
+          {
+            "level": 2,
+            "attack": 60,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "maxHealth": 35,
+            "copies": 3
+          }
+        ],
+        "round": 10,
+        "id": "team_r10_1791772580947_ohn2i7"
+      },
+      {
+        "round": 10,
+        "slots": [
+          {
+            "health": 65,
+            "maxHealth": 65,
+            "level": 1,
+            "copies": 1,
+            "templateId": "defrag_otter",
+            "attack": 45
+          },
+          {
+            "health": 180,
+            "maxHealth": 180,
+            "level": 1,
+            "copies": 1,
+            "attack": 180,
+            "templateId": "scrap_goat"
+          },
+          {
+            "attack": 65,
+            "level": 2,
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 3,
+            "templateId": "gandhi_exe"
+          },
+          {
+            "maxHealth": 70,
+            "attack": 100,
+            "level": 1,
+            "health": 70,
+            "templateId": "golem",
+            "copies": 1
+          },
+          {
+            "copies": 2,
+            "health": 120,
+            "level": 1,
+            "maxHealth": 120,
+            "attack": 105,
+            "templateId": "tank"
+          }
+        ],
+        "id": "team_r10_1791917461295_brx6o7",
+        "totalAtk": 495,
+        "timestamp": 1791917461295,
+        "name": "Sarcastic Blender",
+        "totalHp": 480,
+        "randomSeed": 0.7103594695614398
       }
     ],
     "11": [
+      {
+        "totalHp": 510,
+        "timestamp": 1792600041412,
+        "name": "Spicy Plunger",
+        "randomSeed": 0.4845974517735784,
+        "totalAtk": 540,
+        "slots": [
+          {
+            "templateId": "ddos_daemon",
+            "attack": 70,
+            "level": 1,
+            "maxHealth": 90,
+            "health": 90,
+            "copies": 1
+          },
+          {
+            "attack": 100,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "shield_proxy",
+            "maxHealth": 70,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 70,
+            "copies": 1
+          },
+          {
+            "health": 125,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ],
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 1,
+            "maxHealth": 125,
+            "attack": 170,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "rate_limiter",
+                "name": "RateLimiter",
+                "bonusHealth": 0,
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap)."
+              }
+            ],
+            "attack": 160,
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 3,
+            "maxHealth": 175,
+            "health": 175,
+            "templateId": "armor_pangolin",
+            "copies": 6
+          },
+          {
+            "mods": [
+              {
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0,
+                "id": "frontload"
+              }
+            ],
+            "attack": 40,
+            "perks": [
+              "frontload"
+            ],
+            "level": 2,
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 3,
+            "templateId": "trojan_distributor"
+          }
+        ],
+        "round": 11,
+        "id": "team_r11_1792600041412_oufnde"
+      },
+      {
+        "totalAtk": 335,
+        "id": "team_r11_1792618010592_e47wz6",
+        "totalHp": 395,
+        "randomSeed": 0.9774243558905529,
+        "name": "Rusty Potato",
+        "slots": [
+          {
+            "level": 1,
+            "health": 50,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 50,
+            "copies": 1,
+            "attack": 45
+          },
+          {
+            "attack": 65,
+            "level": 2,
+            "copies": 3,
+            "templateId": "shield_proxy",
+            "maxHealth": 110,
+            "health": 110
+          },
+          {
+            "level": 2,
+            "health": 85,
+            "copies": 5,
+            "templateId": "weapon_proxy",
+            "attack": 70,
+            "maxHealth": 85
+          },
+          {
+            "maxHealth": 95,
+            "health": 95,
+            "templateId": "goldfish",
+            "level": 3,
+            "copies": 6,
+            "attack": 80
+          },
+          {
+            "attack": 75,
+            "maxHealth": 55,
+            "level": 2,
+            "health": 55,
+            "templateId": "spam_pigeon",
+            "copies": 3
+          }
+        ],
+        "round": 11,
+        "timestamp": 1792618010592
+      },
       {
         "randomSeed": 0.7952127445290726,
         "timestamp": 1792520386845,
@@ -33327,9 +35842,210 @@
         "totalAtk": 210,
         "id": "team_r11_1791508436404_yl5nw2",
         "randomSeed": 0.6401205316381052
+      },
+      {
+        "totalHp": 275,
+        "totalAtk": 190,
+        "id": "team_r11_1791887688038_10ozws",
+        "name": "Haunted Waffle",
+        "randomSeed": 0.319950064440199,
+        "timestamp": 1791887688038,
+        "round": 11,
+        "slots": [
+          {
+            "maxHealth": 65,
+            "attack": 35,
+            "level": 1,
+            "copies": 2,
+            "templateId": "spaghetti_code",
+            "health": 65
+          },
+          {
+            "copies": 3,
+            "health": 90,
+            "templateId": "hard_freeze",
+            "maxHealth": 90,
+            "attack": 70,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "health": 40,
+            "copies": 3,
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 40
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 25,
+            "templateId": "berserk_node"
+          },
+          {
+            "copies": 3,
+            "health": 40,
+            "maxHealth": 40,
+            "level": 2,
+            "attack": 30,
+            "templateId": "goldfish"
+          }
+        ]
       }
     ],
     "12": [
+      {
+        "totalHp": 535,
+        "name": "Spicy Plunger",
+        "timestamp": 1792600209342,
+        "randomSeed": 0.7635193319049277,
+        "totalAtk": 545,
+        "round": 12,
+        "slots": [
+          {
+            "attack": 70,
+            "level": 1,
+            "health": 90,
+            "maxHealth": 90,
+            "templateId": "ddos_daemon",
+            "copies": 1
+          },
+          {
+            "maxHealth": 70,
+            "attack": 100,
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "health": 70,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ]
+          },
+          {
+            "copies": 2,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 130,
+            "templateId": "weapon_proxy",
+            "maxHealth": 130,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "attack": 175
+          },
+          {
+            "mods": [
+              {
+                "id": "rate_limiter",
+                "bonusHealth": 0,
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "bonusAttack": 0,
+                "name": "RateLimiter"
+              }
+            ],
+            "attack": 160,
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 3,
+            "health": 195,
+            "maxHealth": 195,
+            "templateId": "armor_pangolin",
+            "copies": 6
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 2,
+            "health": 50,
+            "copies": 3,
+            "templateId": "trojan_distributor",
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "attack": 40,
+            "maxHealth": 50
+          }
+        ],
+        "id": "team_r12_1792600209342_4n49b7"
+      },
+      {
+        "totalAtk": 345,
+        "totalHp": 405,
+        "name": "Rusty Potato",
+        "randomSeed": 0.6654918329133249,
+        "slots": [
+          {
+            "templateId": "vanguard_feeder",
+            "maxHealth": 60,
+            "attack": 55,
+            "copies": 3,
+            "level": 2,
+            "health": 60
+          },
+          {
+            "health": 110,
+            "maxHealth": 110,
+            "level": 2,
+            "copies": 3,
+            "templateId": "shield_proxy",
+            "attack": 65
+          },
+          {
+            "maxHealth": 85,
+            "attack": 70,
+            "templateId": "weapon_proxy",
+            "copies": 5,
+            "health": 85,
+            "level": 2
+          },
+          {
+            "copies": 6,
+            "health": 95,
+            "templateId": "goldfish",
+            "maxHealth": 95,
+            "level": 3,
+            "attack": 80
+          },
+          {
+            "health": 55,
+            "level": 2,
+            "copies": 3,
+            "templateId": "spam_pigeon",
+            "maxHealth": 55,
+            "attack": 75
+          }
+        ],
+        "round": 12,
+        "timestamp": 1792618103239,
+        "id": "team_r12_1792618103239_v5rbty"
+      },
       {
         "teamFoilId": "foil_matrix_rain",
         "round": 12,
@@ -37514,9 +40230,304 @@
         "totalAtk": 680,
         "timestamp": 1791846527643,
         "id": "team_r12_1791846527643_v2k2n5"
+      },
+      {
+        "id": "team_r12_1791990905477_ivbcp4",
+        "totalAtk": 285,
+        "name": "Corrupted Meatloaf",
+        "randomSeed": 0.2041987210416566,
+        "round": 12,
+        "slots": [
+          {
+            "health": 60,
+            "maxHealth": 60,
+            "templateId": "spaghetti_code",
+            "level": 1,
+            "copies": 1,
+            "attack": 30
+          },
+          {
+            "attack": 60,
+            "maxHealth": 60,
+            "templateId": "upload_toaster",
+            "copies": 3,
+            "level": 2,
+            "health": 60
+          },
+          {
+            "templateId": "holo_triceratops",
+            "copies": 1,
+            "health": 90,
+            "maxHealth": 90,
+            "level": 1,
+            "attack": 80
+          },
+          {
+            "copies": 4,
+            "health": 85,
+            "templateId": "priority_queue",
+            "maxHealth": 85,
+            "attack": 65,
+            "level": 2
+          },
+          {
+            "attack": 50,
+            "level": 2,
+            "templateId": "goldfish",
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 5
+          }
+        ],
+        "totalHp": 345,
+        "timestamp": 1791990905477
+      },
+      {
+        "totalAtk": 325,
+        "round": 12,
+        "slots": [
+          {
+            "level": 2,
+            "perks": [
+              "blockchain"
+            ],
+            "health": 60,
+            "copies": 3,
+            "mods": [
+              {
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "name": "Blockchain",
+                "bonusHealth": 0,
+                "id": "blockchain",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 70,
+            "maxHealth": 60,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "maxHealth": 110,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              },
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "name": "Temp Buffer"
+              }
+            ],
+            "health": 110,
+            "templateId": "holo_triceratops",
+            "level": 1,
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 95
+          },
+          {
+            "copies": 1,
+            "templateId": "priority_queue",
+            "health": 80,
+            "level": 1,
+            "attack": 60,
+            "maxHealth": 80
+          },
+          {
+            "attack": 70,
+            "maxHealth": 70,
+            "copies": 1,
+            "health": 70,
+            "level": 1,
+            "templateId": "drag_n_drop"
+          },
+          {
+            "attack": 30,
+            "templateId": "armor_pangolin",
+            "copies": 1,
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 1,
+            "maxHealth": 60,
+            "health": 60,
+            "mods": [
+              {
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "bonusAttack": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0
+              }
+            ]
+          }
+        ],
+        "name": "Spicy Marshmallow",
+        "totalHp": 380,
+        "randomSeed": 0.25446182694933583,
+        "id": "team_r12_1791900749019_c7tsg0",
+        "timestamp": 1791900749019
       }
     ],
     "13": [
+      {
+        "name": "Spicy Plunger",
+        "round": 13,
+        "slots": [
+          {
+            "attack": 70,
+            "maxHealth": 90,
+            "level": 1,
+            "templateId": "ddos_daemon",
+            "health": 90,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 70,
+            "copies": 1,
+            "maxHealth": 70,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "attack": 100,
+            "templateId": "shield_proxy"
+          },
+          {
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 150,
+            "health": 150,
+            "copies": 3,
+            "attack": 215,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "weapon_proxy"
+          },
+          {
+            "level": 3,
+            "perks": [
+              "rate_limit"
+            ],
+            "health": 210,
+            "maxHealth": 210,
+            "copies": 6,
+            "attack": 175,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "rate_limiter",
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "name": "RateLimiter",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "armor_pangolin"
+          },
+          {
+            "attack": 40,
+            "maxHealth": 50,
+            "templateId": "trojan_distributor",
+            "copies": 3,
+            "perks": [
+              "blockchain"
+            ],
+            "level": 2,
+            "mods": [
+              {
+                "id": "blockchain",
+                "bonusAttack": 0,
+                "name": "Blockchain",
+                "bonusHealth": 0,
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits."
+              }
+            ],
+            "health": 50
+          }
+        ],
+        "randomSeed": 0.6056401129756761,
+        "id": "team_r13_1792600303540_kalf6h",
+        "timestamp": 1792600303540,
+        "totalHp": 570,
+        "totalAtk": 600
+      },
+      {
+        "id": "team_r13_1792618266802_do2lly",
+        "name": "Rusty Potato",
+        "randomSeed": 0.7756689885891056,
+        "round": 13,
+        "slots": [
+          {
+            "attack": 65,
+            "templateId": "vanguard_feeder",
+            "copies": 3,
+            "health": 75,
+            "maxHealth": 75,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "attack": 65,
+            "templateId": "shield_proxy",
+            "health": 115,
+            "copies": 3,
+            "maxHealth": 115
+          },
+          {
+            "copies": 6,
+            "health": 95,
+            "maxHealth": 95,
+            "templateId": "weapon_proxy",
+            "level": 3,
+            "attack": 75
+          },
+          {
+            "attack": 85,
+            "level": 3,
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "health": 105,
+            "copies": 7
+          },
+          {
+            "maxHealth": 60,
+            "attack": 75,
+            "templateId": "spam_pigeon",
+            "copies": 3,
+            "health": 60,
+            "level": 2
+          }
+        ],
+        "timestamp": 1792618266802,
+        "totalAtk": 365,
+        "totalHp": 450
+      },
       {
         "totalAtk": 370,
         "id": "team_r13_1792520564189_snmoeb",
@@ -41376,9 +44387,482 @@
             "level": 2
           }
         ]
+      },
+      {
+        "timestamp": 1791918430768,
+        "name": "Frenetic Spatula",
+        "id": "team_r13_1791918430768_l8dkyf",
+        "totalHp": 465,
+        "randomSeed": 0.5766965979292417,
+        "slots": [
+          {
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "gandhi_exe",
+            "copies": 1
+          },
+          {
+            "copies": 2,
+            "templateId": "bandwidth_spider",
+            "health": 40,
+            "maxHealth": 40,
+            "level": 1,
+            "attack": 70
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "level": 1,
+            "copies": 1,
+            "attack": 40,
+            "templateId": "spaghetti_code"
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "attack": 55,
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "health": 55,
+            "maxHealth": 55,
+            "copies": 1
+          },
+          {
+            "templateId": "trex",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload"
+              },
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              },
+              {
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload",
+                "bonusAttack": 0
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "bonusHealth": 0
+              },
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusAttack": 0,
+                "name": "Frontload"
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusAttack": 0
+              },
+              {
+                "id": "frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "bonusAttack": 0
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload"
+              },
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload"
+              },
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "bonusHealth": 0
+              },
+              {
+                "bonusHealth": 0,
+                "id": "frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0,
+                "name": "Frontload"
+              },
+              {
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusAttack": 0
+              },
+              {
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusAttack": 0
+              },
+              {
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "frontload"
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload",
+                "name": "Frontload",
+                "bonusAttack": 0
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "id": "frontload"
+              },
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              },
+              {
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              },
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "id": "frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusAttack": 0
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload"
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Frontload"
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusHealth": 0
+              },
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              },
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "bonusHealth": 0
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              },
+              {
+                "id": "frontload",
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              },
+              {
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0,
+                "name": "Frontload"
+              },
+              {
+                "id": "frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 315,
+            "copies": 9,
+            "maxHealth": 265,
+            "health": 265,
+            "level": 4,
+            "perks": [
+              "frontload"
+            ]
+          }
+        ],
+        "round": 13,
+        "totalAtk": 515
+      },
+      {
+        "id": "team_r13_1791812895677_nswdmz",
+        "totalHp": 615,
+        "slots": [
+          {
+            "attack": 50,
+            "templateId": "router_rooster",
+            "maxHealth": 45,
+            "level": 3,
+            "copies": 7,
+            "health": 45
+          },
+          {
+            "health": 190,
+            "level": 2,
+            "copies": 5,
+            "maxHealth": 190,
+            "templateId": "vanguard_feeder",
+            "attack": 185
+          },
+          {
+            "copies": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 90,
+            "maxHealth": 90,
+            "templateId": "trex",
+            "level": 1,
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 120
+          },
+          {
+            "copies": 4,
+            "health": 145,
+            "templateId": "bouncer_exe",
+            "maxHealth": 145,
+            "level": 2,
+            "attack": 135
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 160,
+            "maxHealth": 145,
+            "copies": 7,
+            "perks": [
+              "backup"
+            ],
+            "level": 3,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusHealth": 0,
+                "name": "Back up",
+                "id": "backup",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 145
+          }
+        ],
+        "round": 13,
+        "name": "Fluffy Pants",
+        "totalAtk": 650,
+        "randomSeed": 0.5932097263405481,
+        "timestamp": 1791812895677
       }
     ],
     "14": [
+      {
+        "name": "Spicy Plunger",
+        "randomSeed": 0.6195645925216369,
+        "totalHp": 615,
+        "timestamp": 1792600413364,
+        "totalAtk": 645,
+        "round": 14,
+        "slots": [
+          {
+            "maxHealth": 95,
+            "templateId": "ddos_daemon",
+            "attack": 75,
+            "copies": 2,
+            "level": 1,
+            "health": 95
+          },
+          {
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "health": 70,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 70,
+            "attack": 100
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "health": 170,
+            "copies": 3,
+            "maxHealth": 170,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "id": "hardcoded"
+              }
+            ],
+            "attack": 235,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "copies": 6,
+            "maxHealth": 230,
+            "health": 230,
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 3,
+            "templateId": "armor_pangolin",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "name": "RateLimiter",
+                "bonusAttack": 0,
+                "id": "rate_limiter"
+              }
+            ],
+            "attack": 195
+          },
+          {
+            "health": 50,
+            "perks": [
+              "blockchain"
+            ],
+            "level": 2,
+            "copies": 3,
+            "attack": 40,
+            "maxHealth": 50,
+            "templateId": "trojan_distributor",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "blockchain",
+                "bonusHealth": 0,
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "name": "Blockchain"
+              }
+            ]
+          }
+        ],
+        "id": "team_r14_1792600413364_j2zwrd"
+      },
       {
         "totalAtk": 375,
         "timestamp": 1792520651068,
@@ -45569,9 +49053,288 @@
         "timestamp": 1791901036549,
         "randomSeed": 0.8601131366780405,
         "id": "team_r14_1791901036549_s6plgz"
+      },
+      {
+        "id": "team_r14_1791900440741_a4xv2o",
+        "round": 14,
+        "slots": [
+          {
+            "attack": 65,
+            "level": 2,
+            "health": 85,
+            "templateId": "priority_queue",
+            "maxHealth": 85,
+            "copies": 4
+          },
+          {
+            "attack": 30,
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40,
+            "templateId": "vanguard_feeder",
+            "copies": 3
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "attack": 30,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "templateId": "berserk_node",
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 4
+          },
+          {
+            "maxHealth": 90,
+            "templateId": "golem",
+            "attack": 90,
+            "level": 2,
+            "health": 90,
+            "copies": 3
+          },
+          {
+            "templateId": "relay_proxy",
+            "attack": 35,
+            "maxHealth": 45,
+            "level": 2,
+            "health": 45,
+            "copies": 3
+          }
+        ],
+        "randomSeed": 0.4544693706229622,
+        "totalHp": 305,
+        "timestamp": 1791900440741,
+        "name": "Feral Meatball",
+        "totalAtk": 250
+      },
+      {
+        "name": "Bionic Sock",
+        "lastBattleTime": 1791880877835,
+        "totalHp": 805,
+        "randomSeed": 0.45823339834626753,
+        "wins": 0,
+        "slots": [
+          {
+            "attack": 380,
+            "level": 2,
+            "health": 390,
+            "templateId": "scrap_goat",
+            "copies": 3,
+            "maxHealth": 390
+          },
+          {
+            "copies": 4,
+            "health": 85,
+            "level": 2,
+            "templateId": "vanguard_feeder",
+            "attack": 55,
+            "maxHealth": 85
+          },
+          {
+            "maxHealth": 160,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              },
+              {
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "id": "monolith_refactor"
+              }
+            ],
+            "copies": 7,
+            "health": 160,
+            "templateId": "armor_pangolin",
+            "level": 3,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "attack": 21
+          },
+          {
+            "level": 2,
+            "health": 75,
+            "copies": 3,
+            "attack": 45,
+            "maxHealth": 75,
+            "templateId": "trojan_exe"
+          },
+          {
+            "attack": 75,
+            "maxHealth": 95,
+            "level": 2,
+            "health": 95,
+            "copies": 3,
+            "templateId": "goldfish"
+          }
+        ],
+        "round": 14,
+        "timestamp": 1791565040431,
+        "totalAtk": 576,
+        "id": "team_r14_1791565040431_ncgtz3",
+        "battlesCount": 1,
+        "losses": 1
+      },
+      {
+        "lastBattleTime": 1791989947934,
+        "totalHp": 1245,
+        "randomSeed": 0.46960461858564084,
+        "round": 14,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "copies": 1,
+            "health": 140,
+            "maxHealth": 140,
+            "level": 1,
+            "attack": 85
+          },
+          {
+            "maxHealth": 75,
+            "attack": 270,
+            "templateId": "buffer_bug",
+            "copies": 9,
+            "health": 75,
+            "level": 4
+          },
+          {
+            "attack": 95,
+            "templateId": "defrag_otter",
+            "level": 4,
+            "maxHealth": 240,
+            "health": 240,
+            "copies": 9
+          },
+          {
+            "maxHealth": 570,
+            "attack": 640,
+            "copies": 7,
+            "level": 3,
+            "templateId": "scrap_goat",
+            "health": 570
+          },
+          {
+            "templateId": "trex",
+            "attack": 280,
+            "copies": 3,
+            "health": 220,
+            "maxHealth": 220,
+            "level": 2
+          }
+        ],
+        "id": "team_r14_1791922646350_58sqcl",
+        "battlesCount": 1,
+        "timestamp": 1791922646350,
+        "wins": 1,
+        "name": "Crispy Sandwich",
+        "losses": 0,
+        "totalAtk": 1370
       }
     ],
     "15": [
+      {
+        "totalHp": 625,
+        "name": "Spicy Plunger",
+        "timestamp": 1792600515040,
+        "round": 15,
+        "slots": [
+          {
+            "copies": 2,
+            "maxHealth": 95,
+            "templateId": "ddos_daemon",
+            "health": 95,
+            "level": 1,
+            "attack": 75
+          },
+          {
+            "copies": 2,
+            "maxHealth": 75,
+            "health": 75,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 1,
+            "attack": 115,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded"
+              }
+            ],
+            "templateId": "shield_proxy"
+          },
+          {
+            "templateId": "weapon_proxy",
+            "health": 175,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 175,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "copies": 4,
+            "attack": 240
+          },
+          {
+            "perks": [
+              "rate_limit"
+            ],
+            "level": 3,
+            "health": 235,
+            "copies": 7,
+            "maxHealth": 235,
+            "attack": 200,
+            "templateId": "armor_pangolin",
+            "mods": [
+              {
+                "id": "rate_limiter",
+                "bonusHealth": 0,
+                "description": "Held Perk: Caps maximum incoming attack damage taken at 100 HP per hit, and caps maximum outgoing attack damage dealt at 50 HP per strike (abilities bypass cap).",
+                "name": "RateLimiter",
+                "bonusAttack": 0
+              }
+            ]
+          },
+          {
+            "maxHealth": 45,
+            "copies": 1,
+            "health": 45,
+            "level": 1,
+            "templateId": "router_rooster",
+            "attack": 55
+          }
+        ],
+        "totalAtk": 685,
+        "id": "team_r15_1792600515040_mx5sjs",
+        "randomSeed": 0.6574452881835279
+      },
       {
         "teamFoilId": "foil_matrix_rain",
         "slots": [
@@ -49381,6 +53144,102 @@
         "totalHp": 325,
         "totalAtk": 305,
         "id": "team_r15_1791890169983_vafaz4"
+      },
+      {
+        "randomSeed": 0.1339905543312382,
+        "name": "Fluffy Pants",
+        "totalAtk": 850,
+        "round": 15,
+        "slots": [
+          {
+            "maxHealth": 65,
+            "copies": 7,
+            "health": 65,
+            "templateId": "router_rooster",
+            "attack": 70,
+            "level": 3
+          },
+          {
+            "maxHealth": 250,
+            "level": 2,
+            "health": 250,
+            "copies": 5,
+            "attack": 245,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 2,
+            "health": 140,
+            "copies": 3,
+            "maxHealth": 140,
+            "attack": 170,
+            "mods": [
+              {
+                "name": "Temp Buffer",
+                "bonusAttack": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "id": "temp_buffer"
+              },
+              {
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusAttack": 0,
+                "id": "temp_buffer"
+              }
+            ],
+            "templateId": "trex"
+          },
+          {
+            "health": 215,
+            "level": 3,
+            "templateId": "bouncer_exe",
+            "copies": 6,
+            "attack": 205,
+            "maxHealth": 215
+          },
+          {
+            "attack": 160,
+            "level": 3,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "goldfish",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusHealth": 0
+              },
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "bonusAttack": 0
+              },
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 145,
+            "health": 145,
+            "copies": 7
+          }
+        ],
+        "totalHp": 815,
+        "id": "team_r15_1791813202730_w4z4fj",
+        "timestamp": 1791813202730
       }
     ],
     "16": [
@@ -58517,6 +62376,218 @@
         "battlesCount": 1,
         "wins": 1,
         "timestamp": 1791771290665
+      },
+      {
+        "name": "Flaming Sandwich",
+        "wins": 0,
+        "round": 18,
+        "slots": [
+          {
+            "level": 2,
+            "attack": 55,
+            "maxHealth": 90,
+            "templateId": "data_cow",
+            "health": 90,
+            "copies": 3
+          },
+          {
+            "level": 3,
+            "health": 270,
+            "copies": 6,
+            "maxHealth": 270,
+            "attack": 255,
+            "templateId": "upload_toaster"
+          },
+          {
+            "health": 155,
+            "level": 2,
+            "copies": 5,
+            "maxHealth": 155,
+            "templateId": "bouncer_exe",
+            "attack": 125
+          },
+          {
+            "maxHealth": 45,
+            "templateId": "david_exe",
+            "attack": 45,
+            "level": 3,
+            "copies": 6,
+            "health": 45
+          },
+          {
+            "attack": 50,
+            "templateId": "gandhi_exe",
+            "level": 3,
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 6
+          }
+        ],
+        "timestamp": 1790685580949,
+        "losses": 2,
+        "id": "team_r18_1790685580949_yfqt7n",
+        "lastBattleTime": 1791767538982,
+        "battlesCount": 2
+      },
+      {
+        "id": "team_r18_1790703377478_s7l9mw",
+        "timestamp": 1790703377478,
+        "slots": [
+          {
+            "health": 150,
+            "templateId": "shield_proxy",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "copies": 2,
+            "level": 1,
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 140,
+            "maxHealth": 150
+          },
+          {
+            "attack": 170,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 180,
+            "templateId": "drag_n_drop",
+            "health": 180
+          },
+          {
+            "templateId": "bouncer_exe",
+            "maxHealth": 210,
+            "attack": 150,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded"
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "health": 210,
+            "copies": 3
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: On Faint, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusAttack": 0,
+                "name": "Back up"
+              }
+            ],
+            "attack": 140,
+            "templateId": "relay_proxy",
+            "maxHealth": 150,
+            "copies": 2,
+            "level": 1,
+            "perks": [
+              "backup"
+            ],
+            "health": 150
+          },
+          {
+            "attack": 155,
+            "maxHealth": 115,
+            "templateId": "plasma_microwave",
+            "level": 4,
+            "copies": 9,
+            "health": 115
+          }
+        ],
+        "round": 18,
+        "name": "Caffeinated Otter"
+      },
+      {
+        "timestamp": 1790726897249,
+        "wins": 0,
+        "name": "Suspicious Baguette",
+        "id": "team_r18_1790726897249_7wbsw8",
+        "losses": 3,
+        "round": 18,
+        "slots": [
+          {
+            "copies": 2,
+            "maxHealth": 90,
+            "templateId": "echo_engine",
+            "health": 90,
+            "level": 1,
+            "attack": 15
+          },
+          {
+            "templateId": "tank",
+            "attack": 125,
+            "maxHealth": 175,
+            "level": 3,
+            "copies": 6,
+            "health": 175
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Faint, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 110,
+            "copies": 9,
+            "templateId": "armor_pangolin",
+            "health": 165,
+            "maxHealth": 165,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 4
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "attack": 145,
+            "maxHealth": 160,
+            "templateId": "recoil_mule",
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "health": 160,
+            "copies": 5
+          },
+          {
+            "maxHealth": 220,
+            "copies": 1,
+            "templateId": "scrap_goat",
+            "health": 220,
+            "level": 1,
+            "attack": 205
+          }
+        ],
+        "lastBattleTime": 1791882417695,
+        "battlesCount": 3
       }
     ],
     "19": [
@@ -60833,6 +64904,127 @@
         ],
         "randomSeed": 0.3449311691015965,
         "timestamp": 1791773165954
+      },
+      {
+        "timestamp": 1791771356307,
+        "totalAtk": 375,
+        "slots": [
+          {
+            "templateId": "siphon_leech",
+            "copies": 6,
+            "health": 65,
+            "mods": [
+              {
+                "name": "Pop-up Blocker",
+                "id": "pop_up_blocker",
+                "bonusAttack": 0,
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0
+              }
+            ],
+            "shieldValue": 200,
+            "perks": [
+              "shield"
+            ],
+            "attack": 45,
+            "maxHealth": 65,
+            "level": 3
+          },
+          {
+            "attack": 75,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "bonusAttack": 0,
+                "name": "Temp Buffer"
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "bonusHealth": 0
+              },
+              {
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "bonusAttack": 0
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "temp_buffer"
+            ],
+            "health": 145,
+            "maxHealth": 145,
+            "copies": 5,
+            "templateId": "trojan_exe"
+          },
+          {
+            "copies": 8,
+            "maxHealth": 115,
+            "health": 115,
+            "templateId": "relay_proxy",
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 80,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 3
+          },
+          {
+            "templateId": "emp_bomber",
+            "maxHealth": 65,
+            "attack": 65,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "copies": 9,
+            "health": 65,
+            "level": 4,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "attack": 110,
+            "copies": 4,
+            "level": 2,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "plasma_microwave"
+          }
+        ],
+        "round": 19,
+        "name": "Glitchy Croissant",
+        "id": "team_r19_1791771356307_y8edh2",
+        "randomSeed": 0.20805780981798283,
+        "totalHp": 420
       }
     ],
     "20": [
@@ -68202,6 +72394,113 @@
         "round": 22,
         "randomSeed": 0.06431375234772507,
         "totalHp": 975
+      },
+      {
+        "totalHp": 395,
+        "timestamp": 1791773358582,
+        "name": "Prickly Taco",
+        "totalAtk": 296,
+        "randomSeed": 0.11225600158506865,
+        "id": "team_r22_1791773358582_8alroy",
+        "slots": [
+          {
+            "copies": 6,
+            "mods": [
+              {
+                "id": "frontload",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 115,
+            "templateId": "holo_triceratops",
+            "perks": [
+              "frontload"
+            ],
+            "level": 3,
+            "maxHealth": 115,
+            "attack": 105
+          },
+          {
+            "copies": 3,
+            "templateId": "priority_queue",
+            "maxHealth": 95,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              },
+              {
+                "bonusAttack": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "health": 95,
+            "attack": 16,
+            "level": 2,
+            "perks": [
+              "refactoring_expert"
+            ]
+          },
+          {
+            "attack": 30,
+            "copies": 4,
+            "health": 55,
+            "templateId": "echo_engine",
+            "maxHealth": 55,
+            "level": 2
+          },
+          {
+            "level": 4,
+            "mods": [
+              {
+                "id": "pop_up_blocker",
+                "bonusAttack": 0,
+                "name": "Pop-up Blocker",
+                "bonusHealth": 0,
+                "description": "Shield: Prevents up to 200 damage once."
+              }
+            ],
+            "shieldValue": 200,
+            "maxHealth": 70,
+            "attack": 70,
+            "perks": [
+              "shield"
+            ],
+            "copies": 9,
+            "templateId": "david_exe",
+            "health": 70
+          },
+          {
+            "health": 60,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 4,
+            "templateId": "drone_mosquito",
+            "copies": 9,
+            "attack": 75,
+            "maxHealth": 60
+          }
+        ],
+        "round": 22
       }
     ],
     "23": [
@@ -74743,6 +79042,71 @@
         "timestamp": 1792027268767,
         "totalHp": 1350,
         "id": "team_r27_1792027268767_thckqv"
+      },
+      {
+        "round": 27,
+        "slots": [
+          {
+            "attack": 55,
+            "level": 2,
+            "templateId": "data_cow",
+            "maxHealth": 90,
+            "health": 90,
+            "copies": 3
+          },
+          {
+            "maxHealth": 150,
+            "health": 150,
+            "level": 2,
+            "copies": 3,
+            "attack": 70,
+            "templateId": "recovery_partition"
+          },
+          {
+            "copies": 7,
+            "health": 365,
+            "templateId": "upload_toaster",
+            "maxHealth": 365,
+            "attack": 350,
+            "level": 3
+          },
+          {
+            "shieldValue": 200,
+            "copies": 8,
+            "templateId": "bouncer_exe",
+            "health": 210,
+            "mods": [
+              {
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0,
+                "name": "Pop-up Blocker",
+                "bonusAttack": 0,
+                "id": "pop_up_blocker"
+              }
+            ],
+            "attack": 180,
+            "perks": [
+              "shield"
+            ],
+            "maxHealth": 210,
+            "level": 3
+          },
+          {
+            "maxHealth": 55,
+            "attack": 55,
+            "copies": 7,
+            "level": 3,
+            "templateId": "gandhi_exe",
+            "health": 55
+          }
+        ],
+        "battlesCount": 3,
+        "losses": 3,
+        "wins": 0,
+        "name": "Flaming Sandwich",
+        "id": "team_r27_1790686460844_j5mxui",
+        "timestamp": 1790686460844,
+        "lastBattleTime": 1791882853174
       }
     ],
     "28": [
