@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1793543348812,
-  "lastSyncDate": "2026-11-01",
-  "totalReadsPerformed": 4240,
+  "lastSyncTimestamp": 1793640346605,
+  "lastSyncDate": "2026-11-02",
+  "totalReadsPerformed": 4393,
   "rounds": {
     "1": [
       {
@@ -10195,9 +10195,117 @@
         "randomSeed": 0.19054849044808186,
         "totalHp": 180,
         "round": 3
+      },
+      {
+        "totalAtk": 130,
+        "randomSeed": 0.07763634483994708,
+        "id": "team_r3_1791893639550_dn2bgh",
+        "round": 3,
+        "timestamp": 1791893639550,
+        "totalHp": 175,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "copies": 2,
+            "templateId": "turret_program",
+            "level": 1,
+            "health": 20,
+            "attack": 20
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "attack": 20,
+            "health": 30,
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "maxHealth": 30
+          },
+          {
+            "attack": 30,
+            "health": 60,
+            "level": 1,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "maxHealth": 60
+          },
+          {
+            "health": 35,
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 35,
+            "templateId": "trojan_distributor",
+            "copies": 1
+          }
+        ],
+        "name": "Microscopic Microwave"
       }
     ],
     "4": [
+      {
+        "round": 4,
+        "id": "team_r4_1793575028641_3s5eq4",
+        "randomSeed": 0.4672962695470717,
+        "name": "Glitchy Pants",
+        "slots": [
+          {
+            "copies": 3,
+            "maxHealth": 55,
+            "level": 2,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 35,
+            "health": 55,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "copies": 3,
+            "foil": "foil_matrix_rain_purple",
+            "level": 2,
+            "templateId": "byte_donor",
+            "maxHealth": 50,
+            "health": 50,
+            "attack": 50
+          },
+          {
+            "templateId": "glitch_rat",
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 30,
+            "attack": 20,
+            "health": 30,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "foil": "foil_matrix_rain_purple",
+            "level": 1,
+            "templateId": "router_rooster",
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 30
+          },
+          {
+            "attack": 20,
+            "templateId": "spam_pigeon",
+            "health": 20,
+            "level": 1,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "maxHealth": 20
+          }
+        ],
+        "totalHp": 185,
+        "totalAtk": 155,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793575028641
+      },
       {
         "randomSeed": 0.31784637378069136,
         "name": "Sarcastic Avocado",
@@ -13820,9 +13928,133 @@
         "lastBattleTime": 1791880016929,
         "totalAtk": 180,
         "randomSeed": 0.21540822368261148
+      },
+      {
+        "randomSeed": 0.268355821904101,
+        "wins": 0,
+        "timestamp": 1791804759456,
+        "totalHp": 275,
+        "slots": [
+          {
+            "health": 50,
+            "level": 2,
+            "maxHealth": 50,
+            "templateId": "shield_proxy",
+            "attack": 35,
+            "copies": 3
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 50,
+            "templateId": "crypto_staker",
+            "attack": 35,
+            "maxHealth": 50,
+            "level": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 3
+          },
+          {
+            "health": 65,
+            "maxHealth": 65,
+            "attack": 30,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "copies": 4
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 50,
+            "health": 50,
+            "templateId": "rootkit_loader"
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 25,
+            "maxHealth": 60,
+            "health": 60,
+            "level": 1,
+            "copies": 2
+          }
+        ],
+        "name": "Suspicious Trophy",
+        "id": "team_r4_1791804759456_jk4uqg",
+        "round": 4,
+        "losses": 1,
+        "battlesCount": 1,
+        "totalAtk": 145,
+        "lastBattleTime": 1791888692045
       }
     ],
     "5": [
+      {
+        "slots": [
+          {
+            "health": 65,
+            "attack": 45,
+            "maxHealth": 65,
+            "templateId": "crash_dump_exe",
+            "level": 2,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3
+          },
+          {
+            "templateId": "spam_pigeon",
+            "attack": 25,
+            "foil": "foil_matrix_rain_purple",
+            "health": 25,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 25
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "attack": 20,
+            "health": 30,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "router_rooster",
+            "level": 1,
+            "health": 30,
+            "attack": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35,
+            "health": 35,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 35,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "name": "Glitchy Pants",
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793575174988,
+        "round": 5,
+        "totalHp": 185,
+        "id": "team_r5_1793575174988_nc4j31",
+        "totalAtk": 155,
+        "randomSeed": 0.5203839523249697
+      },
       {
         "slots": [
           {
@@ -17602,6 +17834,63 @@
       }
     ],
     "6": [
+      {
+        "name": "Glitchy Pants",
+        "round": 6,
+        "id": "team_r6_1793575270579_ysanly",
+        "randomSeed": 0.17243348157052873,
+        "timestamp": 1793575270579,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "slots": [
+          {
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "crash_dump_exe",
+            "copies": 3,
+            "attack": 55,
+            "level": 2,
+            "health": 75
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "copies": 4,
+            "maxHealth": 35,
+            "templateId": "spam_pigeon",
+            "attack": 35,
+            "health": 35,
+            "level": 2
+          },
+          {
+            "templateId": "glitch_rat",
+            "health": 30,
+            "attack": 20,
+            "foil": "foil_matrix_rain_purple",
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "attack": 30,
+            "templateId": "router_rooster",
+            "maxHealth": 30,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "level": 1,
+            "copies": 2,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "attack": 35,
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 35
+          }
+        ],
+        "totalHp": 205,
+        "totalAtk": 175
+      },
       {
         "name": "Sarcastic Avocado",
         "randomSeed": 0.9984819352216685,
@@ -21901,6 +22190,76 @@
       }
     ],
     "7": [
+      {
+        "randomSeed": 0.16476410270359532,
+        "timestamp": 1793575393932,
+        "totalAtk": 205,
+        "slots": [
+          {
+            "maxHealth": 95,
+            "health": 95,
+            "level": 2,
+            "attack": 75,
+            "copies": 5,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 30,
+            "level": 1,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "templateId": "router_rooster"
+          },
+          {
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 20,
+            "health": 30
+          },
+          {
+            "templateId": "spam_pigeon",
+            "copies": 4,
+            "level": 2,
+            "perks": [
+              "shield"
+            ],
+            "maxHealth": 45,
+            "mods": [
+              {
+                "name": "Pop-up Blocker",
+                "bonusAttack": 0,
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0,
+                "id": "pop_up_blocker"
+              }
+            ],
+            "health": 45,
+            "attack": 45,
+            "foil": "foil_matrix_rain_purple",
+            "shieldValue": 200
+          },
+          {
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "attack": 35,
+            "foil": "foil_matrix_rain_purple"
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_purple",
+        "round": 7,
+        "id": "team_r7_1793575393932_cmnrqx",
+        "name": "Glitchy Pants",
+        "totalHp": 235
+      },
       {
         "id": "team_r7_1793376704150_vfipb3",
         "totalAtk": 260,
@@ -26778,6 +27137,76 @@
     ],
     "8": [
       {
+        "name": "Glitchy Pants",
+        "round": 8,
+        "id": "team_r8_1793575508352_ge78rm",
+        "randomSeed": 0.5567492613628034,
+        "timestamp": 1793575508352,
+        "slots": [
+          {
+            "health": 120,
+            "attack": 90,
+            "level": 3,
+            "maxHealth": 120,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 6
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "router_rooster",
+            "attack": 30,
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "copies": 4,
+            "maxHealth": 65,
+            "mods": [
+              {
+                "name": "Pop-up Blocker",
+                "id": "pop_up_blocker",
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "templateId": "spam_pigeon",
+            "shieldValue": 200,
+            "attack": 55,
+            "health": 65,
+            "perks": [
+              "shield"
+            ]
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 20,
+            "templateId": "glitch_rat",
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "health": 50,
+            "templateId": "relay_proxy",
+            "attack": 40,
+            "level": 2,
+            "maxHealth": 50,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalHp": 315,
+        "totalAtk": 235
+      },
+      {
         "id": "team_r8_1793376779656_4iaku5",
         "slots": [
           {
@@ -31311,9 +31740,233 @@
         "randomSeed": 0.7801577637796987,
         "totalHp": 265,
         "id": "team_r8_1791887331167_96rxzd"
+      },
+      {
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 20,
+            "copies": 2,
+            "templateId": "buffer_bug",
+            "health": 20,
+            "attack": 20
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 45,
+            "templateId": "siphon_leech",
+            "health": 45,
+            "attack": 30
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "trojan_exe",
+            "maxHealth": 55,
+            "health": 55,
+            "attack": 35
+          },
+          {
+            "level": 2,
+            "copies": 4,
+            "health": 85,
+            "attack": 60,
+            "templateId": "relay_proxy",
+            "maxHealth": 85
+          },
+          {
+            "attack": 40,
+            "health": 35,
+            "maxHealth": 35,
+            "templateId": "emp_bomber",
+            "copies": 4,
+            "level": 2
+          }
+        ],
+        "losses": 2,
+        "name": "Glitchy Croissant",
+        "timestamp": 1791770471627,
+        "randomSeed": 0.3740889541118867,
+        "wins": 0,
+        "lastBattleTime": 1791929874379,
+        "round": 8,
+        "battlesCount": 2,
+        "totalAtk": 185,
+        "totalHp": 240,
+        "id": "team_r8_1791770471627_m74epc"
+      },
+      {
+        "slots": [
+          {
+            "attack": 65,
+            "health": 65,
+            "level": 1,
+            "maxHealth": 65,
+            "copies": 1,
+            "templateId": "defrag_otter"
+          },
+          {
+            "templateId": "bandwidth_spider",
+            "copies": 2,
+            "maxHealth": 40,
+            "attack": 60,
+            "health": 40,
+            "level": 1
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 35,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "glitch_rat",
+            "level": 1,
+            "health": 35,
+            "attack": 35
+          },
+          {
+            "health": 55,
+            "maxHealth": 55,
+            "attack": 45,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "templateId": "trex",
+            "health": 165,
+            "attack": 165,
+            "level": 2,
+            "maxHealth": 165,
+            "copies": 3
+          }
+        ],
+        "id": "team_r8_1791918098672_mlzig3",
+        "totalHp": 360,
+        "timestamp": 1791918098672,
+        "round": 8,
+        "name": "Frenetic Spatula",
+        "totalAtk": 370,
+        "randomSeed": 0.41360503241155555
       }
     ],
     "9": [
+      {
+        "slots": [
+          {
+            "attack": 100,
+            "foil": "foil_matrix_rain_purple",
+            "health": 155,
+            "maxHealth": 155,
+            "level": 3,
+            "copies": 6,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "attack": 30,
+            "health": 40,
+            "level": 1,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "templateId": "router_rooster",
+            "maxHealth": 40
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Pop-up Blocker",
+                "id": "pop_up_blocker",
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 65,
+            "health": 75,
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_purple",
+            "perks": [
+              "shield"
+            ],
+            "level": 2,
+            "templateId": "spam_pigeon",
+            "shieldValue": 200,
+            "copies": 4
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 35,
+            "perks": [
+              "frontload"
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "health": 35,
+            "templateId": "rootkit_loader",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              }
+            ],
+            "attack": 30
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "name": "SNAP",
+                "bonusAttack": 0,
+                "id": "snap",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1)."
+              }
+            ],
+            "templateId": "glitch_rat",
+            "level": 2,
+            "attack": 35,
+            "health": 50,
+            "copies": 3,
+            "maxHealth": 50,
+            "perks": [
+              "snap"
+            ]
+          }
+        ],
+        "name": "Glitchy Pants",
+        "totalAtk": 260,
+        "totalHp": 355,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "randomSeed": 0.9085883445971802,
+        "round": 9,
+        "timestamp": 1793575663340,
+        "id": "team_r9_1793575663340_om8j4b"
+      },
       {
         "round": 9,
         "timestamp": 1793376832293,
@@ -35651,9 +36304,153 @@
         "timestamp": 1791897428849,
         "totalAtk": 275,
         "id": "team_r9_1791897428849_1ntn6t"
+      },
+      {
+        "timestamp": 1791917394012,
+        "round": 9,
+        "totalAtk": 425,
+        "slots": [
+          {
+            "copies": 1,
+            "templateId": "defrag_otter",
+            "level": 1,
+            "attack": 45,
+            "health": 65,
+            "maxHealth": 65
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "scrap_goat",
+            "health": 150,
+            "attack": 140,
+            "maxHealth": 150
+          },
+          {
+            "attack": 55,
+            "maxHealth": 45,
+            "templateId": "gandhi_exe",
+            "health": 45,
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "attack": 80,
+            "level": 1,
+            "templateId": "golem",
+            "copies": 1
+          },
+          {
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 120,
+            "attack": 105,
+            "health": 120,
+            "templateId": "tank"
+          }
+        ],
+        "id": "team_r9_1791917394012_pfi1fo",
+        "totalHp": 450,
+        "name": "Sarcastic Blender",
+        "randomSeed": 0.8243741487095145
       }
     ],
     "10": [
+      {
+        "totalHp": 390,
+        "name": "Glitchy Pants",
+        "teamFoilId": "foil_matrix_rain_purple",
+        "round": 10,
+        "totalAtk": 295,
+        "timestamp": 1793575842871,
+        "id": "team_r10_1793575842871_13mlxq",
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_purple",
+            "attack": 110,
+            "maxHealth": 165,
+            "health": 165,
+            "copies": 6,
+            "level": 3
+          },
+          {
+            "health": 40,
+            "attack": 30,
+            "level": 1,
+            "templateId": "router_rooster",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "maxHealth": 40
+          },
+          {
+            "level": 3,
+            "copies": 6,
+            "templateId": "spam_pigeon",
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "name": "Self Replicating Code",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 100,
+            "health": 100,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 90
+          },
+          {
+            "level": 1,
+            "templateId": "rootkit_loader",
+            "mods": [
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload"
+              }
+            ],
+            "health": 35,
+            "attack": 30,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "maxHealth": 35,
+            "perks": [
+              "frontload"
+            ]
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 2,
+            "maxHealth": 50,
+            "health": 50,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 35,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "snap",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "name": "SNAP"
+              }
+            ],
+            "copies": 3,
+            "perks": [
+              "snap"
+            ]
+          }
+        ],
+        "randomSeed": 0.5803747100774326
+      },
       {
         "randomSeed": 0.2654892265124008,
         "timestamp": 1793376926330,
@@ -40450,9 +41247,279 @@
         "id": "team_r10_1791921646414_tuikad",
         "battlesCount": 1,
         "totalAtk": 860
+      },
+      {
+        "name": "Glitchy Croissant",
+        "totalHp": 290,
+        "randomSeed": 0.4848517892530839,
+        "totalAtk": 255,
+        "slots": [
+          {
+            "maxHealth": 55,
+            "level": 2,
+            "templateId": "siphon_leech",
+            "copies": 4,
+            "health": 55,
+            "attack": 35
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "health": 75,
+            "maxHealth": 75,
+            "attack": 45,
+            "templateId": "trojan_exe"
+          },
+          {
+            "maxHealth": 95,
+            "copies": 4,
+            "level": 2,
+            "health": 95,
+            "templateId": "relay_proxy",
+            "attack": 60
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "health": 50,
+            "attack": 50,
+            "level": 3,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "name": "Self Replicating Code",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "emp_bomber",
+            "maxHealth": 50,
+            "copies": 6
+          },
+          {
+            "attack": 65,
+            "health": 15,
+            "maxHealth": 15,
+            "templateId": "plasma_microwave",
+            "level": 1,
+            "copies": 2
+          }
+        ],
+        "id": "team_r10_1791770671027_y4o0jp",
+        "timestamp": 1791770671027,
+        "round": 10
+      },
+      {
+        "timestamp": 1791899860923,
+        "totalAtk": 190,
+        "id": "team_r10_1791899860923_pwxd4a",
+        "round": 10,
+        "randomSeed": 0.5034297528508842,
+        "slots": [
+          {
+            "health": 85,
+            "level": 2,
+            "attack": 65,
+            "maxHealth": 85,
+            "copies": 4,
+            "templateId": "priority_queue"
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "maxHealth": 30,
+            "level": 1,
+            "health": 30,
+            "attack": 20
+          },
+          {
+            "maxHealth": 40,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 40,
+            "attack": 25,
+            "level": 2,
+            "templateId": "berserk_node",
+            "copies": 3,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded"
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "copies": 6,
+            "maxHealth": 60,
+            "health": 60,
+            "templateId": "trojan_distributor",
+            "attack": 45
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "relay_proxy",
+            "attack": 35
+          }
+        ],
+        "totalHp": 260,
+        "name": "Feral Meatball"
+      },
+      {
+        "totalAtk": 565,
+        "totalHp": 630,
+        "randomSeed": 0.5279046259985529,
+        "round": 10,
+        "timestamp": 1791880416593,
+        "id": "team_r10_1791880416593_kvcdli",
+        "slots": [
+          {
+            "attack": 190,
+            "health": 210,
+            "maxHealth": 210,
+            "level": 2,
+            "templateId": "scrap_goat",
+            "copies": 4
+          },
+          {
+            "copies": 6,
+            "maxHealth": 70,
+            "templateId": "data_cow",
+            "level": 3,
+            "attack": 65,
+            "health": 70
+          },
+          {
+            "copies": 3,
+            "templateId": "wasp",
+            "level": 2,
+            "maxHealth": 95,
+            "attack": 125,
+            "health": 95
+          },
+          {
+            "maxHealth": 145,
+            "level": 2,
+            "copies": 3,
+            "health": 145,
+            "templateId": "tank",
+            "attack": 105
+          },
+          {
+            "attack": 80,
+            "health": 110,
+            "maxHealth": 110,
+            "templateId": "relay_proxy",
+            "copies": 4,
+            "level": 2
+          }
+        ],
+        "name": "Frenetic Fridge"
       }
     ],
     "11": [
+      {
+        "name": "Glitchy Pants",
+        "id": "team_r11_1793575916236_pmcdjg",
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "health": 165,
+            "attack": 110,
+            "level": 3,
+            "maxHealth": 165,
+            "copies": 6,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "copies": 1,
+            "maxHealth": 40,
+            "templateId": "router_rooster",
+            "level": 1,
+            "health": 40,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 30
+          },
+          {
+            "maxHealth": 120,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "spam_pigeon",
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 3,
+            "attack": 110,
+            "health": 120,
+            "copies": 8,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "id": "frontload",
+                "bonusAttack": 0,
+                "name": "Frontload"
+              }
+            ],
+            "attack": 30,
+            "health": 35,
+            "maxHealth": 35,
+            "copies": 1,
+            "perks": [
+              "frontload"
+            ]
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "name": "SNAP",
+                "bonusAttack": 0,
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "attack": 45,
+            "health": 60,
+            "templateId": "glitch_rat",
+            "copies": 3,
+            "maxHealth": 60,
+            "perks": [
+              "snap"
+            ]
+          }
+        ],
+        "randomSeed": 0.511476651905477,
+        "timestamp": 1793575916236,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalHp": 420,
+        "totalAtk": 325,
+        "round": 11
+      },
       {
         "totalHp": 460,
         "slots": [
@@ -45180,9 +46247,312 @@
           }
         ],
         "randomSeed": 0.5301216184726448
+      },
+      {
+        "id": "team_r11_1792000497870_z4qpcv",
+        "randomSeed": 0.7529753928334237,
+        "round": 11,
+        "name": "Turbo Waffle",
+        "teamFoilId": "foil_prismatic",
+        "totalHp": 345,
+        "slots": [
+          {
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 75,
+            "foil": "foil_prismatic",
+            "health": 75,
+            "attack": 85,
+            "templateId": "bsod"
+          },
+          {
+            "maxHealth": 60,
+            "copies": 2,
+            "foil": "foil_prismatic",
+            "templateId": "crash_dump_exe",
+            "level": 1,
+            "health": 60,
+            "attack": 40
+          },
+          {
+            "copies": 6,
+            "level": 3,
+            "maxHealth": 70,
+            "foil": "foil_prismatic",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "bonusAttack": 0
+              },
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              }
+            ],
+            "templateId": "spam_pigeon",
+            "health": 70,
+            "attack": 60,
+            "perks": [
+              "frontload"
+            ]
+          },
+          {
+            "level": 2,
+            "templateId": "trojan_exe",
+            "copies": 3,
+            "maxHealth": 95,
+            "health": 95,
+            "attack": 80,
+            "foil": "foil_prismatic"
+          },
+          {
+            "level": 2,
+            "copies": 5,
+            "templateId": "rootkit_loader",
+            "health": 45,
+            "attack": 35,
+            "maxHealth": 45,
+            "foil": "foil_prismatic"
+          }
+        ],
+        "arenaSkinId": "arena_villa_straylight",
+        "totalAtk": 300,
+        "timestamp": 1792000497870
+      },
+      {
+        "round": 11,
+        "slots": [
+          {
+            "copies": 2,
+            "maxHealth": 40,
+            "level": 1,
+            "attack": 35,
+            "templateId": "rootkit_loader",
+            "health": 40
+          },
+          {
+            "copies": 1,
+            "templateId": "spam_pigeon",
+            "maxHealth": 20,
+            "attack": 20,
+            "health": 20,
+            "level": 1
+          },
+          {
+            "attack": 75,
+            "health": 95,
+            "maxHealth": 95,
+            "copies": 1,
+            "templateId": "hard_freeze",
+            "level": 1
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 35,
+            "maxHealth": 50,
+            "health": 50,
+            "templateId": "goldfish"
+          },
+          {
+            "health": 70,
+            "level": 2,
+            "attack": 65,
+            "maxHealth": 70,
+            "perks": [
+              "snap"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              },
+              {
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "name": "SNAP",
+                "id": "snap",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "relay_proxy",
+            "copies": 4
+          }
+        ],
+        "totalAtk": 230,
+        "randomSeed": 0.7620537219202281,
+        "totalHp": 275,
+        "timestamp": 1791966866593,
+        "name": "Quantum Shoe",
+        "id": "team_r11_1791966866593_w6mvek"
+      },
+      {
+        "randomSeed": 0.7776158416307483,
+        "round": 11,
+        "timestamp": 1791900005884,
+        "totalAtk": 210,
+        "slots": [
+          {
+            "copies": 4,
+            "templateId": "priority_queue",
+            "level": 2,
+            "attack": 65,
+            "health": 85,
+            "maxHealth": 85
+          },
+          {
+            "health": 30,
+            "level": 1,
+            "attack": 20,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 30,
+            "copies": 1
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "copies": 3,
+            "templateId": "berserk_node",
+            "level": 2,
+            "attack": 25,
+            "health": 40,
+            "maxHealth": 40,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "maxHealth": 65,
+            "copies": 2,
+            "level": 1,
+            "attack": 65,
+            "health": 65,
+            "templateId": "golem"
+          },
+          {
+            "attack": 35,
+            "health": 45,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 45
+          }
+        ],
+        "name": "Feral Meatball",
+        "id": "team_r11_1791900005884_jgro4o",
+        "totalHp": 265
       }
     ],
     "12": [
+      {
+        "totalHp": 445,
+        "round": 12,
+        "name": "Glitchy Pants",
+        "timestamp": 1793576022172,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "id": "team_r12_1793576022172_3gy775",
+        "slots": [
+          {
+            "attack": 120,
+            "maxHealth": 175,
+            "health": 175,
+            "level": 3,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "crash_dump_exe",
+            "copies": 6
+          },
+          {
+            "health": 40,
+            "level": 1,
+            "attack": 30,
+            "maxHealth": 40,
+            "templateId": "router_rooster",
+            "copies": 1,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "maxHealth": 120,
+            "copies": 8,
+            "level": 3,
+            "templateId": "spam_pigeon",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "health": 120,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "attack": 110
+          },
+          {
+            "templateId": "rootkit_loader",
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike."
+              }
+            ],
+            "level": 1,
+            "attack": 30,
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35,
+            "perks": [
+              "frontload"
+            ]
+          },
+          {
+            "perks": [
+              "snap"
+            ],
+            "templateId": "glitch_rat",
+            "health": 75,
+            "attack": 60,
+            "maxHealth": 75,
+            "level": 2,
+            "mods": [
+              {
+                "id": "snap",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusAttack": 0,
+                "name": "SNAP"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 4
+          }
+        ],
+        "randomSeed": 0.19674449099410152,
+        "totalAtk": 350
+      },
       {
         "name": "Sarcastic Avocado",
         "round": 12,
@@ -50376,6 +51746,99 @@
     ],
     "13": [
       {
+        "slots": [
+          {
+            "maxHealth": 195,
+            "copies": 8,
+            "level": 3,
+            "templateId": "crash_dump_exe",
+            "health": 195,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 140
+          },
+          {
+            "templateId": "action_jackson",
+            "maxHealth": 40,
+            "copies": 1,
+            "foil": "foil_matrix_rain_purple",
+            "level": 1,
+            "health": 40,
+            "attack": 20
+          },
+          {
+            "copies": 8,
+            "level": 3,
+            "templateId": "spam_pigeon",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 120,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "id": "self_replicating_code",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "health": 120,
+            "attack": 110
+          },
+          {
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "attack": 30,
+            "mods": [
+              {
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "perks": [
+              "frontload"
+            ]
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "id": "snap",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "name": "SNAP"
+              }
+            ],
+            "copies": 4,
+            "maxHealth": 85,
+            "templateId": "glitch_rat",
+            "perks": [
+              "snap"
+            ],
+            "attack": 70,
+            "health": 85,
+            "level": 2
+          }
+        ],
+        "name": "Glitchy Pants",
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalAtk": 370,
+        "randomSeed": 0.15624982294021672,
+        "round": 13,
+        "timestamp": 1793576151676,
+        "id": "team_r13_1793576151676_742kxe",
+        "totalHp": 475
+      },
+      {
         "name": "Sarcastic Avocado",
         "totalHp": 470,
         "randomSeed": 0.22685020316324733,
@@ -55550,9 +57013,178 @@
         "totalAtk": 1125,
         "battlesCount": 1,
         "randomSeed": 0.05726379930971537
+      },
+      {
+        "id": "team_r13_1791989564409_pkglzk",
+        "name": "Cheesy Duck",
+        "slots": [
+          {
+            "attack": 95,
+            "health": 115,
+            "maxHealth": 115,
+            "level": 1,
+            "copies": 2,
+            "templateId": "ddos_daemon"
+          },
+          {
+            "copies": 4,
+            "maxHealth": 90,
+            "attack": 70,
+            "level": 2,
+            "templateId": "crash_dump_exe",
+            "health": 90
+          },
+          {
+            "shieldValue": 200,
+            "mods": [
+              {
+                "description": "Shield: Prevents up to 200 damage once.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Pop-up Blocker",
+                "id": "pop_up_blocker"
+              }
+            ],
+            "copies": 2,
+            "maxHealth": 135,
+            "perks": [
+              "shield"
+            ],
+            "templateId": "berserk_node",
+            "attack": 70,
+            "health": 135,
+            "level": 1
+          },
+          {
+            "copies": 3,
+            "maxHealth": 50,
+            "templateId": "relay_proxy",
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "level": 2,
+            "attack": 50,
+            "health": 50,
+            "perks": [
+              "trojan_load"
+            ]
+          },
+          {
+            "attack": 30,
+            "health": 20,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "level": 1,
+            "copies": 1,
+            "templateId": "drone_mosquito",
+            "maxHealth": 20,
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "randomSeed": 0.6369102871573707,
+        "timestamp": 1791989564409,
+        "round": 13,
+        "totalHp": 410,
+        "totalAtk": 315
       }
     ],
     "14": [
+      {
+        "randomSeed": 0.5505436378219254,
+        "slots": [
+          {
+            "attack": 145,
+            "maxHealth": 200,
+            "health": 200,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "copies": 9
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "attack": 30,
+            "health": 60,
+            "maxHealth": 60,
+            "copies": 1,
+            "templateId": "armor_pangolin",
+            "level": 1
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 40,
+            "health": 40,
+            "templateId": "action_jackson",
+            "attack": 20,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 120,
+            "copies": 8,
+            "health": 120,
+            "attack": 120,
+            "level": 3,
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "spam_pigeon"
+          },
+          {
+            "perks": [
+              "frontload"
+            ],
+            "copies": 1,
+            "templateId": "rootkit_loader",
+            "maxHealth": 35,
+            "health": 35,
+            "attack": 30,
+            "foil": "foil_matrix_rain_purple",
+            "level": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "id": "frontload",
+                "name": "Frontload",
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "id": "team_r14_1793576267288_35cocc",
+        "name": "Glitchy Pants",
+        "totalAtk": 345,
+        "timestamp": 1793576267288,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "round": 14,
+        "totalHp": 455
+      },
       {
         "timestamp": 1793377208282,
         "slots": [
@@ -60857,9 +62489,141 @@
         "name": "Frenetic Spatula",
         "id": "team_r14_1791918486792_0alwg6",
         "round": 14
+      },
+      {
+        "randomSeed": 0.23875904281385552,
+        "totalHp": 355,
+        "id": "team_r14_1791815070712_cblid8",
+        "totalAtk": 290,
+        "name": "Drunken Bagpipe",
+        "slots": [
+          {
+            "maxHealth": 115,
+            "copies": 2,
+            "level": 1,
+            "templateId": "spaghetti_code",
+            "health": 115,
+            "attack": 85
+          },
+          {
+            "maxHealth": 75,
+            "health": 75,
+            "attack": 45,
+            "level": 1,
+            "templateId": "echo_engine",
+            "copies": 1
+          },
+          {
+            "attack": 55,
+            "health": 60,
+            "templateId": "gandhi_exe",
+            "level": 3,
+            "copies": 8,
+            "maxHealth": 60
+          },
+          {
+            "attack": 55,
+            "maxHealth": 60,
+            "health": 60,
+            "level": 2,
+            "copies": 5,
+            "templateId": "david_exe"
+          },
+          {
+            "copies": 4,
+            "level": 2,
+            "templateId": "drone_mosquito",
+            "health": 45,
+            "maxHealth": 45,
+            "attack": 50
+          }
+        ],
+        "round": 14,
+        "timestamp": 1791815070712
       }
     ],
     "15": [
+      {
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalHp": 455,
+        "slots": [
+          {
+            "attack": 145,
+            "health": 200,
+            "templateId": "crash_dump_exe",
+            "level": 4,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 9,
+            "maxHealth": 200
+          },
+          {
+            "maxHealth": 60,
+            "health": 60,
+            "attack": 30,
+            "level": 1,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1
+          },
+          {
+            "health": 40,
+            "attack": 20,
+            "level": 1,
+            "templateId": "action_jackson",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "maxHealth": 40
+          },
+          {
+            "templateId": "spam_pigeon",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 120,
+            "copies": 8,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "id": "self_replicating_code",
+                "name": "Self Replicating Code"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "attack": 120,
+            "health": 120,
+            "level": 3
+          },
+          {
+            "maxHealth": 35,
+            "attack": 30,
+            "perks": [
+              "frontload"
+            ],
+            "health": 35,
+            "templateId": "rootkit_loader",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "id": "frontload"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "level": 1
+          }
+        ],
+        "id": "team_r15_1793576403450_izshdj",
+        "name": "Glitchy Pants",
+        "totalAtk": 345,
+        "timestamp": 1793576403450,
+        "round": 15,
+        "randomSeed": 0.6072815783810929
+      },
       {
         "slots": [
           {
@@ -65164,6 +66928,87 @@
     ],
     "16": [
       {
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalHp": 460,
+        "totalAtk": 350,
+        "round": 16,
+        "name": "Glitchy Pants",
+        "timestamp": 1793576594652,
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "maxHealth": 200,
+            "copies": 9,
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "health": 200,
+            "attack": 145
+          },
+          {
+            "health": 65,
+            "maxHealth": 65,
+            "attack": 35,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "armor_pangolin",
+            "level": 1,
+            "copies": 2
+          },
+          {
+            "templateId": "action_jackson",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1,
+            "maxHealth": 40,
+            "attack": 20,
+            "health": 40,
+            "level": 1
+          },
+          {
+            "maxHealth": 120,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 8,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 120,
+            "health": 120,
+            "templateId": "spam_pigeon",
+            "level": 3
+          },
+          {
+            "level": 1,
+            "health": 35,
+            "attack": 30,
+            "perks": [
+              "frontload"
+            ],
+            "copies": 1,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "rootkit_loader",
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload",
+                "bonusAttack": 0,
+                "id": "frontload"
+              }
+            ],
+            "maxHealth": 35
+          }
+        ],
+        "id": "team_r16_1793576594652_dryein",
+        "randomSeed": 0.6874170151229784
+      },
+      {
         "round": 16,
         "name": "Sarcastic Avocado",
         "id": "team_r16_1793377323724_a8ssge",
@@ -68670,9 +70515,153 @@
         "battlesCount": 1,
         "totalHp": 445,
         "randomSeed": 0.3652413400044694
+      },
+      {
+        "id": "team_r16_1791890300583_qypv0g",
+        "name": "Cheesy Submarine",
+        "timestamp": 1791890300583,
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 40,
+            "templateId": "ghost_process",
+            "level": 1,
+            "health": 40,
+            "attack": 40
+          },
+          {
+            "maxHealth": 65,
+            "health": 65,
+            "templateId": "golem",
+            "attack": 65,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "attack": 110,
+            "maxHealth": 80,
+            "health": 80,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "copies": 3,
+            "templateId": "trex",
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "health": 90,
+            "level": 2,
+            "attack": 60,
+            "templateId": "trojan_distributor",
+            "copies": 3,
+            "maxHealth": 90
+          },
+          {
+            "templateId": "rootkit_loader",
+            "copies": 4,
+            "level": 2,
+            "health": 70,
+            "maxHealth": 70,
+            "attack": 40
+          }
+        ],
+        "randomSeed": 0.9971822886549939,
+        "totalHp": 345,
+        "totalAtk": 315,
+        "round": 16
       }
     ],
     "17": [
+      {
+        "randomSeed": 0.7139078375766421,
+        "slots": [
+          {
+            "attack": 145,
+            "foil": "foil_matrix_rain_purple",
+            "health": 200,
+            "maxHealth": 200,
+            "level": 4,
+            "copies": 9,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "health": 70,
+            "attack": 40,
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "maxHealth": 70,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3
+          },
+          {
+            "templateId": "action_jackson",
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 20,
+            "level": 1,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 1
+          },
+          {
+            "maxHealth": 125,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "spam_pigeon",
+            "health": 125,
+            "attack": 125,
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "copies": 9,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ]
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload"
+              }
+            ],
+            "level": 2,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 40,
+            "health": 45,
+            "templateId": "rootkit_loader",
+            "copies": 3,
+            "maxHealth": 45,
+            "perks": [
+              "frontload"
+            ]
+          }
+        ],
+        "totalAtk": 370,
+        "id": "team_r17_1793576743997_21t11o",
+        "name": "Glitchy Pants",
+        "timestamp": 1793576743997,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "round": 17,
+        "totalHp": 480
+      },
       {
         "totalHp": 590,
         "timestamp": 1793377384018,
@@ -72456,6 +74445,87 @@
     ],
     "18": [
       {
+        "randomSeed": 0.8394322263274722,
+        "id": "team_r18_1793576879018_2u1zog",
+        "round": 18,
+        "timestamp": 1793576879019,
+        "totalHp": 485,
+        "totalAtk": 375,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "name": "Glitchy Pants",
+        "slots": [
+          {
+            "copies": 9,
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "attack": 145,
+            "templateId": "crash_dump_exe",
+            "health": 200,
+            "maxHealth": 200
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "health": 70,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 40,
+            "maxHealth": 70
+          },
+          {
+            "copies": 2,
+            "foil": "foil_matrix_rain_purple",
+            "level": 1,
+            "maxHealth": 45,
+            "attack": 25,
+            "health": 45,
+            "templateId": "action_jackson"
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 125,
+            "health": 125,
+            "templateId": "spam_pigeon",
+            "attack": 125,
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "copies": 9
+          },
+          {
+            "templateId": "rootkit_loader",
+            "attack": 40,
+            "perks": [
+              "frontload"
+            ],
+            "health": 45,
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "id": "frontload"
+              }
+            ],
+            "copies": 3,
+            "level": 2
+          }
+        ]
+      },
+      {
         "totalAtk": 565,
         "totalHp": 600,
         "randomSeed": 0.6669692006459601,
@@ -75834,6 +77904,87 @@
     ],
     "19": [
       {
+        "slots": [
+          {
+            "maxHealth": 205,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 145,
+            "health": 205,
+            "templateId": "crash_dump_exe",
+            "copies": 9,
+            "level": 4
+          },
+          {
+            "health": 75,
+            "templateId": "armor_pangolin",
+            "attack": 40,
+            "level": 2,
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "templateId": "action_jackson",
+            "foil": "foil_matrix_rain_purple",
+            "attack": 50,
+            "health": 75,
+            "maxHealth": 75
+          },
+          {
+            "copies": 9,
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "level": 4,
+            "maxHealth": 130,
+            "attack": 125,
+            "templateId": "spam_pigeon",
+            "health": 130,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "attack": 60,
+            "foil": "foil_matrix_rain_purple",
+            "health": 70,
+            "mods": [
+              {
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0,
+                "id": "frontload"
+              }
+            ],
+            "maxHealth": 70,
+            "perks": [
+              "frontload"
+            ],
+            "templateId": "rootkit_loader",
+            "level": 2,
+            "copies": 3
+          }
+        ],
+        "totalAtk": 420,
+        "id": "team_r19_1793577107776_3rfiby",
+        "teamFoilId": "foil_matrix_rain_purple",
+        "totalHp": 555,
+        "timestamp": 1793577107776,
+        "name": "Glitchy Pants",
+        "randomSeed": 0.8593570796632616,
+        "round": 19
+      },
+      {
         "round": 19,
         "name": "Vengeful Vacuum",
         "totalAtk": 511,
@@ -78424,6 +80575,87 @@
     ],
     "20": [
       {
+        "round": 20,
+        "id": "team_r20_1793577256118_g9295g",
+        "totalAtk": 445,
+        "name": "Glitchy Pants",
+        "totalHp": 600,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793577256118,
+        "randomSeed": 0.24731333155091562,
+        "slots": [
+          {
+            "attack": 145,
+            "foil": "foil_matrix_rain_purple",
+            "health": 205,
+            "level": 4,
+            "copies": 9,
+            "templateId": "crash_dump_exe",
+            "maxHealth": 205
+          },
+          {
+            "templateId": "armor_pangolin",
+            "copies": 3,
+            "foil": "foil_matrix_rain_purple",
+            "level": 2,
+            "maxHealth": 75,
+            "health": 75,
+            "attack": 40
+          },
+          {
+            "templateId": "action_jackson",
+            "maxHealth": 80,
+            "copies": 4,
+            "foil": "foil_matrix_rain_purple",
+            "level": 2,
+            "attack": 55,
+            "health": 80
+          },
+          {
+            "copies": 9,
+            "level": 4,
+            "maxHealth": 170,
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "spam_pigeon",
+            "health": 170,
+            "attack": 145,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "level": 2,
+            "maxHealth": 70,
+            "health": 70,
+            "attack": 60,
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "rootkit_loader"
+          }
+        ]
+      },
+      {
         "teamFoilId": "foil_neon_pulse",
         "id": "team_r20_1792410425938_vmzi2r",
         "totalAtk": 541,
@@ -80875,6 +83107,87 @@
     ],
     "21": [
       {
+        "round": 21,
+        "randomSeed": 0.6602260343086326,
+        "name": "Glitchy Pants",
+        "totalAtk": 490,
+        "id": "team_r21_1793577682786_coxcv3",
+        "totalHp": 645,
+        "slots": [
+          {
+            "level": 4,
+            "copies": 9,
+            "health": 205,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 145,
+            "maxHealth": 205,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "templateId": "armor_pangolin",
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 75,
+            "health": 75,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 40
+          },
+          {
+            "copies": 5,
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 85,
+            "level": 2,
+            "health": 85,
+            "attack": 60,
+            "templateId": "action_jackson"
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code",
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "maxHealth": 210,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 9,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 185,
+            "health": 210,
+            "level": 4,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "level": 2,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "rootkit_loader",
+            "attack": 60,
+            "maxHealth": 70,
+            "health": 70,
+            "copies": 3,
+            "perks": [
+              "self_replicating_code"
+            ]
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793577682786
+      },
+      {
         "randomSeed": 0.3839092970601822,
         "totalAtk": 586,
         "timestamp": 1792410594450,
@@ -83231,6 +85544,87 @@
       }
     ],
     "22": [
+      {
+        "id": "team_r22_1793577874659_gwxtbd",
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_purple",
+            "attack": 145,
+            "health": 205,
+            "maxHealth": 205,
+            "level": 4,
+            "copies": 9,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "health": 90,
+            "maxHealth": 90,
+            "templateId": "armor_pangolin",
+            "attack": 55,
+            "level": 3,
+            "foil": "foil_matrix_rain_purple",
+            "copies": 6
+          },
+          {
+            "level": 2,
+            "templateId": "action_jackson",
+            "copies": 5,
+            "maxHealth": 85,
+            "health": 85,
+            "attack": 60,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "health": 210,
+            "attack": 185,
+            "templateId": "spam_pigeon",
+            "maxHealth": 210,
+            "foil": "foil_matrix_rain_purple",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "level": 4,
+            "copies": 9
+          },
+          {
+            "attack": 60,
+            "foil": "foil_matrix_rain_purple",
+            "health": 70,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "name": "Self Replicating Code",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 70,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "rootkit_loader",
+            "level": 2,
+            "copies": 3
+          }
+        ],
+        "randomSeed": 0.19416205061640657,
+        "name": "Glitchy Pants",
+        "totalAtk": 505,
+        "round": 22,
+        "timestamp": 1793577874659,
+        "totalHp": 660,
+        "teamFoilId": "foil_matrix_rain_purple"
+      },
       {
         "totalAtk": 651,
         "randomSeed": 0.5335350577314879,
@@ -85900,6 +88294,87 @@
     ],
     "23": [
       {
+        "id": "team_r23_1793578010240_p806fv",
+        "timestamp": 1793578010240,
+        "randomSeed": 0.01958783317660151,
+        "totalHp": 670,
+        "slots": [
+          {
+            "attack": 145,
+            "health": 205,
+            "level": 4,
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 205,
+            "copies": 9,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "level": 3,
+            "copies": 8,
+            "health": 100,
+            "maxHealth": 100,
+            "attack": 65,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "attack": 60,
+            "templateId": "action_jackson",
+            "health": 85,
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 85,
+            "copies": 5,
+            "level": 2
+          },
+          {
+            "level": 4,
+            "health": 210,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "attack": 185,
+            "foil": "foil_matrix_rain_purple",
+            "maxHealth": 210,
+            "copies": 9,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "spam_pigeon"
+          },
+          {
+            "maxHealth": 70,
+            "templateId": "rootkit_loader",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 3,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code"
+              }
+            ],
+            "health": 70,
+            "level": 2,
+            "attack": 60
+          }
+        ],
+        "totalAtk": 515,
+        "name": "Glitchy Pants",
+        "round": 23,
+        "teamFoilId": "foil_matrix_rain_purple"
+      },
+      {
         "timestamp": 1792411046865,
         "round": 23,
         "name": "Vengeful Vacuum",
@@ -88235,6 +90710,87 @@
     ],
     "24": [
       {
+        "round": 24,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793578168098,
+        "name": "Glitchy Pants",
+        "totalHp": 675,
+        "id": "team_r24_1793578168098_n65kqq",
+        "slots": [
+          {
+            "attack": 145,
+            "health": 205,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "crash_dump_exe",
+            "maxHealth": 205,
+            "copies": 9,
+            "level": 4
+          },
+          {
+            "attack": 70,
+            "foil": "foil_matrix_rain_purple",
+            "health": 105,
+            "templateId": "armor_pangolin",
+            "level": 4,
+            "copies": 9,
+            "maxHealth": 105
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "copies": 5,
+            "maxHealth": 85,
+            "templateId": "action_jackson",
+            "level": 2,
+            "attack": 60,
+            "health": 85
+          },
+          {
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code",
+                "bonusHealth": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "copies": 9,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 185,
+            "maxHealth": 210,
+            "health": 210,
+            "level": 4,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "foil": "foil_matrix_rain_purple",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use."
+              }
+            ],
+            "level": 2,
+            "attack": 60,
+            "health": 70,
+            "copies": 3,
+            "maxHealth": 70,
+            "templateId": "rootkit_loader",
+            "perks": [
+              "self_replicating_code"
+            ]
+          }
+        ],
+        "randomSeed": 0.9285232093738165,
+        "totalAtk": 520
+      },
+      {
         "id": "team_r24_1792417067206_w99kcb",
         "round": 24,
         "timestamp": 1792417067206,
@@ -89442,6 +91998,87 @@
       }
     ],
     "25": [
+      {
+        "teamFoilId": "foil_matrix_rain_purple",
+        "slots": [
+          {
+            "copies": 9,
+            "maxHealth": 205,
+            "level": 4,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 145,
+            "health": 205,
+            "templateId": "crash_dump_exe"
+          },
+          {
+            "health": 105,
+            "attack": 70,
+            "maxHealth": 105,
+            "level": 4,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 9
+          },
+          {
+            "maxHealth": 90,
+            "copies": 6,
+            "templateId": "action_jackson",
+            "foil": "foil_matrix_rain_purple",
+            "level": 3,
+            "attack": 65,
+            "health": 90
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "spam_pigeon",
+            "copies": 9,
+            "health": 210,
+            "attack": 185,
+            "level": 4,
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "maxHealth": 210,
+            "foil": "foil_matrix_rain_purple"
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "rootkit_loader",
+            "copies": 3,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "attack": 60,
+            "foil": "foil_matrix_rain_purple",
+            "health": 70,
+            "level": 2,
+            "maxHealth": 70
+          }
+        ],
+        "timestamp": 1793578323289,
+        "name": "Glitchy Pants",
+        "round": 25,
+        "totalHp": 680,
+        "totalAtk": 525,
+        "id": "team_r25_1793578323289_x3b751",
+        "randomSeed": 0.8489958625531973
+      },
       {
         "name": "Vengeful Vacuum",
         "teamFoilId": "foil_neon_pulse",
@@ -90700,6 +93337,87 @@
       }
     ],
     "26": [
+      {
+        "totalHp": 720,
+        "teamFoilId": "foil_matrix_rain_purple",
+        "timestamp": 1793578436368,
+        "totalAtk": 545,
+        "round": 26,
+        "id": "team_r26_1793578436368_oijadg",
+        "name": "Glitchy Pants",
+        "randomSeed": 0.7240122634210621,
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_purple",
+            "copies": 9,
+            "maxHealth": 205,
+            "level": 4,
+            "attack": 145,
+            "health": 205
+          },
+          {
+            "maxHealth": 105,
+            "copies": 9,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_purple",
+            "level": 4,
+            "attack": 70,
+            "health": 105
+          },
+          {
+            "maxHealth": 90,
+            "health": 90,
+            "attack": 65,
+            "level": 3,
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "action_jackson",
+            "copies": 6
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "name": "Self Replicating Code",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "spam_pigeon",
+            "level": 4,
+            "foil": "foil_matrix_rain_purple",
+            "attack": 200,
+            "health": 245,
+            "copies": 9,
+            "maxHealth": 245,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "level": 2,
+            "maxHealth": 75,
+            "health": 75,
+            "attack": 65,
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code"
+              }
+            ],
+            "foil": "foil_matrix_rain_purple",
+            "templateId": "rootkit_loader",
+            "copies": 4,
+            "perks": [
+              "self_replicating_code"
+            ]
+          }
+        ]
+      },
       {
         "slots": [
           {
