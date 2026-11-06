@@ -1,10 +1,68 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1793893602398,
-  "lastSyncDate": "2026-11-05",
-  "totalReadsPerformed": 4846,
+  "lastSyncTimestamp": 1793978501226,
+  "lastSyncDate": "2026-11-06",
+  "totalReadsPerformed": 5019,
   "rounds": {
     "1": [
+      {
+        "totalHp": 145,
+        "totalAtk": 155,
+        "name": "Screaming Meatball",
+        "id": "team_r1_1793964557175_iq4y9l",
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1793964557175,
+        "randomSeed": 0.9831346833072787,
+        "teamFoilId": "foil_matrix_rain_red",
+        "round": 1,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "foil": "foil_matrix_rain_red",
+            "attack": 20,
+            "templateId": "turret_program",
+            "health": 20,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "data_miner",
+            "copies": 1,
+            "health": 30,
+            "attack": 40,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "health": 30,
+            "attack": 40,
+            "maxHealth": 30,
+            "templateId": "data_miner"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "overclocker",
+            "maxHealth": 35,
+            "attack": 35,
+            "health": 35,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 20,
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "maxHealth": 30,
+            "foil": "foil_matrix_rain_red"
+          }
+        ]
+      },
       {
         "randomSeed": 0.7494531514399899,
         "name": "Sarcastic Avocado",
@@ -3606,9 +3664,288 @@
             "copies": 1
           }
         ]
+      },
+      {
+        "totalHp": 105,
+        "randomSeed": 0.13504897282140538,
+        "id": "team_r1_1791897632326_ajgcc2",
+        "totalAtk": 115,
+        "timestamp": 1791897632326,
+        "name": "Furious Marmot",
+        "round": 1,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "attack": 40,
+            "copies": 1,
+            "health": 20,
+            "level": 1,
+            "templateId": "turret_program"
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "data_miner",
+            "attack": 40
+          },
+          null,
+          {
+            "templateId": "glitch_rat",
+            "attack": 15,
+            "copies": 2,
+            "health": 25,
+            "level": 1,
+            "maxHealth": 25
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "templateId": "goldfish",
+            "attack": 20
+          }
+        ]
+      },
+      {
+        "totalHp": 185,
+        "round": 1,
+        "totalAtk": 160,
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "templateId": "loot_tick",
+            "copies": 1,
+            "health": 30,
+            "attack": 25
+          },
+          {
+            "copies": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "level": 1,
+            "templateId": "shield_proxy",
+            "attack": 35
+          },
+          {
+            "attack": 30,
+            "maxHealth": 40,
+            "level": 1,
+            "templateId": "turret_program",
+            "copies": 1,
+            "health": 40
+          },
+          {
+            "templateId": "relay_proxy",
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "templateId": "relay_proxy",
+            "level": 1,
+            "health": 35,
+            "copies": 1,
+            "attack": 35,
+            "maxHealth": 35
+          }
+        ],
+        "name": "Frenetic Spatula",
+        "randomSeed": 0.1394481321984582,
+        "id": "team_r1_1791921183636_17vlm2",
+        "timestamp": 1791921183636
+      },
+      {
+        "id": "team_r1_1791997998016_tk71r5",
+        "slots": [
+          {
+            "level": 1,
+            "health": 20,
+            "copies": 1,
+            "attack": 20,
+            "templateId": "turret_program",
+            "maxHealth": 20
+          },
+          {
+            "level": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30
+          },
+          null,
+          {
+            "level": 1,
+            "copies": 2,
+            "health": 25,
+            "maxHealth": 25,
+            "attack": 15,
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 20,
+            "maxHealth": 30,
+            "templateId": "goldfish",
+            "health": 30,
+            "copies": 1,
+            "level": 1
+          }
+        ],
+        "round": 1,
+        "totalAtk": 95,
+        "randomSeed": 0.14279350718039596,
+        "timestamp": 1791997998016,
+        "name": "Feral Turnip",
+        "totalHp": 105
       }
     ],
     "2": [
+      {
+        "id": "team_r2_1793956732437_dya3e1",
+        "timestamp": 1793956732437,
+        "totalAtk": 135,
+        "slots": [
+          {
+            "level": 1,
+            "health": 40,
+            "copies": 2,
+            "maxHealth": 40,
+            "templateId": "shield_proxy",
+            "attack": 30,
+            "foil": "foil_neon_pulse"
+          },
+          {
+            "attack": 15,
+            "level": 1,
+            "maxHealth": 35,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "foil": "foil_neon_pulse",
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "health": 35,
+            "perks": [
+              "trojan_load"
+            ]
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "templateId": "berserk_node",
+            "maxHealth": 30,
+            "level": 1,
+            "foil": "foil_neon_pulse",
+            "attack": 15
+          },
+          {
+            "attack": 50,
+            "level": 2,
+            "foil": "foil_neon_pulse",
+            "templateId": "data_miner",
+            "health": 50,
+            "copies": 3,
+            "maxHealth": 50
+          },
+          {
+            "foil": "foil_neon_pulse",
+            "templateId": "relay_proxy",
+            "attack": 25,
+            "copies": 1,
+            "health": 35,
+            "maxHealth": 35,
+            "level": 1
+          }
+        ],
+        "round": 2,
+        "totalHp": 190,
+        "teamFoilId": "foil_neon_pulse",
+        "randomSeed": 0.4534378997365279,
+        "name": "Wobbly Badger",
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793964632565,
+        "arenaSkinId": "arena_ruhr_valley",
+        "slots": [
+          {
+            "level": 1,
+            "templateId": "snack_vendor",
+            "health": 30,
+            "copies": 1,
+            "attack": 20,
+            "maxHealth": 30,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 50,
+            "templateId": "data_miner",
+            "health": 40,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 40
+          },
+          {
+            "attack": 35,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 35,
+            "level": 1,
+            "templateId": "overclocker",
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 25,
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 1,
+            "templateId": "relay_proxy",
+            "level": 1
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Back up",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup"
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "templateId": "goldfish",
+            "maxHealth": 30,
+            "attack": 20,
+            "perks": [
+              "backup"
+            ]
+          }
+        ],
+        "randomSeed": 0.0005651751813492423,
+        "round": 2,
+        "id": "team_r2_1793964632565_opp1a3",
+        "totalHp": 160,
+        "totalAtk": 150,
+        "name": "Screaming Meatball"
+      },
       {
         "totalHp": 155,
         "totalAtk": 185,
@@ -7436,6 +7773,146 @@
     ],
     "3": [
       {
+        "name": "Wobbly Badger",
+        "randomSeed": 0.3367059016297538,
+        "totalAtk": 145,
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_neon_pulse",
+        "timestamp": 1793956840339,
+        "totalHp": 195,
+        "round": 3,
+        "id": "team_r3_1793956840339_y5hden",
+        "slots": [
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_neon_pulse",
+            "attack": 15,
+            "level": 1
+          },
+          {
+            "attack": 20,
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "foil": "foil_neon_pulse",
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 1
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "foil": "foil_neon_pulse",
+            "templateId": "data_miner",
+            "attack": 50,
+            "maxHealth": 50,
+            "level": 2
+          },
+          {
+            "maxHealth": 30,
+            "templateId": "berserk_node",
+            "attack": 15,
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "foil": "foil_neon_pulse"
+          },
+          {
+            "templateId": "relay_proxy",
+            "level": 1,
+            "health": 55,
+            "copies": 2,
+            "maxHealth": 55,
+            "attack": 45,
+            "foil": "foil_neon_pulse"
+          }
+        ]
+      },
+      {
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 35,
+            "attack": 25,
+            "templateId": "snack_vendor",
+            "health": 35,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "health": 40,
+            "copies": 3,
+            "templateId": "data_miner",
+            "maxHealth": 40,
+            "attack": 50,
+            "level": 2
+          },
+          {
+            "templateId": "overclocker",
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "health": 35,
+            "copies": 1,
+            "attack": 35,
+            "maxHealth": 35
+          },
+          {
+            "attack": 25,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 25,
+            "templateId": "relay_proxy",
+            "copies": 1,
+            "health": 25,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "mods": [
+              {
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 40,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "goldfish",
+            "level": 2,
+            "copies": 3,
+            "health": 40
+          }
+        ],
+        "round": 3,
+        "totalAtk": 165,
+        "arenaSkinId": "arena_ruhr_valley",
+        "id": "team_r3_1793964707341_tchqpd",
+        "totalHp": 175,
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.17523111965123062,
+        "name": "Screaming Meatball",
+        "timestamp": 1793964707341
+      },
+      {
         "slots": [
           {
             "maxHealth": 20,
@@ -11099,9 +11576,263 @@
         "name": "Microscopic Pigeon",
         "randomSeed": 0.8915698229993975,
         "timestamp": 1791985613794
+      },
+      {
+        "timestamp": 1791976928829,
+        "totalHp": 220,
+        "name": "Cranky Submarine",
+        "round": 3,
+        "slots": [
+          {
+            "copies": 2,
+            "health": 35,
+            "templateId": "buffer_bug",
+            "foil": "foil_prismatic",
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 35
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "templateId": "siphon_leech",
+            "foil": "foil_prismatic",
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 25
+          },
+          {
+            "level": 1,
+            "maxHealth": 45,
+            "foil": "foil_prismatic",
+            "copies": 1,
+            "health": 45,
+            "templateId": "byte_donor",
+            "attack": 45
+          },
+          {
+            "maxHealth": 65,
+            "attack": 50,
+            "templateId": "trojan_distributor",
+            "level": 2,
+            "health": 65,
+            "copies": 3,
+            "foil": "foil_prismatic"
+          },
+          {
+            "maxHealth": 45,
+            "attack": 25,
+            "level": 1,
+            "health": 45,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "foil": "foil_prismatic"
+          }
+        ],
+        "id": "team_r3_1791976928829_d6lkyr",
+        "totalAtk": 185,
+        "randomSeed": 0.4909329567407159,
+        "teamFoilId": "foil_prismatic"
+      },
+      {
+        "id": "team_r3_1791900711496_5pbfx9",
+        "name": "Lethargic Fridge",
+        "randomSeed": 0.4910343941587927,
+        "timestamp": 1791900711496,
+        "teamFoilId": "foil_prismatic",
+        "totalAtk": 180,
+        "slots": [
+          {
+            "copies": 3,
+            "health": 30,
+            "templateId": "turret_program",
+            "foil": "foil_prismatic",
+            "attack": 30,
+            "level": 2,
+            "maxHealth": 30
+          },
+          {
+            "level": 1,
+            "foil": "foil_prismatic",
+            "copies": 2,
+            "health": 30,
+            "attack": 40,
+            "maxHealth": 30,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "copies": 1,
+            "health": 25,
+            "foil": "foil_prismatic",
+            "maxHealth": 25,
+            "templateId": "crypto_staker",
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "health": 30,
+            "copies": 2,
+            "maxHealth": 30,
+            "templateId": "glitch_rat",
+            "foil": "foil_prismatic",
+            "attack": 30,
+            "level": 1
+          },
+          {
+            "attack": 45,
+            "level": 2,
+            "foil": "foil_prismatic",
+            "templateId": "relay_proxy",
+            "maxHealth": 55,
+            "health": 55,
+            "copies": 3
+          }
+        ],
+        "totalHp": 170,
+        "round": 3
       }
     ],
     "4": [
+      {
+        "timestamp": 1793956971769,
+        "totalHp": 200,
+        "teamFoilId": "foil_matrix_rain_red",
+        "name": "Wobbly Badger",
+        "randomSeed": 0.21764801290893465,
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalAtk": 150,
+        "id": "team_r4_1793956971769_z7axm8",
+        "round": 4,
+        "slots": [
+          {
+            "maxHealth": 35,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 35,
+            "copies": 1,
+            "attack": 15,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "level": 1,
+            "templateId": "glitch_rat"
+          },
+          {
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "health": 30,
+            "copies": 2,
+            "maxHealth": 30,
+            "attack": 25,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "health": 50,
+            "copies": 3,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "data_miner",
+            "attack": 50,
+            "level": 2,
+            "maxHealth": 50
+          },
+          {
+            "attack": 15,
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 30,
+            "templateId": "berserk_node",
+            "copies": 1,
+            "health": 30
+          },
+          {
+            "level": 1,
+            "copies": 2,
+            "health": 55,
+            "templateId": "relay_proxy",
+            "maxHealth": 55,
+            "attack": 45,
+            "foil": "foil_matrix_rain_red"
+          }
+        ]
+      },
+      {
+        "name": "Screaming Meatball",
+        "round": 4,
+        "slots": [
+          {
+            "level": 1,
+            "health": 35,
+            "copies": 2,
+            "maxHealth": 35,
+            "templateId": "snack_vendor",
+            "foil": "foil_matrix_rain_red",
+            "attack": 25
+          },
+          {
+            "level": 2,
+            "attack": 50,
+            "foil": "foil_matrix_rain_red",
+            "health": 40,
+            "copies": 3,
+            "templateId": "data_miner",
+            "maxHealth": 40
+          },
+          {
+            "level": 1,
+            "attack": 35,
+            "templateId": "overclocker",
+            "foil": "foil_matrix_rain_red",
+            "health": 35,
+            "maxHealth": 35,
+            "copies": 1
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "health": 25,
+            "templateId": "relay_proxy",
+            "maxHealth": 25,
+            "level": 1,
+            "attack": 25
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "health": 100,
+            "copies": 3,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "backup",
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "attack": 40,
+            "templateId": "goldfish",
+            "maxHealth": 100
+          }
+        ],
+        "arenaSkinId": "arena_ruhr_valley",
+        "randomSeed": 0.9988282781094807,
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793964871212,
+        "totalAtk": 175,
+        "totalHp": 235,
+        "id": "team_r4_1793964871212_2qmo5f"
+      },
       {
         "round": 4,
         "id": "team_r4_1793575028641_3s5eq4",
@@ -15012,9 +15743,267 @@
         "name": "Frenetic Llama",
         "timestamp": 1792033503254,
         "id": "team_r4_1792033503254_cc12x5"
+      },
+      {
+        "id": "team_r4_1791922024774_sn4q3b",
+        "totalHp": 245,
+        "wins": 1,
+        "losses": 1,
+        "totalAtk": 200,
+        "battlesCount": 2,
+        "slots": [
+          {
+            "level": 1,
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35,
+            "templateId": "crypto_staker",
+            "attack": 35
+          },
+          {
+            "attack": 35,
+            "health": 50,
+            "copies": 2,
+            "templateId": "buffer_bug",
+            "level": 1,
+            "maxHealth": 50
+          },
+          {
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 2,
+            "templateId": "defrag_otter",
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "templateId": "goldfish",
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "attack": 60,
+            "maxHealth": 65,
+            "templateId": "scrap_goat",
+            "health": 65,
+            "copies": 1
+          }
+        ],
+        "name": "Crispy Sandwich",
+        "round": 4,
+        "randomSeed": 0.9246128450969402,
+        "lastBattleTime": 1791985841275,
+        "timestamp": 1791922024774
+      },
+      {
+        "id": "team_r4_1792029709814_c5nhe8",
+        "totalHp": 170,
+        "totalAtk": 110,
+        "timestamp": 1792029709814,
+        "name": "Psychic Chihuahua",
+        "randomSeed": 0.9367159552670911,
+        "round": 4,
+        "slots": [
+          {
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "attack": 20,
+            "templateId": "snack_vendor",
+            "maxHealth": 30
+          },
+          {
+            "templateId": "tank",
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 60,
+            "health": 60,
+            "copies": 1
+          },
+          {
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 30,
+            "health": 30,
+            "copies": 1,
+            "templateId": "david_exe"
+          },
+          {
+            "attack": 25,
+            "templateId": "crypto_staker",
+            "level": 1,
+            "health": 25,
+            "maxHealth": 25,
+            "copies": 1
+          },
+          {
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1,
+            "health": 25,
+            "attack": 15,
+            "templateId": "glitch_rat"
+          }
+        ]
       }
     ],
     "5": [
+      {
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalHp": 215,
+        "randomSeed": 0.5407117847740053,
+        "timestamp": 1793957208009,
+        "name": "Wobbly Badger",
+        "round": 5,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 35,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 35,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "glitch_rat",
+            "attack": 15
+          },
+          {
+            "attack": 25,
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "rootkit_loader",
+            "maxHealth": 40,
+            "copies": 2,
+            "health": 40
+          },
+          {
+            "maxHealth": 50,
+            "attack": 50,
+            "level": 2,
+            "templateId": "data_miner",
+            "foil": "foil_matrix_rain_red",
+            "health": 50,
+            "copies": 3
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "templateId": "berserk_node",
+            "level": 1,
+            "attack": 15,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "relay_proxy",
+            "foil": "foil_matrix_rain_red",
+            "attack": 50,
+            "health": 60,
+            "copies": 3,
+            "maxHealth": 60,
+            "level": 2
+          }
+        ],
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalAtk": 155,
+        "id": "team_r5_1793957208009_1l1tyi"
+      },
+      {
+        "arenaSkinId": "arena_ruhr_valley",
+        "name": "Screaming Meatball",
+        "round": 5,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 45,
+            "maxHealth": 55,
+            "level": 2,
+            "templateId": "snack_vendor",
+            "copies": 3,
+            "health": 55
+          },
+          {
+            "level": 1,
+            "maxHealth": 90,
+            "health": 90,
+            "copies": 1,
+            "templateId": "priority_queue",
+            "foil": "foil_matrix_rain_red",
+            "attack": 70
+          },
+          {
+            "health": 80,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 80,
+            "templateId": "tank",
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger"
+              }
+            ],
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "recoil_mule",
+            "perks": [
+              "cascade_trigger"
+            ],
+            "copies": 1,
+            "health": 75,
+            "attack": 50,
+            "level": 1
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "copies": 3,
+            "health": 100,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "goldfish",
+            "attack": 50,
+            "level": 2,
+            "maxHealth": 100
+          }
+        ],
+        "totalHp": 400,
+        "totalAtk": 255,
+        "timestamp": 1793965044335,
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r5_1793965044335_tjh3kv",
+        "randomSeed": 0.7182866929513663
+      },
       {
         "slots": [
           {
@@ -19128,6 +20117,170 @@
       }
     ],
     "6": [
+      {
+        "randomSeed": 0.6983451303246906,
+        "totalHp": 260,
+        "totalAtk": 160,
+        "teamFoilId": "foil_matrix_rain_red",
+        "arenaSkinId": "arena_ruhr_valley",
+        "id": "team_r6_1793957362304_kqbva0",
+        "name": "Wobbly Badger",
+        "timestamp": 1793957362304,
+        "slots": [
+          {
+            "templateId": "glitch_rat",
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 35,
+            "copies": 1,
+            "health": 35,
+            "attack": 15,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 1
+          },
+          {
+            "level": 1,
+            "health": 40,
+            "copies": 2,
+            "maxHealth": 40,
+            "templateId": "rootkit_loader",
+            "foil": "foil_matrix_rain_red",
+            "attack": 25
+          },
+          {
+            "attack": 35,
+            "level": 2,
+            "health": 75,
+            "copies": 4,
+            "templateId": "tank",
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "maxHealth": 50,
+            "foil": "foil_matrix_rain_red",
+            "attack": 35,
+            "level": 1,
+            "templateId": "trojan_exe",
+            "copies": 1,
+            "health": 50
+          },
+          {
+            "maxHealth": 60,
+            "level": 2,
+            "copies": 3,
+            "health": 60,
+            "templateId": "relay_proxy",
+            "foil": "foil_matrix_rain_red",
+            "attack": 50
+          }
+        ],
+        "round": 6
+      },
+      {
+        "timestamp": 1793965261154,
+        "totalHp": 425,
+        "totalAtk": 275,
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r6_1793965261154_2kzsa4",
+        "round": 6,
+        "randomSeed": 0.22432077963517194,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 70,
+            "maxHealth": 90,
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "health": 90,
+            "templateId": "priority_queue"
+          },
+          {
+            "level": 1,
+            "health": 50,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 50,
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 35,
+            "templateId": "berserk_node"
+          },
+          {
+            "level": 1,
+            "maxHealth": 95,
+            "attack": 55,
+            "templateId": "tank",
+            "copies": 1,
+            "health": 95,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger",
+                "name": "Cascade Trigger",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 60,
+            "maxHealth": 85,
+            "templateId": "recoil_mule",
+            "copies": 3,
+            "health": 85,
+            "perks": [
+              "cascade_trigger"
+            ]
+          },
+          {
+            "attack": 55,
+            "perks": [
+              "backup"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusHealth": 0,
+                "id": "backup",
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 105,
+            "copies": 4,
+            "health": 105,
+            "level": 2,
+            "templateId": "goldfish"
+          }
+        ],
+        "name": "Screaming Meatball"
+      },
       {
         "name": "Glitchy Pants",
         "round": 6,
@@ -23788,6 +24941,158 @@
       }
     ],
     "7": [
+      {
+        "name": "Wobbly Badger",
+        "timestamp": 1793957578479,
+        "totalHp": 320,
+        "randomSeed": 0.9094116359671096,
+        "teamFoilId": "foil_matrix_rain_red",
+        "arenaSkinId": "arena_ruhr_valley",
+        "id": "team_r7_1793957578479_5rfvro",
+        "totalAtk": 200,
+        "round": 7,
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 70,
+            "health": 70,
+            "copies": 1,
+            "attack": 45,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "tank",
+            "attack": 55,
+            "level": 2,
+            "copies": 4,
+            "health": 100,
+            "maxHealth": 100,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "action_jackson",
+            "level": 1,
+            "health": 45,
+            "copies": 1,
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red",
+            "attack": 20
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "attack": 35,
+            "health": 40,
+            "copies": 1,
+            "maxHealth": 40,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "glitch_rat"
+          },
+          {
+            "level": 1,
+            "templateId": "rootkit_loader",
+            "health": 65,
+            "copies": 2,
+            "maxHealth": 65,
+            "foil": "foil_matrix_rain_red",
+            "attack": 45
+          }
+        ]
+      },
+      {
+        "totalHp": 455,
+        "id": "team_r7_1793965667104_p5bho7",
+        "randomSeed": 0.4295543740496053,
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793965667104,
+        "slots": [
+          {
+            "maxHealth": 90,
+            "attack": 70,
+            "foil": "foil_matrix_rain_red",
+            "health": 90,
+            "copies": 1,
+            "level": 1,
+            "templateId": "priority_queue"
+          },
+          {
+            "attack": 40,
+            "maxHealth": 70,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "armor_pangolin",
+            "copies": 1,
+            "health": 70,
+            "level": 1
+          },
+          {
+            "maxHealth": 100,
+            "templateId": "tank",
+            "attack": 70,
+            "copies": 2,
+            "health": 100,
+            "level": 1,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "templateId": "recoil_mule",
+            "health": 90,
+            "copies": 4,
+            "mods": [
+              {
+                "id": "cascade_trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "name": "Cascade Trigger",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 90,
+            "attack": 65,
+            "perks": [
+              "cascade_trigger"
+            ]
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "health": 105,
+            "copies": 4,
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "foil": "foil_matrix_rain_red",
+            "attack": 55,
+            "mods": [
+              {
+                "id": "backup",
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "round": 7,
+        "arenaSkinId": "arena_ruhr_valley",
+        "name": "Screaming Meatball",
+        "totalAtk": 300
+      },
       {
         "randomSeed": 0.16476410270359532,
         "timestamp": 1793575393932,
@@ -28810,6 +30115,158 @@
     ],
     "8": [
       {
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793957702003,
+        "arenaSkinId": "arena_ruhr_valley",
+        "slots": [
+          {
+            "attack": 45,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 70,
+            "level": 1,
+            "templateId": "crash_dump_exe",
+            "health": 70,
+            "copies": 1
+          },
+          {
+            "templateId": "tank",
+            "attack": 55,
+            "copies": 4,
+            "level": 2,
+            "health": 100,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 100
+          },
+          {
+            "attack": 20,
+            "level": 1,
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "action_jackson",
+            "health": 45,
+            "copies": 1
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 40,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "glitch_rat",
+            "foil": "foil_matrix_rain_red",
+            "copies": 2,
+            "health": 45,
+            "level": 1,
+            "maxHealth": 45
+          },
+          {
+            "level": 1,
+            "health": 65,
+            "copies": 2,
+            "attack": 45,
+            "templateId": "rootkit_loader",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 65
+          }
+        ],
+        "round": 8,
+        "randomSeed": 0.5120345953341997,
+        "totalAtk": 205,
+        "id": "team_r8_1793957702003_j1qayn",
+        "name": "Wobbly Badger",
+        "totalHp": 325
+      },
+      {
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.8216711573261593,
+        "totalHp": 465,
+        "name": "Screaming Meatball",
+        "totalAtk": 310,
+        "timestamp": 1793966152260,
+        "round": 8,
+        "id": "team_r8_1793966152260_1br3ak",
+        "slots": [
+          {
+            "health": 90,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "priority_queue",
+            "attack": 70,
+            "level": 1,
+            "maxHealth": 90
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 80,
+            "health": 80,
+            "copies": 3,
+            "templateId": "armor_pangolin",
+            "attack": 50,
+            "level": 2
+          },
+          {
+            "health": 100,
+            "copies": 2,
+            "templateId": "tank",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 100,
+            "level": 1,
+            "attack": 70
+          },
+          {
+            "attack": 65,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "templateId": "recoil_mule",
+            "maxHealth": 90,
+            "copies": 4,
+            "health": 90
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "attack": 55,
+            "health": 105,
+            "copies": 4,
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "maxHealth": 105,
+            "mods": [
+              {
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "goldfish"
+          }
+        ]
+      },
+      {
         "name": "Glitchy Pants",
         "round": 8,
         "id": "team_r8_1793575508352_ge78rm",
@@ -33764,9 +35221,455 @@
         ],
         "timestamp": 1792000321858,
         "round": 8
+      },
+      {
+        "totalHp": 245,
+        "id": "team_r8_1791899584281_llgtg4",
+        "name": "Feral Meatball",
+        "slots": [
+          {
+            "maxHealth": 70,
+            "attack": 50,
+            "health": 70,
+            "copies": 1,
+            "level": 1,
+            "templateId": "priority_queue"
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1
+          },
+          {
+            "health": 40,
+            "copies": 3,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 40,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded"
+              }
+            ],
+            "level": 2,
+            "attack": 25,
+            "templateId": "berserk_node"
+          },
+          {
+            "health": 60,
+            "copies": 6,
+            "templateId": "trojan_distributor",
+            "maxHealth": 60,
+            "level": 3,
+            "attack": 45
+          },
+          {
+            "copies": 3,
+            "health": 45,
+            "templateId": "relay_proxy",
+            "attack": 35,
+            "maxHealth": 45,
+            "level": 2
+          }
+        ],
+        "timestamp": 1791899584281,
+        "round": 8,
+        "randomSeed": 0.9244778286545052,
+        "totalAtk": 175
+      },
+      {
+        "teamFoilId": "foil_prismatic",
+        "round": 8,
+        "randomSeed": 0.9719312607000885,
+        "totalAtk": 280,
+        "slots": [
+          {
+            "level": 1,
+            "copies": 2,
+            "health": 65,
+            "foil": "foil_prismatic",
+            "attack": 80,
+            "templateId": "bsod",
+            "maxHealth": 65
+          },
+          {
+            "level": 1,
+            "templateId": "crash_dump_exe",
+            "attack": 35,
+            "maxHealth": 50,
+            "copies": 1,
+            "health": 50,
+            "foil": "foil_prismatic"
+          },
+          {
+            "templateId": "spam_pigeon",
+            "attack": 50,
+            "level": 2,
+            "copies": 4,
+            "health": 55,
+            "foil": "foil_prismatic",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 55
+          },
+          {
+            "maxHealth": 90,
+            "foil": "foil_prismatic",
+            "copies": 3,
+            "health": 90,
+            "level": 2,
+            "attack": 80,
+            "templateId": "trojan_exe"
+          },
+          {
+            "copies": 5,
+            "health": 40,
+            "foil": "foil_prismatic",
+            "templateId": "rootkit_loader",
+            "maxHealth": 40,
+            "level": 2,
+            "attack": 35
+          }
+        ],
+        "timestamp": 1792000131767,
+        "totalHp": 300,
+        "id": "team_r8_1792000131767_uy8i40",
+        "arenaSkinId": "arena_villa_straylight",
+        "name": "Turbo Waffle"
+      },
+      {
+        "round": 8,
+        "slots": [
+          {
+            "maxHealth": 100,
+            "templateId": "ddos_daemon",
+            "attack": 105,
+            "health": 100,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "maxHealth": 55,
+            "copies": 2,
+            "health": 55,
+            "level": 1,
+            "templateId": "bandwidth_spider",
+            "attack": 60
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "maxHealth": 50,
+            "attack": 75
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 3,
+            "health": 30,
+            "level": 2,
+            "templateId": "spam_pigeon",
+            "attack": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 30
+          },
+          {
+            "health": 55,
+            "copies": 5,
+            "maxHealth": 55,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load"
+              }
+            ],
+            "level": 2,
+            "attack": 40,
+            "templateId": "glitch_rat"
+          }
+        ],
+        "totalAtk": 325,
+        "battlesCount": 1,
+        "totalHp": 290,
+        "losses": 0,
+        "name": "Psychic Marmot",
+        "lastBattleTime": 1791919966435,
+        "timestamp": 1791806883211,
+        "randomSeed": 0.9809948280453263,
+        "wins": 1,
+        "id": "team_r8_1791806883211_py3gbq"
       }
     ],
     "9": [
+      {
+        "slots": [
+          {
+            "attack": 50,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 75,
+            "templateId": "crash_dump_exe",
+            "copies": 2,
+            "health": 75
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "templateId": "bsod",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 30,
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "health": 45,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 45,
+            "templateId": "action_jackson"
+          },
+          {
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "maxHealth": 50,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "glitch_rat",
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3,
+            "health": 50,
+            "attack": 45,
+            "level": 2
+          },
+          {
+            "attack": 45,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "maxHealth": 65,
+            "health": 65,
+            "copies": 2
+          }
+        ],
+        "round": 9,
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 200,
+        "id": "team_r9_1793957856386_a26pwy",
+        "randomSeed": 0.5359016290691413,
+        "timestamp": 1793957856386,
+        "name": "Wobbly Badger",
+        "totalHp": 265
+      },
+      {
+        "randomSeed": 0.4992576506386107,
+        "id": "team_r9_1793966463549_1w8upp",
+        "totalAtk": 320,
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalHp": 475,
+        "timestamp": 1793966463549,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "level": 1,
+            "health": 90,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "attack": 70,
+            "maxHealth": 90
+          },
+          {
+            "maxHealth": 80,
+            "level": 2,
+            "copies": 3,
+            "health": 80,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "armor_pangolin",
+            "attack": 50
+          },
+          {
+            "copies": 3,
+            "health": 105,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 105,
+            "templateId": "tank",
+            "attack": 75,
+            "level": 2
+          },
+          {
+            "health": 95,
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 95,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "templateId": "recoil_mule",
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "attack": 70
+          },
+          {
+            "maxHealth": 105,
+            "level": 2,
+            "attack": 55,
+            "health": 105,
+            "copies": 4,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Back up"
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "templateId": "goldfish"
+          }
+        ],
+        "round": 9,
+        "name": "Screaming Meatball"
+      },
+      {
+        "totalHp": 475,
+        "id": "team_r9_1793967086288_31kzkx",
+        "randomSeed": 0.42158142716180913,
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793967086288,
+        "totalAtk": 320,
+        "name": "Screaming Meatball",
+        "arenaSkinId": "arena_ruhr_valley",
+        "slots": [
+          {
+            "maxHealth": 90,
+            "attack": 70,
+            "health": 90,
+            "copies": 1,
+            "level": 1,
+            "templateId": "priority_queue",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "maxHealth": 80,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "copies": 3,
+            "health": 80,
+            "foil": "foil_matrix_rain_red",
+            "attack": 50
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 75,
+            "maxHealth": 105,
+            "templateId": "tank",
+            "health": 105,
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "attack": 70,
+            "templateId": "recoil_mule",
+            "perks": [
+              "cascade_trigger"
+            ],
+            "mods": [
+              {
+                "id": "cascade_trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "maxHealth": 95,
+            "health": 95,
+            "copies": 5
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "attack": 55,
+            "maxHealth": 105,
+            "level": 2,
+            "health": 105,
+            "copies": 4,
+            "mods": [
+              {
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "goldfish",
+            "foil": "foil_matrix_rain_red"
+          }
+        ],
+        "round": 9
+      },
       {
         "slots": [
           {
@@ -38249,9 +40152,322 @@
         "totalHp": 450,
         "name": "Sarcastic Blender",
         "randomSeed": 0.8243741487095145
+      },
+      {
+        "randomSeed": 0.6300749363534154,
+        "totalHp": 625,
+        "totalAtk": 635,
+        "losses": 0,
+        "timestamp": 1791922344547,
+        "lastBattleTime": 1791981126387,
+        "wins": 1,
+        "round": 9,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 105,
+            "templateId": "crypto_staker",
+            "level": 1,
+            "maxHealth": 105,
+            "attack": 120
+          },
+          {
+            "attack": 70,
+            "maxHealth": 45,
+            "level": 2,
+            "templateId": "buffer_bug",
+            "copies": 4,
+            "health": 45
+          },
+          {
+            "level": 3,
+            "attack": 85,
+            "templateId": "defrag_otter",
+            "copies": 8,
+            "health": 150,
+            "maxHealth": 150
+          },
+          {
+            "maxHealth": 105,
+            "templateId": "trex",
+            "level": 2,
+            "copies": 3,
+            "health": 105,
+            "attack": 125
+          },
+          {
+            "attack": 235,
+            "health": 220,
+            "copies": 1,
+            "maxHealth": 220,
+            "templateId": "scrap_goat",
+            "level": 1
+          }
+        ],
+        "id": "team_r9_1791922344547_oq0r4l",
+        "name": "Crispy Sandwich",
+        "battlesCount": 1
+      },
+      {
+        "timestamp": 1791900398100,
+        "totalHp": 305,
+        "id": "team_r9_1791900398100_8qh64c",
+        "randomSeed": 0.6768757037582861,
+        "name": "Spicy Marshmallow",
+        "totalAtk": 300,
+        "round": 9,
+        "slots": [
+          {
+            "attack": 70,
+            "maxHealth": 60,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "blockchain",
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "name": "Blockchain"
+              }
+            ],
+            "level": 2,
+            "templateId": "weapon_proxy",
+            "perks": [
+              "blockchain"
+            ],
+            "health": 60,
+            "copies": 3
+          },
+          {
+            "attack": 95,
+            "level": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "templateId": "holo_triceratops",
+            "maxHealth": 110,
+            "health": 110,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 1
+          },
+          {
+            "attack": 45,
+            "level": 2,
+            "templateId": "trojan_distributor",
+            "maxHealth": 50,
+            "copies": 3,
+            "health": 50
+          },
+          {
+            "attack": 50,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "maxHealth": 40,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3,
+            "health": 40
+          },
+          {
+            "level": 2,
+            "maxHealth": 45,
+            "copies": 3,
+            "health": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusAttack": 0
+              },
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load"
+              }
+            ],
+            "attack": 40,
+            "templateId": "goldfish"
+          }
+        ]
       }
     ],
     "10": [
+      {
+        "slots": [
+          {
+            "level": 2,
+            "maxHealth": 80,
+            "health": 80,
+            "copies": 3,
+            "attack": 55,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "attack": 40,
+            "templateId": "bsod",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "level": 1
+          },
+          {
+            "attack": 20,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 1,
+            "templateId": "action_jackson"
+          },
+          {
+            "maxHealth": 55,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 55,
+            "copies": 4,
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "attack": 50,
+            "foil": "foil_matrix_rain_red",
+            "level": 2
+          },
+          {
+            "level": 1,
+            "templateId": "golem",
+            "health": 60,
+            "copies": 1,
+            "attack": 60,
+            "maxHealth": 60,
+            "foil": "foil_matrix_rain_red"
+          }
+        ],
+        "round": 10,
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1793958067050,
+        "totalAtk": 225,
+        "id": "team_r10_1793958067050_16wr40",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.37288596190644896,
+        "name": "Wobbly Badger",
+        "totalHp": 270
+      },
+      {
+        "totalHp": 510,
+        "totalAtk": 325,
+        "name": "Screaming Meatball",
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.3895916853601149,
+        "timestamp": 1793967254969,
+        "round": 10,
+        "id": "team_r10_1793967254969_gxhj9v",
+        "slots": [
+          {
+            "maxHealth": 90,
+            "templateId": "priority_queue",
+            "attack": 70,
+            "level": 1,
+            "health": 90,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "maxHealth": 110,
+            "templateId": "tank",
+            "attack": 80,
+            "health": 110,
+            "level": 2,
+            "copies": 4,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "armor_pangolin",
+            "attack": 50,
+            "health": 80,
+            "maxHealth": 80,
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "health": 125,
+            "copies": 5,
+            "templateId": "recoil_mule",
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "bonusAttack": 0,
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger"
+              }
+            ],
+            "maxHealth": 125,
+            "attack": 70,
+            "perks": [
+              "cascade_trigger"
+            ]
+          },
+          {
+            "perks": [
+              "self_replicating_code"
+            ],
+            "health": 105,
+            "copies": 4,
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 55,
+            "level": 2
+          }
+        ]
+      },
       {
         "totalHp": 390,
         "name": "Glitchy Pants",
@@ -43536,6 +45752,158 @@
     ],
     "11": [
       {
+        "id": "team_r11_1793958244085_t6m85l",
+        "randomSeed": 0.5707146840131104,
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 240,
+        "name": "Wobbly Badger",
+        "totalHp": 285,
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1793958244085,
+        "slots": [
+          {
+            "health": 85,
+            "copies": 4,
+            "templateId": "crash_dump_exe",
+            "maxHealth": 85,
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "attack": 60
+          },
+          {
+            "copies": 5,
+            "health": 40,
+            "maxHealth": 40,
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "bsod",
+            "attack": 50
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "action_jackson",
+            "copies": 1,
+            "health": 45,
+            "attack": 20,
+            "level": 1,
+            "maxHealth": 45
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "attack": 50,
+            "templateId": "glitch_rat",
+            "copies": 4,
+            "health": 55,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 55
+          },
+          {
+            "level": 1,
+            "attack": 60,
+            "maxHealth": 60,
+            "templateId": "golem",
+            "copies": 1,
+            "health": 60,
+            "foil": "foil_matrix_rain_red"
+          }
+        ],
+        "round": 11
+      },
+      {
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "attack": 70,
+            "copies": 1,
+            "level": 1,
+            "health": 90,
+            "maxHealth": 90,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "tank",
+            "attack": 80,
+            "maxHealth": 110,
+            "copies": 4,
+            "health": 110,
+            "level": 2
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 105,
+            "templateId": "armor_pangolin",
+            "attack": 75,
+            "copies": 4,
+            "health": 105,
+            "level": 2
+          },
+          {
+            "perks": [
+              "cascade_trigger"
+            ],
+            "attack": 75,
+            "templateId": "recoil_mule",
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "id": "cascade_trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice."
+              }
+            ],
+            "maxHealth": 130,
+            "copies": 6,
+            "health": 130,
+            "level": 3
+          },
+          {
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "copies": 4,
+            "health": 105,
+            "attack": 55,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "id": "self_replicating_code"
+              }
+            ],
+            "level": 2
+          }
+        ],
+        "round": 11,
+        "id": "team_r11_1793967465401_v823kg",
+        "totalHp": 540,
+        "randomSeed": 0.6743812451726042,
+        "timestamp": 1793967465401,
+        "totalAtk": 355,
+        "name": "Screaming Meatball",
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
         "name": "Glitchy Pants",
         "id": "team_r11_1793575916236_pmcdjg",
         "slots": [
@@ -48732,6 +51100,158 @@
       }
     ],
     "12": [
+      {
+        "name": "Wobbly Badger",
+        "totalAtk": 235,
+        "teamFoilId": "foil_matrix_rain_red",
+        "arenaSkinId": "arena_ruhr_valley",
+        "randomSeed": 0.5444954231211594,
+        "totalHp": 325,
+        "timestamp": 1793958403455,
+        "round": 12,
+        "slots": [
+          {
+            "templateId": "crash_dump_exe",
+            "health": 90,
+            "copies": 4,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 90,
+            "level": 2,
+            "attack": 60
+          },
+          {
+            "maxHealth": 55,
+            "level": 3,
+            "attack": 60,
+            "templateId": "bsod",
+            "foil": "foil_matrix_rain_red",
+            "copies": 7,
+            "health": 55
+          },
+          {
+            "level": 1,
+            "maxHealth": 50,
+            "copies": 1,
+            "health": 50,
+            "attack": 20,
+            "templateId": "action_jackson",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "glitch_rat",
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 50,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "maxHealth": 60,
+            "copies": 4,
+            "health": 60,
+            "level": 2
+          },
+          {
+            "attack": 45,
+            "foil": "foil_matrix_rain_red",
+            "health": 70,
+            "copies": 2,
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "maxHealth": 70
+          }
+        ],
+        "id": "team_r12_1793958403455_trg042"
+      },
+      {
+        "timestamp": 1793967557802,
+        "totalAtk": 370,
+        "totalHp": 555,
+        "name": "Screaming Meatball",
+        "randomSeed": 0.2301814179407854,
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r12_1793967557802_jfhd29",
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 12,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "foil": "foil_matrix_rain_red",
+            "attack": 70,
+            "maxHealth": 90,
+            "copies": 1,
+            "health": 90,
+            "level": 1
+          },
+          {
+            "health": 110,
+            "copies": 4,
+            "maxHealth": 110,
+            "templateId": "tank",
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "attack": 80
+          },
+          {
+            "health": 120,
+            "copies": 7,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "armor_pangolin",
+            "attack": 90,
+            "maxHealth": 120,
+            "level": 3
+          },
+          {
+            "perks": [
+              "cascade_trigger"
+            ],
+            "maxHealth": 130,
+            "templateId": "recoil_mule",
+            "attack": 75,
+            "health": 130,
+            "copies": 6,
+            "level": 3,
+            "mods": [
+              {
+                "id": "cascade_trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code"
+              }
+            ],
+            "maxHealth": 105,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "copies": 4,
+            "health": 105,
+            "attack": 55,
+            "templateId": "goldfish",
+            "level": 2
+          }
+        ]
+      },
       {
         "totalHp": 445,
         "round": 12,
@@ -54151,6 +56671,158 @@
     ],
     "13": [
       {
+        "totalHp": 335,
+        "totalAtk": 245,
+        "id": "team_r13_1793958520667_si95mk",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.8129900349412387,
+        "timestamp": 1793958520667,
+        "name": "Wobbly Badger",
+        "slots": [
+          {
+            "maxHealth": 90,
+            "templateId": "crash_dump_exe",
+            "attack": 60,
+            "health": 90,
+            "copies": 4,
+            "level": 2,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "copies": 7,
+            "health": 55,
+            "maxHealth": 55,
+            "templateId": "bsod",
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "attack": 60
+          },
+          {
+            "attack": 25,
+            "maxHealth": 55,
+            "templateId": "action_jackson",
+            "level": 1,
+            "health": 55,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "health": 65,
+            "copies": 5,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "attack": 55,
+            "templateId": "glitch_rat",
+            "maxHealth": 65
+          },
+          {
+            "attack": 45,
+            "maxHealth": 70,
+            "level": 1,
+            "templateId": "rootkit_loader",
+            "foil": "foil_matrix_rain_red",
+            "copies": 2,
+            "health": 70
+          }
+        ],
+        "round": 13,
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.80199823187314,
+        "round": 13,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 70,
+            "maxHealth": 90,
+            "templateId": "priority_queue",
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "health": 90
+          },
+          {
+            "health": 110,
+            "copies": 4,
+            "templateId": "tank",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 110,
+            "attack": 80,
+            "level": 2
+          },
+          {
+            "copies": 7,
+            "templateId": "armor_pangolin",
+            "health": 120,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 120,
+            "attack": 90,
+            "level": 3
+          },
+          {
+            "level": 3,
+            "health": 130,
+            "copies": 6,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "cascade_trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice."
+              }
+            ],
+            "templateId": "recoil_mule",
+            "perks": [
+              "cascade_trigger"
+            ],
+            "attack": 75,
+            "maxHealth": 130
+          },
+          {
+            "level": 2,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use."
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "attack": 55,
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "copies": 4,
+            "health": 105,
+            "perks": [
+              "self_replicating_code"
+            ]
+          }
+        ],
+        "arenaSkinId": "arena_ruhr_valley",
+        "id": "team_r13_1793967678986_ymwi5s",
+        "timestamp": 1793967678986,
+        "totalHp": 555,
+        "name": "Screaming Meatball",
+        "totalAtk": 370
+      },
+      {
         "slots": [
           {
             "maxHealth": 195,
@@ -59509,6 +62181,158 @@
       }
     ],
     "14": [
+      {
+        "slots": [
+          {
+            "copies": 5,
+            "health": 95,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_matrix_rain_red",
+            "attack": 65,
+            "level": 2,
+            "maxHealth": 95
+          },
+          {
+            "templateId": "bsod",
+            "health": 60,
+            "copies": 8,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 60,
+            "attack": 65,
+            "level": 3
+          },
+          {
+            "health": 55,
+            "copies": 2,
+            "templateId": "action_jackson",
+            "maxHealth": 55,
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "attack": 25
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 70,
+            "templateId": "glitch_rat",
+            "copies": 6,
+            "health": 70,
+            "attack": 60,
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "copies": 2,
+            "health": 70,
+            "maxHealth": 70,
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "attack": 45
+          }
+        ],
+        "timestamp": 1793958612191,
+        "round": 14,
+        "id": "team_r14_1793958612191_dtqpkb",
+        "totalHp": 350,
+        "name": "Wobbly Badger",
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 260,
+        "randomSeed": 0.9194571817314194,
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
+        "id": "team_r14_1793967814696_zljoav",
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 70,
+            "maxHealth": 90,
+            "copies": 1,
+            "health": 90,
+            "level": 1,
+            "templateId": "priority_queue"
+          },
+          {
+            "copies": 4,
+            "foil": "foil_matrix_rain_red",
+            "health": 110,
+            "maxHealth": 110,
+            "templateId": "tank",
+            "attack": 80,
+            "level": 2
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 90,
+            "templateId": "armor_pangolin",
+            "maxHealth": 120,
+            "health": 120,
+            "copies": 7,
+            "level": 3
+          },
+          {
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "cascade_trigger"
+              }
+            ],
+            "attack": 75,
+            "templateId": "recoil_mule",
+            "copies": 6,
+            "health": 130,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "maxHealth": 130
+          },
+          {
+            "attack": 55,
+            "level": 2,
+            "maxHealth": 105,
+            "copies": 4,
+            "health": 105,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "goldfish",
+            "foil": "foil_matrix_rain_red",
+            "perks": [
+              "self_replicating_code"
+            ]
+          }
+        ],
+        "totalHp": 555,
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 14,
+        "randomSeed": 0.06846578864312847,
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1793967814696,
+        "totalAtk": 370,
+        "name": "Screaming Meatball"
+      },
       {
         "randomSeed": 0.5505436378219254,
         "slots": [
@@ -65186,6 +68010,158 @@
     ],
     "15": [
       {
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1793958817345,
+        "name": "Wobbly Badger",
+        "totalHp": 360,
+        "id": "team_r15_1793958817345_qrvd73",
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 270,
+        "randomSeed": 0.20173317266077828,
+        "slots": [
+          {
+            "maxHealth": 95,
+            "attack": 65,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crash_dump_exe",
+            "health": 95,
+            "copies": 5,
+            "level": 2
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "health": 60,
+            "copies": 8,
+            "templateId": "bsod",
+            "level": 3,
+            "attack": 65,
+            "maxHealth": 60
+          },
+          {
+            "maxHealth": 55,
+            "attack": 25,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "action_jackson",
+            "health": 55,
+            "copies": 2,
+            "level": 1
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 3,
+            "health": 80,
+            "copies": 8,
+            "maxHealth": 80,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 70
+          },
+          {
+            "templateId": "rootkit_loader",
+            "attack": 45,
+            "level": 1,
+            "health": 70,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 70
+          }
+        ],
+        "round": 15
+      },
+      {
+        "id": "team_r15_1793967924840_eqcqnj",
+        "totalHp": 570,
+        "totalAtk": 385,
+        "timestamp": 1793967924840,
+        "randomSeed": 0.8438725384517551,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "priority_queue",
+            "attack": 70,
+            "health": 90,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 90
+          },
+          {
+            "level": 2,
+            "health": 110,
+            "copies": 4,
+            "maxHealth": 110,
+            "foil": "foil_matrix_rain_red",
+            "attack": 80,
+            "templateId": "tank"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 95,
+            "maxHealth": 125,
+            "templateId": "armor_pangolin",
+            "health": 125,
+            "copies": 8,
+            "level": 3
+          },
+          {
+            "level": 3,
+            "templateId": "recoil_mule",
+            "mods": [
+              {
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "attack": 75,
+            "foil": "foil_matrix_rain_red",
+            "health": 130,
+            "copies": 6,
+            "maxHealth": 130,
+            "perks": [
+              "cascade_trigger"
+            ]
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 65,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 115,
+            "health": 115,
+            "copies": 6,
+            "level": 3
+          }
+        ],
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 15,
+        "teamFoilId": "foil_matrix_rain_red",
+        "name": "Screaming Meatball"
+      },
+      {
         "teamFoilId": "foil_matrix_rain_purple",
         "totalHp": 455,
         "slots": [
@@ -69570,6 +72546,88 @@
     ],
     "16": [
       {
+        "timestamp": 1793968034534,
+        "totalAtk": 395,
+        "name": "Screaming Meatball",
+        "round": 16,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "attack": 70,
+            "copies": 1,
+            "health": 90,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 90
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 110,
+            "copies": 4,
+            "health": 110,
+            "level": 2,
+            "attack": 80,
+            "templateId": "tank"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 100,
+            "templateId": "armor_pangolin",
+            "maxHealth": 130,
+            "health": 130,
+            "copies": 9,
+            "level": 4
+          },
+          {
+            "maxHealth": 135,
+            "attack": 80,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice.",
+                "id": "cascade_trigger"
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "templateId": "recoil_mule",
+            "health": 135,
+            "copies": 7,
+            "level": 3
+          },
+          {
+            "attack": 65,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 115,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code"
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "templateId": "goldfish",
+            "health": 115,
+            "copies": 6,
+            "level": 3
+          }
+        ],
+        "totalHp": 580,
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r16_1793968034534_2ed7li",
+        "randomSeed": 0.5725035273509523,
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
         "teamFoilId": "foil_matrix_rain_purple",
         "totalHp": 460,
         "totalAtk": 350,
@@ -73223,6 +76281,100 @@
       }
     ],
     "17": [
+      {
+        "round": 17,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "mods": [
+              {
+                "name": "Temp Buffer",
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "perks": [
+              "temp_buffer"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "health": 90,
+            "level": 1,
+            "attack": 70,
+            "maxHealth": 90
+          },
+          {
+            "maxHealth": 120,
+            "attack": 90,
+            "templateId": "tank",
+            "copies": 6,
+            "foil": "foil_matrix_rain_red",
+            "health": 120,
+            "level": 3
+          },
+          {
+            "attack": 100,
+            "foil": "foil_matrix_rain_red",
+            "level": 4,
+            "maxHealth": 130,
+            "templateId": "armor_pangolin",
+            "copies": 9,
+            "health": 130
+          },
+          {
+            "mods": [
+              {
+                "id": "cascade_trigger",
+                "name": "Cascade Trigger",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Double Strike. Strikes twice during frontline clash, dealing 50% Attack damage each and triggering on-attack abilities twice."
+              }
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "templateId": "recoil_mule",
+            "attack": 80,
+            "copies": 7,
+            "health": 155,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "maxHealth": 155
+          },
+          {
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 115,
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use."
+              }
+            ],
+            "health": 115,
+            "copies": 6,
+            "attack": 65,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "templateId": "goldfish"
+          }
+        ],
+        "id": "team_r17_1793968144381_p5ys9r",
+        "arenaSkinId": "arena_ruhr_valley",
+        "name": "Screaming Meatball",
+        "totalHp": 610,
+        "randomSeed": 0.5908280750173405,
+        "timestamp": 1793968144381,
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 405
+      },
       {
         "randomSeed": 0.7139078375766421,
         "slots": [
