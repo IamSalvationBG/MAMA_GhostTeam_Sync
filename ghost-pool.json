@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1793978501226,
-  "lastSyncDate": "2026-11-06",
-  "totalReadsPerformed": 5019,
+  "lastSyncTimestamp": 1794061179390,
+  "lastSyncDate": "2026-11-07",
+  "totalReadsPerformed": 5172,
   "rounds": {
     "1": [
       {
@@ -3803,6 +3803,124 @@
         "timestamp": 1791997998016,
         "name": "Feral Turnip",
         "totalHp": 105
+      },
+      {
+        "timestamp": 1791925089829,
+        "totalAtk": 95,
+        "round": 1,
+        "randomSeed": 0.7633797235069953,
+        "slots": [
+          {
+            "level": 1,
+            "health": 20,
+            "copies": 2,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "attack": 20
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "maxHealth": 30
+          },
+          null,
+          {
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "health": 45,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 45
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "templateId": "goldfish",
+            "maxHealth": 30,
+            "attack": 20,
+            "level": 1
+          }
+        ],
+        "name": "Sassy Pickle",
+        "totalHp": 125,
+        "id": "team_r1_1791925089829_8mqbsk"
+      },
+      {
+        "id": "team_r1_1791920523924_c18w4x",
+        "round": 1,
+        "timestamp": 1791920523924,
+        "slots": [
+          {
+            "maxHealth": 30,
+            "attack": 25,
+            "templateId": "network_patcher",
+            "health": 30,
+            "copies": 1,
+            "level": 1
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalHp": 30,
+        "randomSeed": 0.7709492077350606,
+        "totalAtk": 25,
+        "name": "Bionic Blender"
+      },
+      {
+        "timestamp": 1791879034707,
+        "slots": [
+          {
+            "level": 1,
+            "copies": 1,
+            "health": 35,
+            "templateId": "shield_proxy",
+            "attack": 25,
+            "maxHealth": 35
+          },
+          {
+            "level": 1,
+            "attack": 35,
+            "maxHealth": 45,
+            "templateId": "byte_donor",
+            "copies": 1,
+            "health": 45
+          },
+          {
+            "level": 1,
+            "maxHealth": 35,
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "health": 35
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "goldfish",
+            "attack": 20,
+            "level": 1
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 2,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 30,
+            "level": 1
+          }
+        ],
+        "totalHp": 185,
+        "randomSeed": 0.7839044577507828,
+        "round": 1,
+        "totalAtk": 125,
+        "id": "team_r1_1791879034707_d4ldc1",
+        "name": "Frenetic Fridge"
       }
     ],
     "2": [
@@ -15849,6 +15967,61 @@
             "templateId": "glitch_rat"
           }
         ]
+      },
+      {
+        "totalHp": 225,
+        "totalAtk": 250,
+        "id": "team_r4_1791660978010_kw6rtt",
+        "slots": [
+          {
+            "templateId": "cyber_pug",
+            "level": 1,
+            "attack": 30,
+            "maxHealth": 40,
+            "copies": 1,
+            "health": 40
+          },
+          {
+            "copies": 3,
+            "health": 50,
+            "maxHealth": 50,
+            "attack": 40,
+            "level": 2,
+            "templateId": "snack_vendor"
+          },
+          {
+            "templateId": "overclock_hub",
+            "attack": 40,
+            "copies": 2,
+            "health": 40,
+            "level": 1,
+            "maxHealth": 40
+          },
+          {
+            "templateId": "wasp",
+            "attack": 45,
+            "maxHealth": 25,
+            "copies": 2,
+            "health": 25,
+            "level": 1
+          },
+          {
+            "copies": 3,
+            "health": 70,
+            "attack": 95,
+            "templateId": "relay_proxy",
+            "maxHealth": 70,
+            "level": 2
+          }
+        ],
+        "randomSeed": 0.22258728301717945,
+        "battlesCount": 1,
+        "round": 4,
+        "wins": 0,
+        "lastBattleTime": 1791917946251,
+        "name": "Feral Lobster",
+        "losses": 1,
+        "timestamp": 1791660978010
       }
     ],
     "5": [
@@ -24938,6 +25111,57 @@
         "totalAtk": 240,
         "randomSeed": 0.16600021940445286,
         "name": "Spicy Marshmallow"
+      },
+      {
+        "randomSeed": 0.2812264059855606,
+        "name": "Bionic Sock",
+        "id": "team_r6_1791563469681_h7mrqw",
+        "totalAtk": 305,
+        "round": 6,
+        "totalHp": 425,
+        "timestamp": 1791563469681,
+        "slots": [
+          {
+            "templateId": "scrap_goat",
+            "level": 2,
+            "attack": 170,
+            "maxHealth": 190,
+            "health": 190,
+            "copies": 3
+          },
+          {
+            "attack": 45,
+            "templateId": "vanguard_feeder",
+            "health": 75,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 75
+          },
+          {
+            "maxHealth": 65,
+            "templateId": "goldfish",
+            "level": 2,
+            "attack": 35,
+            "copies": 3,
+            "health": 65
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "health": 55,
+            "templateId": "trojan_exe",
+            "maxHealth": 55,
+            "attack": 35
+          },
+          {
+            "attack": 20,
+            "maxHealth": 40,
+            "copies": 1,
+            "health": 40,
+            "templateId": "firewall_umbrella",
+            "level": 1
+          }
+        ]
       }
     ],
     "7": [
@@ -30111,6 +30335,120 @@
             "templateId": "overclock_hub"
           }
         ]
+      },
+      {
+        "totalHp": 275,
+        "randomSeed": 0.0235841196585439,
+        "slots": [
+          {
+            "attack": 35,
+            "maxHealth": 30,
+            "templateId": "router_rooster",
+            "copies": 2,
+            "health": 30,
+            "level": 1
+          },
+          {
+            "level": 2,
+            "maxHealth": 55,
+            "copies": 3,
+            "health": 55,
+            "templateId": "crypto_staker",
+            "attack": 60
+          },
+          {
+            "attack": 45,
+            "health": 50,
+            "copies": 3,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 50,
+            "level": 2
+          },
+          {
+            "attack": 50,
+            "maxHealth": 55,
+            "copies": 6,
+            "health": 55,
+            "level": 3,
+            "templateId": "glitch_rat"
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "attack": 100,
+            "maxHealth": 85,
+            "copies": 7,
+            "health": 85,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "id": "backup",
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 3,
+            "templateId": "goldfish"
+          }
+        ],
+        "name": "Fluffy Pants",
+        "round": 7,
+        "timestamp": 1791812069669,
+        "totalAtk": 290,
+        "id": "team_r7_1791812069669_m4syxn"
+      },
+      {
+        "name": "Hypnotic Badger",
+        "round": 7,
+        "totalHp": 265,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 90,
+            "attack": 70,
+            "level": 1,
+            "maxHealth": 90,
+            "templateId": "ddos_daemon"
+          },
+          {
+            "copies": 3,
+            "health": 55,
+            "maxHealth": 55,
+            "templateId": "shield_proxy",
+            "attack": 55,
+            "level": 2
+          },
+          {
+            "attack": 80,
+            "templateId": "weapon_proxy",
+            "health": 60,
+            "copies": 6,
+            "maxHealth": 60,
+            "level": 3
+          },
+          {
+            "templateId": "rootkit_loader",
+            "level": 1,
+            "copies": 1,
+            "health": 25,
+            "maxHealth": 25,
+            "attack": 20
+          },
+          {
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "health": 35,
+            "maxHealth": 35,
+            "attack": 15,
+            "level": 1
+          }
+        ],
+        "randomSeed": 0.0336788928789058,
+        "timestamp": 1791914804041,
+        "id": "team_r7_1791914804041_yxsep4",
+        "totalAtk": 240
       }
     ],
     "8": [
@@ -45748,6 +46086,67 @@
         "lastBattleTime": 1792001129290,
         "battlesCount": 1,
         "wins": 0
+      },
+      {
+        "lastBattleTime": 1791991471150,
+        "slots": [
+          {
+            "templateId": "load_balancer",
+            "level": 2,
+            "attack": 70,
+            "foil": "foil_matrix_rain",
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 3
+          },
+          {
+            "health": 60,
+            "copies": 1,
+            "templateId": "spaghetti_code",
+            "attack": 30,
+            "maxHealth": 60,
+            "foil": "foil_matrix_rain",
+            "level": 1
+          },
+          {
+            "level": 2,
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 40,
+            "foil": "foil_matrix_rain",
+            "health": 40,
+            "copies": 3
+          },
+          {
+            "attack": 30,
+            "level": 2,
+            "templateId": "siphon_leech",
+            "foil": "foil_matrix_rain",
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 3
+          },
+          {
+            "health": 80,
+            "copies": 3,
+            "maxHealth": 80,
+            "templateId": "armor_pangolin",
+            "attack": 50,
+            "foil": "foil_matrix_rain",
+            "level": 2
+          }
+        ],
+        "id": "team_r10_1791922647439_mjq6an",
+        "teamFoilId": "foil_matrix_rain",
+        "totalAtk": 210,
+        "totalHp": 330,
+        "battlesCount": 1,
+        "timestamp": 1791922647439,
+        "round": 10,
+        "randomSeed": 0.18491036659960147,
+        "name": "Dramatic Pineapple",
+        "losses": 1,
+        "wins": 0
       }
     ],
     "11": [
@@ -56667,6 +57066,67 @@
         "randomSeed": 0.15912201436734874,
         "id": "team_r12_1791966966149_r62e64",
         "timestamp": 1791966966149
+      },
+      {
+        "slots": [
+          {
+            "copies": 5,
+            "health": 55,
+            "maxHealth": 55,
+            "foil": "foil_prismatic",
+            "attack": 35,
+            "level": 2,
+            "templateId": "data_cow"
+          },
+          {
+            "maxHealth": 145,
+            "level": 3,
+            "copies": 6,
+            "health": 145,
+            "foil": "foil_prismatic",
+            "attack": 115,
+            "templateId": "spawn_camper"
+          },
+          {
+            "maxHealth": 110,
+            "attack": 110,
+            "foil": "foil_prismatic",
+            "health": 110,
+            "copies": 7,
+            "level": 3,
+            "templateId": "david_exe"
+          },
+          {
+            "attack": 35,
+            "foil": "foil_prismatic",
+            "maxHealth": 55,
+            "copies": 4,
+            "health": 55,
+            "level": 2,
+            "templateId": "goldfish"
+          },
+          {
+            "maxHealth": 10,
+            "level": 2,
+            "copies": 3,
+            "health": 10,
+            "foil": "foil_prismatic",
+            "templateId": "plasma_microwave",
+            "attack": 60
+          }
+        ],
+        "battlesCount": 1,
+        "teamFoilId": "foil_prismatic",
+        "losses": 1,
+        "lastBattleTime": 1791921061298,
+        "totalHp": 375,
+        "id": "team_r12_1791898456915_93n1e6",
+        "round": 12,
+        "wins": 0,
+        "randomSeed": 0.6577500388133494,
+        "name": "Sarcastic Hamster",
+        "totalAtk": 355,
+        "timestamp": 1791898456915
       }
     ],
     "13": [
@@ -62178,6 +62638,57 @@
         "round": 13,
         "totalHp": 410,
         "totalAtk": 315
+      },
+      {
+        "timestamp": 1791814972092,
+        "id": "team_r13_1791814972092_gpbnwb",
+        "totalHp": 350,
+        "randomSeed": 0.598858892881931,
+        "totalAtk": 285,
+        "name": "Drunken Bagpipe",
+        "slots": [
+          {
+            "health": 115,
+            "copies": 2,
+            "maxHealth": 115,
+            "attack": 85,
+            "level": 1,
+            "templateId": "spaghetti_code"
+          },
+          {
+            "health": 75,
+            "copies": 1,
+            "maxHealth": 75,
+            "attack": 45,
+            "level": 1,
+            "templateId": "echo_engine"
+          },
+          {
+            "level": 3,
+            "templateId": "gandhi_exe",
+            "attack": 55,
+            "copies": 8,
+            "health": 60,
+            "maxHealth": 60
+          },
+          {
+            "attack": 50,
+            "templateId": "david_exe",
+            "health": 55,
+            "copies": 4,
+            "maxHealth": 55,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "attack": 50,
+            "maxHealth": 45,
+            "templateId": "drone_mosquito",
+            "health": 45,
+            "copies": 4
+          }
+        ],
+        "round": 13
       }
     ],
     "14": [
@@ -72542,6 +73053,57 @@
         "timestamp": 1791915532770,
         "totalAtk": 385,
         "name": "Hypnotic Badger"
+      },
+      {
+        "timestamp": 1791919498866,
+        "totalHp": 750,
+        "name": "Feral Keyboard",
+        "totalAtk": 715,
+        "id": "team_r15_1791919498866_n9ync7",
+        "randomSeed": 0.07580761703518957,
+        "round": 15,
+        "slots": [
+          {
+            "health": 175,
+            "copies": 2,
+            "level": 1,
+            "attack": 175,
+            "templateId": "drag_n_drop",
+            "maxHealth": 175
+          },
+          {
+            "templateId": "bandwidth_spider",
+            "level": 1,
+            "health": 95,
+            "copies": 1,
+            "attack": 95,
+            "maxHealth": 95
+          },
+          {
+            "copies": 1,
+            "health": 165,
+            "maxHealth": 165,
+            "attack": 130,
+            "level": 1,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "health": 195,
+            "copies": 4,
+            "maxHealth": 195,
+            "templateId": "relay_proxy",
+            "attack": 195,
+            "level": 2
+          },
+          {
+            "attack": 120,
+            "maxHealth": 120,
+            "health": 120,
+            "copies": 1,
+            "level": 1,
+            "templateId": "golem"
+          }
+        ]
       }
     ],
     "16": [
