@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794061179390,
-  "lastSyncDate": "2026-11-07",
-  "totalReadsPerformed": 5172,
+  "lastSyncTimestamp": 1794148206402,
+  "lastSyncDate": "2026-11-08",
+  "totalReadsPerformed": 5324,
   "rounds": {
     "1": [
       {
@@ -3921,6 +3921,57 @@
         "totalAtk": 125,
         "id": "team_r1_1791879034707_d4ldc1",
         "name": "Frenetic Fridge"
+      },
+      {
+        "randomSeed": 0.6388129785684052,
+        "name": "Psychic Chihuahua",
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "attack": 20,
+            "health": 20
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "attack": 25,
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "network_patcher"
+          },
+          {
+            "level": 1,
+            "maxHealth": 35,
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "health": 35,
+            "attack": 25
+          },
+          {
+            "attack": 35,
+            "health": 35,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 35
+          },
+          {
+            "attack": 25,
+            "health": 25,
+            "templateId": "relay_proxy",
+            "level": 1,
+            "maxHealth": 25,
+            "copies": 1
+          }
+        ],
+        "timestamp": 1792029442442,
+        "totalAtk": 130,
+        "round": 1,
+        "totalHp": 145,
+        "id": "team_r1_1792029442442_jmgind"
       }
     ],
     "2": [
@@ -16022,6 +16073,144 @@
         "name": "Feral Lobster",
         "losses": 1,
         "timestamp": 1791660978010
+      },
+      {
+        "name": "Stinky Vacuum",
+        "id": "team_r4_1791896822889_tmovd6",
+        "round": 4,
+        "timestamp": 1791896822889,
+        "totalHp": 140,
+        "totalAtk": 135,
+        "slots": [
+          {
+            "attack": 20,
+            "health": 20,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "health": 30,
+            "attack": 40,
+            "templateId": "data_miner",
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 2
+          },
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "attack": 20,
+            "templateId": "trojan_distributor",
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 15,
+            "health": 25,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 25
+          },
+          {
+            "level": 1,
+            "templateId": "goldfish",
+            "copies": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 40
+          }
+        ],
+        "randomSeed": 0.9593971270919659
+      },
+      {
+        "randomSeed": 0.9596203826185807,
+        "round": 4,
+        "id": "team_r4_1791902964836_p2bbgf",
+        "name": "Snooty Spoon",
+        "slots": [
+          {
+            "level": 1,
+            "attack": 45,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "weapon_proxy",
+            "copies": 1
+          },
+          {
+            "maxHealth": 40,
+            "copies": 1,
+            "templateId": "shield_proxy",
+            "health": 40,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "templateId": "wasp",
+            "perks": [
+              "backup"
+            ],
+            "level": 1,
+            "maxHealth": 55,
+            "health": 55,
+            "attack": 40,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "name": "Back up"
+              }
+            ]
+          },
+          {
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 50,
+            "attack": 45,
+            "copies": 3,
+            "maxHealth": 50,
+            "templateId": "relay_proxy"
+          },
+          {
+            "templateId": "spam_pigeon",
+            "health": 25,
+            "attack": 25,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 25
+          }
+        ],
+        "totalHp": 200,
+        "totalAtk": 190,
+        "timestamp": 1791902964836
       }
     ],
     "5": [
@@ -20287,6 +20476,112 @@
         "totalAtk": 165,
         "losses": 0,
         "lastBattleTime": 1791887101847
+      },
+      {
+        "randomSeed": 0.21801493106288583,
+        "name": "Blazing Vacuum",
+        "round": 5,
+        "id": "team_r5_1791825389203_mj6kx0",
+        "totalAtk": 205,
+        "slots": [
+          {
+            "templateId": "firmware_ferret",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 35,
+            "health": 30
+          },
+          {
+            "attack": 40,
+            "health": 25,
+            "maxHealth": 25,
+            "templateId": "crypto_staker",
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "level": 1,
+            "health": 25,
+            "attack": 40,
+            "templateId": "drone_mosquito",
+            "maxHealth": 25,
+            "copies": 2
+          },
+          {
+            "copies": 2,
+            "templateId": "tank",
+            "level": 1,
+            "maxHealth": 65,
+            "health": 65,
+            "attack": 30
+          },
+          {
+            "copies": 6,
+            "level": 3,
+            "templateId": "goldfish",
+            "maxHealth": 55,
+            "attack": 60,
+            "health": 55
+          }
+        ],
+        "timestamp": 1791825389203,
+        "totalHp": 200
+      },
+      {
+        "lastBattleTime": 1791922594039,
+        "battlesCount": 1,
+        "slots": [
+          {
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 20,
+            "attack": 40,
+            "health": 20,
+            "templateId": "turret_program"
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "maxHealth": 40,
+            "copies": 3,
+            "health": 40,
+            "attack": 30,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "attack": 25,
+            "health": 40,
+            "copies": 3,
+            "maxHealth": 40,
+            "templateId": "berserk_node"
+          },
+          {
+            "templateId": "goldfish",
+            "level": 2,
+            "attack": 30,
+            "health": 40,
+            "maxHealth": 40,
+            "copies": 3
+          }
+        ],
+        "totalAtk": 165,
+        "id": "team_r5_1791886949822_bawn9s",
+        "name": "Haunted Waffle",
+        "timestamp": 1791886949822,
+        "wins": 0,
+        "losses": 1,
+        "totalHp": 170,
+        "randomSeed": 0.23000225861242274,
+        "round": 5
       }
     ],
     "6": [
@@ -25162,6 +25457,64 @@
             "level": 1
           }
         ]
+      },
+      {
+        "id": "team_r6_1792021647188_wfuw3e",
+        "randomSeed": 0.1160327592119863,
+        "name": "Screaming Chicken",
+        "round": 6,
+        "arenaSkinId": "arena_villa_straylight",
+        "totalAtk": 305,
+        "slots": [
+          {
+            "foil": "foil_prismatic",
+            "maxHealth": 40,
+            "attack": 60,
+            "health": 40,
+            "level": 2,
+            "templateId": "weapon_proxy",
+            "copies": 3
+          },
+          {
+            "health": 55,
+            "attack": 65,
+            "templateId": "spam_pigeon",
+            "maxHealth": 55,
+            "level": 2,
+            "foil": "foil_prismatic",
+            "copies": 4
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 45,
+            "templateId": "rootkit_loader",
+            "foil": "foil_prismatic",
+            "copies": 1
+          },
+          {
+            "health": 55,
+            "attack": 55,
+            "maxHealth": 55,
+            "templateId": "glitch_rat",
+            "foil": "foil_prismatic",
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "copies": 2,
+            "templateId": "scrap_goat",
+            "foil": "foil_prismatic",
+            "level": 1,
+            "maxHealth": 80,
+            "health": 80,
+            "attack": 80
+          }
+        ],
+        "teamFoilId": "foil_prismatic",
+        "timestamp": 1792021647188,
+        "totalHp": 260
       }
     ],
     "7": [
@@ -57127,6 +57480,76 @@
         "name": "Sarcastic Hamster",
         "totalAtk": 355,
         "timestamp": 1791898456915
+      },
+      {
+        "slots": [
+          {
+            "templateId": "scrap_goat",
+            "maxHealth": 350,
+            "attack": 340,
+            "health": 350,
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "maxHealth": 80,
+            "copies": 3,
+            "level": 2,
+            "templateId": "vanguard_feeder",
+            "attack": 50,
+            "health": 80
+          },
+          {
+            "copies": 7,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              },
+              {
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "refactoring_expert"
+            ],
+            "level": 3,
+            "maxHealth": 140,
+            "templateId": "armor_pangolin",
+            "health": 140,
+            "attack": 1
+          },
+          {
+            "templateId": "trojan_exe",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 65,
+            "attack": 35,
+            "health": 65
+          },
+          {
+            "templateId": "goldfish",
+            "health": 65,
+            "attack": 35,
+            "maxHealth": 65,
+            "copies": 3,
+            "level": 2
+          }
+        ],
+        "randomSeed": 0.6186942425147494,
+        "totalAtk": 461,
+        "timestamp": 1791564633096,
+        "totalHp": 700,
+        "id": "team_r12_1791564633096_gb1xqf",
+        "round": 12,
+        "name": "Bionic Sock"
       }
     ],
     "13": [
