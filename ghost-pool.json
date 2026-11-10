@@ -1,10 +1,73 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794246469913,
-  "lastSyncDate": "2026-11-09",
-  "totalReadsPerformed": 5459,
+  "lastSyncTimestamp": 1794325552486,
+  "lastSyncDate": "2026-11-10",
+  "totalReadsPerformed": 5605,
   "rounds": {
     "1": [
+      {
+        "id": "team_r1_1794322403125_0rwvh9",
+        "totalHp": 145,
+        "timestamp": 1794322403125,
+        "slots": [
+          {
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 25,
+            "templateId": "loot_tick",
+            "health": 30
+          },
+          {
+            "attack": 35,
+            "copies": 1,
+            "maxHealth": 25,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "health": 25
+          },
+          {
+            "templateId": "malware_injector",
+            "level": 1,
+            "health": 25,
+            "maxHealth": 25,
+            "copies": 1,
+            "attack": 30
+          },
+          {
+            "templateId": "siphon_leech",
+            "copies": 1,
+            "maxHealth": 30,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "attack": 30,
+            "health": 30,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ]
+          },
+          {
+            "health": 35,
+            "level": 1,
+            "maxHealth": 35,
+            "copies": 1,
+            "attack": 30,
+            "templateId": "trojan_distributor"
+          }
+        ],
+        "totalAtk": 150,
+        "round": 1,
+        "randomSeed": 0.4653565828968371,
+        "name": "Stinky Pickle"
+      },
       {
         "totalHp": 145,
         "totalAtk": 155,
@@ -4067,9 +4130,128 @@
             "health": 25
           }
         ]
+      },
+      {
+        "name": "Spicy Marshmallow",
+        "slots": [
+          {
+            "attack": 20,
+            "copies": 2,
+            "health": 20,
+            "level": 1,
+            "maxHealth": 20,
+            "templateId": "turret_program"
+          },
+          {
+            "templateId": "data_miner",
+            "health": 30,
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 30,
+            "attack": 40
+          },
+          null,
+          {
+            "level": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "attack": 15
+          },
+          {
+            "health": 30,
+            "level": 1,
+            "copies": 1,
+            "templateId": "goldfish",
+            "maxHealth": 30,
+            "attack": 20
+          }
+        ],
+        "id": "team_r1_1792005083998_524c1j",
+        "timestamp": 1792005083998,
+        "totalAtk": 95,
+        "totalHp": 105,
+        "randomSeed": 0.40648489881603844,
+        "round": 1
       }
     ],
     "2": [
+      {
+        "name": "Stinky Pickle",
+        "totalAtk": 170,
+        "timestamp": 1794322502535,
+        "slots": [
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 40,
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "copies": 2
+          },
+          {
+            "attack": 30,
+            "templateId": "goldfish",
+            "copies": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1
+          },
+          {
+            "health": 30,
+            "templateId": "malware_injector",
+            "attack": 35,
+            "maxHealth": 30,
+            "copies": 2,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "templateId": "siphon_leech",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "copies": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 35,
+            "templateId": "trojan_distributor",
+            "health": 40,
+            "maxHealth": 40
+          }
+        ],
+        "totalHp": 160,
+        "randomSeed": 0.48111949587498504,
+        "id": "team_r2_1794322502535_y8qnzp",
+        "round": 2
+      },
       {
         "id": "team_r2_1793956732437_dya3e1",
         "timestamp": 1793956732437,
@@ -8033,9 +8215,147 @@
             "maxHealth": 20
           }
         ]
+      },
+      {
+        "randomSeed": 0.6296999401584812,
+        "name": "Feral Teapot",
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "attack": 20,
+            "health": 20
+          },
+          {
+            "health": 30,
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 2,
+            "templateId": "data_miner"
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "attack": 20
+          },
+          {
+            "health": 45,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "attack": 15,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 40,
+            "copies": 3,
+            "templateId": "goldfish"
+          }
+        ],
+        "id": "team_r2_1791819083061_mvjehd",
+        "totalHp": 165,
+        "totalAtk": 125,
+        "timestamp": 1791819083061,
+        "round": 2
       }
     ],
     "3": [
+      {
+        "totalAtk": 185,
+        "id": "team_r3_1794322642229_zffwfh",
+        "timestamp": 1794322642229,
+        "name": "Stinky Pickle",
+        "randomSeed": 0.0829056863944756,
+        "round": 3,
+        "totalHp": 175,
+        "slots": [
+          {
+            "copies": 3,
+            "level": 2,
+            "templateId": "weapon_proxy",
+            "attack": 45,
+            "health": 35,
+            "maxHealth": 35
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "goldfish",
+            "attack": 30,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "health": 35,
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 35,
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "malware_injector",
+            "copies": 3,
+            "attack": 40
+          },
+          {
+            "health": 35,
+            "templateId": "siphon_leech",
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "attack": 35
+          },
+          {
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "trojan_distributor",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "health": 40,
+            "copies": 2,
+            "attack": 35,
+            "maxHealth": 40
+          }
+        ]
+      },
       {
         "name": "Wobbly Badger",
         "randomSeed": 0.3367059016297538,
@@ -12123,9 +12443,198 @@
         "round": 3,
         "name": "Gigantic Rubberduck",
         "totalHp": 155
+      },
+      {
+        "id": "team_r3_1792031879733_c8dxeq",
+        "slots": [
+          {
+            "copies": 1,
+            "level": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "attack": 20,
+            "copies": 1,
+            "level": 1,
+            "health": 30,
+            "templateId": "snack_vendor",
+            "maxHealth": 30
+          },
+          {
+            "health": 35,
+            "templateId": "byte_donor",
+            "attack": 35,
+            "maxHealth": 35,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35,
+            "templateId": "trojan_distributor",
+            "attack": 20
+          },
+          {
+            "templateId": "goldfish",
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1,
+            "attack": 20
+          }
+        ],
+        "totalHp": 160,
+        "totalAtk": 135,
+        "randomSeed": 0.14071268639516077,
+        "round": 3,
+        "name": "Frenetic Badger",
+        "timestamp": 1792031879733
+      },
+      {
+        "totalAtk": 210,
+        "round": 3,
+        "timestamp": 1791660869778,
+        "totalHp": 150,
+        "randomSeed": 0.18607821167707272,
+        "id": "team_r3_1791660869778_f3xuih",
+        "slots": [
+          {
+            "attack": 35,
+            "maxHealth": 25,
+            "copies": 1,
+            "templateId": "weapon_proxy",
+            "health": 25,
+            "level": 1
+          },
+          {
+            "health": 30,
+            "level": 1,
+            "templateId": "snack_vendor",
+            "maxHealth": 30,
+            "copies": 1,
+            "attack": 30
+          },
+          {
+            "attack": 35,
+            "maxHealth": 35,
+            "templateId": "overclock_hub",
+            "copies": 1,
+            "level": 1,
+            "health": 35
+          },
+          {
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 2,
+            "templateId": "wasp",
+            "attack": 45,
+            "health": 25
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 35,
+            "attack": 65,
+            "templateId": "relay_proxy",
+            "health": 35
+          }
+        ],
+        "name": "Feral Lobster"
       }
     ],
     "4": [
+      {
+        "totalHp": 190,
+        "id": "team_r4_1794323434679_p8hp9n",
+        "slots": [
+          {
+            "attack": 45,
+            "maxHealth": 35,
+            "copies": 3,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "health": 35
+          },
+          {
+            "health": 35,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35,
+            "templateId": "goldfish",
+            "attack": 35
+          },
+          {
+            "health": 35,
+            "maxHealth": 35,
+            "templateId": "malware_injector",
+            "attack": 40,
+            "mods": [
+              {
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up"
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "backup"
+            ],
+            "copies": 3
+          },
+          {
+            "attack": 35,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "templateId": "siphon_leech",
+            "maxHealth": 35,
+            "health": 35
+          },
+          {
+            "copies": 4,
+            "maxHealth": 50,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 45,
+            "templateId": "trojan_distributor",
+            "health": 50,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusHealth": 0
+              }
+            ]
+          }
+        ],
+        "round": 4,
+        "totalAtk": 200,
+        "timestamp": 1794323434679,
+        "randomSeed": 0.46897922585733165,
+        "name": "Stinky Pickle"
+      },
       {
         "timestamp": 1793956971769,
         "totalHp": 200,
@@ -16647,9 +17156,147 @@
         "id": "team_r4_1791980394300_cbsp4p",
         "round": 4,
         "name": "Drunken Sock"
+      },
+      {
+        "totalAtk": 205,
+        "id": "team_r4_1791916963639_lj49cs",
+        "randomSeed": 0.42557568918662625,
+        "timestamp": 1791916963639,
+        "totalHp": 285,
+        "name": "Sarcastic Blender",
+        "round": 4,
+        "slots": [
+          {
+            "health": 30,
+            "level": 1,
+            "attack": 40,
+            "copies": 1,
+            "maxHealth": 30,
+            "templateId": "data_miner"
+          },
+          {
+            "health": 50,
+            "attack": 45,
+            "templateId": "network_patcher",
+            "maxHealth": 50,
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "maxHealth": 60,
+            "copies": 1,
+            "attack": 50,
+            "level": 1,
+            "templateId": "bouncer_exe",
+            "health": 60
+          },
+          {
+            "health": 90,
+            "attack": 30,
+            "level": 1,
+            "templateId": "tank",
+            "maxHealth": 90,
+            "copies": 1
+          },
+          {
+            "health": 55,
+            "templateId": "trojan_distributor",
+            "attack": 40,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 55
+          }
+        ]
       }
     ],
     "5": [
+      {
+        "id": "team_r5_1794323585734_1iwmbz",
+        "timestamp": 1794323585734,
+        "totalAtk": 205,
+        "name": "Stinky Pickle",
+        "slots": [
+          {
+            "level": 2,
+            "health": 55,
+            "copies": 3,
+            "maxHealth": 55,
+            "attack": 45,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "attack": 40,
+            "copies": 3,
+            "templateId": "goldfish",
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40
+          },
+          {
+            "level": 2,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "malware_injector",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 3,
+            "attack": 40
+          },
+          {
+            "health": 50,
+            "maxHealth": 50,
+            "attack": 45,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "templateId": "trojan_distributor",
+            "copies": 4
+          },
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "attack": 35,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "templateId": "siphon_leech",
+            "copies": 2
+          }
+        ],
+        "randomSeed": 0.48089684356590645,
+        "totalHp": 215,
+        "round": 5
+      },
       {
         "teamFoilId": "foil_matrix_rain_red",
         "totalHp": 215,
@@ -21135,6 +21782,93 @@
       }
     ],
     "6": [
+      {
+        "randomSeed": 0.6221815775836207,
+        "slots": [
+          {
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "copies": 3,
+            "level": 2,
+            "health": 55,
+            "maxHealth": 55
+          },
+          {
+            "attack": 40,
+            "copies": 3,
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "templateId": "goldfish"
+          },
+          {
+            "templateId": "malware_injector",
+            "health": 35,
+            "mods": [
+              {
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "maxHealth": 35,
+            "attack": 40,
+            "perks": [
+              "backup"
+            ],
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "templateId": "trojan_distributor",
+            "copies": 4,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "attack": 45,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 50,
+            "health": 50
+          },
+          {
+            "templateId": "siphon_leech",
+            "health": 40,
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 40,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "timestamp": 1794323764494,
+        "id": "team_r6_1794323764494_a6gx81",
+        "round": 6,
+        "name": "Stinky Pickle",
+        "totalHp": 220,
+        "totalAtk": 210
+      },
       {
         "randomSeed": 0.6983451303246906,
         "totalHp": 260,
@@ -26245,6 +26979,81 @@
       }
     ],
     "7": [
+      {
+        "name": "Stinky Pickle",
+        "round": 7,
+        "totalAtk": 365,
+        "randomSeed": 0.8146610375681141,
+        "timestamp": 1794324002756,
+        "totalHp": 280,
+        "id": "team_r7_1794324002756_stroka",
+        "slots": [
+          {
+            "maxHealth": 55,
+            "copies": 3,
+            "attack": 60,
+            "level": 2,
+            "templateId": "weapon_proxy",
+            "health": 55
+          },
+          {
+            "health": 40,
+            "templateId": "router_rooster",
+            "attack": 75,
+            "maxHealth": 40,
+            "level": 1,
+            "copies": 2
+          },
+          {
+            "templateId": "upload_toaster",
+            "level": 1,
+            "health": 75,
+            "maxHealth": 75,
+            "copies": 2,
+            "attack": 95
+          },
+          {
+            "templateId": "trojan_distributor",
+            "health": 50,
+            "maxHealth": 50,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 4,
+            "attack": 60,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ]
+          },
+          {
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "maxHealth": 60,
+            "attack": 75,
+            "templateId": "siphon_leech",
+            "copies": 3,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2,
+            "health": 60
+          }
+        ]
+      },
       {
         "name": "Wobbly Badger",
         "timestamp": 1793957578479,
@@ -31532,6 +32341,81 @@
       }
     ],
     "8": [
+      {
+        "timestamp": 1794324309382,
+        "round": 8,
+        "totalAtk": 475,
+        "id": "team_r8_1794324309382_0lpiq6",
+        "slots": [
+          {
+            "templateId": "holo_triceratops",
+            "level": 1,
+            "maxHealth": 130,
+            "health": 130,
+            "copies": 1,
+            "attack": 130
+          },
+          {
+            "attack": 75,
+            "maxHealth": 40,
+            "copies": 2,
+            "health": 40,
+            "level": 1,
+            "templateId": "router_rooster"
+          },
+          {
+            "attack": 115,
+            "copies": 2,
+            "templateId": "upload_toaster",
+            "level": 1,
+            "health": 95,
+            "maxHealth": 95
+          },
+          {
+            "health": 60,
+            "maxHealth": 60,
+            "attack": 80,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "trojan_distributor",
+            "copies": 4
+          },
+          {
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "siphon_leech",
+            "maxHealth": 60,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "health": 60,
+            "copies": 3,
+            "attack": 75
+          }
+        ],
+        "randomSeed": 0.3304872346209937,
+        "name": "Stinky Pickle",
+        "totalHp": 385
+      },
       {
         "randomSeed": 0.7128015714937058,
         "name": "Flaming Trophy",
@@ -36902,9 +37786,135 @@
         "randomSeed": 0.9809948280453263,
         "wins": 1,
         "id": "team_r8_1791806883211_py3gbq"
+      },
+      {
+        "round": 8,
+        "id": "team_r8_1791914843832_o9ignr",
+        "totalHp": 215,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "health": 60,
+            "level": 3,
+            "templateId": "weapon_proxy",
+            "copies": 6,
+            "attack": 80
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 55,
+            "templateId": "shield_proxy",
+            "health": 55,
+            "maxHealth": 55
+          },
+          {
+            "health": 40,
+            "templateId": "ghost_process",
+            "attack": 40,
+            "maxHealth": 40,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "health": 25,
+            "attack": 20,
+            "level": 1,
+            "templateId": "rootkit_loader",
+            "maxHealth": 25,
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "attack": 15,
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "health": 35
+          }
+        ],
+        "timestamp": 1791914843832,
+        "totalAtk": 210,
+        "name": "Hypnotic Badger",
+        "randomSeed": 0.017952251059132895
       }
     ],
     "9": [
+      {
+        "slots": [
+          {
+            "attack": 130,
+            "copies": 1,
+            "templateId": "holo_triceratops",
+            "health": 130,
+            "maxHealth": 130,
+            "level": 1
+          },
+          {
+            "attack": 50,
+            "maxHealth": 50,
+            "copies": 1,
+            "level": 1,
+            "health": 50,
+            "templateId": "ghost_process"
+          },
+          {
+            "copies": 2,
+            "level": 1,
+            "attack": 115,
+            "health": 95,
+            "templateId": "upload_toaster",
+            "maxHealth": 95
+          },
+          {
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 70,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 70,
+            "copies": 4,
+            "templateId": "trojan_distributor",
+            "attack": 90
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "copies": 3,
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 85,
+            "templateId": "siphon_leech",
+            "maxHealth": 70,
+            "health": 70
+          }
+        ],
+        "randomSeed": 0.8700969891172191,
+        "totalHp": 415,
+        "timestamp": 1794324426268,
+        "totalAtk": 470,
+        "round": 9,
+        "name": "Stinky Pickle",
+        "id": "team_r9_1794324426268_66g14x"
+      },
       {
         "slots": [
           {
@@ -41891,6 +42901,81 @@
       }
     ],
     "10": [
+      {
+        "round": 10,
+        "id": "team_r10_1794324601782_d1xo96",
+        "timestamp": 1794324601782,
+        "randomSeed": 0.3917046092325258,
+        "slots": [
+          {
+            "level": 1,
+            "health": 130,
+            "templateId": "holo_triceratops",
+            "maxHealth": 130,
+            "copies": 1,
+            "attack": 150
+          },
+          {
+            "attack": 50,
+            "copies": 1,
+            "level": 1,
+            "health": 70,
+            "templateId": "ghost_process",
+            "maxHealth": 70
+          },
+          {
+            "level": 1,
+            "templateId": "upload_toaster",
+            "health": 95,
+            "copies": 2,
+            "attack": 135,
+            "maxHealth": 95
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "templateId": "trojan_distributor",
+            "mods": [
+              {
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "attack": 90,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 4
+          },
+          {
+            "attack": 85,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0
+              }
+            ],
+            "copies": 3,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2,
+            "maxHealth": 70,
+            "health": 70,
+            "templateId": "siphon_leech"
+          }
+        ],
+        "totalHp": 435,
+        "name": "Stinky Pickle",
+        "totalAtk": 510
+      },
       {
         "timestamp": 1794242735270,
         "totalAtk": 220,
@@ -47439,6 +48524,93 @@
     ],
     "11": [
       {
+        "id": "team_r11_1794324753342_f2jn7v",
+        "slots": [
+          {
+            "templateId": "holo_triceratops",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "snap"
+            ],
+            "maxHealth": 130,
+            "attack": 150,
+            "mods": [
+              {
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "name": "SNAP",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "health": 130
+          },
+          {
+            "templateId": "ghost_process",
+            "copies": 1,
+            "level": 1,
+            "attack": 50,
+            "maxHealth": 70,
+            "health": 70
+          },
+          {
+            "maxHealth": 95,
+            "templateId": "upload_toaster",
+            "health": 95,
+            "level": 1,
+            "copies": 2,
+            "attack": 135
+          },
+          {
+            "attack": 90,
+            "copies": 4,
+            "health": 70,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 70,
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "templateId": "trojan_distributor"
+          },
+          {
+            "health": 70,
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 70,
+            "copies": 3,
+            "templateId": "siphon_leech",
+            "mods": [
+              {
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "attack": 85
+          }
+        ],
+        "name": "Stinky Pickle",
+        "totalHp": 435,
+        "timestamp": 1794324753342,
+        "totalAtk": 510,
+        "randomSeed": 0.5075036138866205,
+        "round": 11
+      },
+      {
         "randomSeed": 0.35634116791969406,
         "name": "Flaming Trophy",
         "round": 11,
@@ -52835,9 +54007,237 @@
         "randomSeed": 0.20363386325050725,
         "totalAtk": 760,
         "id": "team_r11_1791920132977_66cgig"
+      },
+      {
+        "randomSeed": 0.27102281483355173,
+        "id": "team_r11_1791889443290_3y619c",
+        "totalAtk": 295,
+        "name": "Cheesy Submarine",
+        "round": 11,
+        "totalHp": 315,
+        "slots": [
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "ghost_process",
+            "attack": 40,
+            "health": 40,
+            "maxHealth": 40
+          },
+          {
+            "attack": 60,
+            "templateId": "golem",
+            "copies": 1,
+            "level": 1,
+            "health": 60,
+            "maxHealth": 60
+          },
+          {
+            "health": 70,
+            "level": 1,
+            "templateId": "trex",
+            "maxHealth": 70,
+            "copies": 1,
+            "attack": 100
+          },
+          {
+            "health": 90,
+            "templateId": "trojan_distributor",
+            "attack": 60,
+            "level": 2,
+            "maxHealth": 90,
+            "copies": 3
+          },
+          {
+            "attack": 35,
+            "copies": 3,
+            "level": 2,
+            "health": 55,
+            "templateId": "rootkit_loader",
+            "maxHealth": 55
+          }
+        ],
+        "timestamp": 1791889443290
+      },
+      {
+        "totalAtk": 240,
+        "randomSeed": 0.2741924298611542,
+        "timestamp": 1791805451323,
+        "round": 11,
+        "totalHp": 375,
+        "slots": [
+          {
+            "level": 2,
+            "health": 90,
+            "copies": 3,
+            "templateId": "ddos_daemon",
+            "attack": 70,
+            "maxHealth": 90
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 35,
+            "maxHealth": 60,
+            "health": 60,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "templateId": "trojan_exe",
+            "attack": 45,
+            "copies": 3,
+            "maxHealth": 60,
+            "health": 60,
+            "level": 2
+          },
+          {
+            "attack": 55,
+            "copies": 6,
+            "health": 80,
+            "maxHealth": 80,
+            "templateId": "rootkit_loader",
+            "level": 3
+          },
+          {
+            "health": 85,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "copies": 5,
+            "maxHealth": 85,
+            "attack": 35
+          }
+        ],
+        "name": "Suspicious Trophy",
+        "id": "team_r11_1791805451323_ql57vm"
       }
     ],
     "12": [
+      {
+        "name": "Flaming Trophy",
+        "slots": [
+          {
+            "attack": 60,
+            "copies": 1,
+            "templateId": "bsod",
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1
+          },
+          {
+            "level": 2,
+            "health": 35,
+            "copies": 3,
+            "maxHealth": 35,
+            "attack": 45,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "level": 1,
+            "health": 50,
+            "maxHealth": 50,
+            "copies": 2,
+            "templateId": "data_cow",
+            "attack": 50
+          },
+          {
+            "templateId": "tank",
+            "level": 1,
+            "health": 130,
+            "maxHealth": 130,
+            "copies": 1,
+            "attack": 80
+          },
+          {
+            "maxHealth": 45,
+            "copies": 4,
+            "level": 2,
+            "attack": 35,
+            "templateId": "goldfish",
+            "health": 45
+          }
+        ],
+        "randomSeed": 0.24282406939581747,
+        "timestamp": 1794321794752,
+        "totalAtk": 270,
+        "totalHp": 290,
+        "id": "team_r12_1794321794752_1fe17j",
+        "round": 12
+      },
+      {
+        "totalAtk": 550,
+        "round": 12,
+        "randomSeed": 0.2541202972082601,
+        "id": "team_r12_1794324897415_0k6w90",
+        "timestamp": 1794324897415,
+        "slots": [
+          {
+            "templateId": "holo_triceratops",
+            "level": 1,
+            "perks": [
+              "snap"
+            ],
+            "maxHealth": 130,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "name": "SNAP",
+                "id": "snap"
+              }
+            ],
+            "health": 130,
+            "copies": 1,
+            "attack": 150
+          },
+          {
+            "attack": 70,
+            "templateId": "weapon_proxy",
+            "copies": 3,
+            "health": 65,
+            "level": 2,
+            "maxHealth": 65
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "attack": 50,
+            "templateId": "ghost_process",
+            "maxHealth": 70,
+            "health": 70
+          },
+          {
+            "attack": 195,
+            "copies": 2,
+            "maxHealth": 135,
+            "templateId": "upload_toaster",
+            "level": 1,
+            "health": 135
+          },
+          {
+            "attack": 85,
+            "copies": 3,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "templateId": "siphon_leech",
+            "maxHealth": 70,
+            "health": 70,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2
+          }
+        ],
+        "name": "Stinky Pickle",
+        "totalHp": 470
+      },
       {
         "name": "Wobbly Badger",
         "totalAtk": 235,
@@ -58706,6 +60106,144 @@
     ],
     "13": [
       {
+        "name": "Flaming Trophy",
+        "randomSeed": 0.2504588839219507,
+        "slots": [
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "bsod",
+            "attack": 60,
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "copies": 3,
+            "maxHealth": 35,
+            "health": 35,
+            "level": 2
+          },
+          {
+            "templateId": "armor_pangolin",
+            "health": 50,
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 50,
+            "attack": 20
+          },
+          {
+            "health": 50,
+            "templateId": "data_cow",
+            "attack": 50,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 50
+          },
+          {
+            "maxHealth": 45,
+            "copies": 4,
+            "level": 2,
+            "attack": 35,
+            "templateId": "goldfish",
+            "health": 45
+          }
+        ],
+        "id": "team_r13_1794322000609_43mbjl",
+        "totalHp": 210,
+        "timestamp": 1794322000609,
+        "round": 13,
+        "totalAtk": 210
+      },
+      {
+        "totalAtk": 541,
+        "randomSeed": 0.9968313445312306,
+        "round": 13,
+        "timestamp": 1794325029473,
+        "totalHp": 550,
+        "id": "team_r13_1794325029473_7q9zga",
+        "slots": [
+          {
+            "templateId": "holo_triceratops",
+            "level": 1,
+            "perks": [
+              "snap"
+            ],
+            "maxHealth": 130,
+            "health": 130,
+            "mods": [
+              {
+                "id": "snap",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusAttack": 0,
+                "name": "SNAP"
+              }
+            ],
+            "copies": 1,
+            "attack": 150
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "templateId": "weapon_proxy",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "monolith_refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "name": "Monolith Refactor",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 1,
+            "maxHealth": 65,
+            "health": 65
+          },
+          {
+            "templateId": "ghost_process",
+            "level": 1,
+            "health": 90,
+            "copies": 1,
+            "maxHealth": 90,
+            "attack": 50
+          },
+          {
+            "health": 175,
+            "templateId": "upload_toaster",
+            "maxHealth": 175,
+            "attack": 235,
+            "level": 1,
+            "copies": 2
+          },
+          {
+            "attack": 105,
+            "templateId": "siphon_leech",
+            "copies": 3,
+            "health": 90,
+            "maxHealth": 90,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "name": "Stinky Pickle"
+      },
+      {
         "totalHp": 335,
         "totalAtk": 245,
         "id": "team_r13_1793958520667_si95mk",
@@ -64267,6 +65805,69 @@
       }
     ],
     "14": [
+      {
+        "totalHp": 230,
+        "name": "Flaming Trophy",
+        "slots": [
+          {
+            "attack": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "health": 30,
+            "templateId": "bsod",
+            "maxHealth": 30
+          },
+          {
+            "health": 35,
+            "level": 2,
+            "maxHealth": 35,
+            "copies": 3,
+            "templateId": "weapon_proxy",
+            "attack": 45
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 60,
+            "health": 60,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "attack": 50,
+            "maxHealth": 50,
+            "copies": 2,
+            "templateId": "data_cow",
+            "level": 1,
+            "health": 50
+          },
+          {
+            "health": 55,
+            "attack": 45,
+            "templateId": "goldfish",
+            "maxHealth": 55,
+            "level": 2,
+            "copies": 4
+          }
+        ],
+        "timestamp": 1794322229174,
+        "totalAtk": 171,
+        "randomSeed": 0.18557010519614336,
+        "id": "team_r14_1794322229174_q0rn4i",
+        "round": 14
+      },
       {
         "slots": [
           {
@@ -74679,6 +76280,88 @@
             "templateId": "golem"
           }
         ]
+      },
+      {
+        "name": "Flaming Kettle",
+        "totalHp": 720,
+        "totalAtk": 560,
+        "round": 15,
+        "id": "team_r15_1791767304480_d6rq0o",
+        "timestamp": 1791767304480,
+        "slots": [
+          {
+            "copies": 6,
+            "templateId": "crypto_staker",
+            "attack": 80,
+            "level": 3,
+            "maxHealth": 110,
+            "health": 110
+          },
+          {
+            "copies": 9,
+            "maxHealth": 90,
+            "attack": 85,
+            "level": 4,
+            "templateId": "vacuum",
+            "health": 90
+          },
+          {
+            "copies": 3,
+            "templateId": "hard_freeze",
+            "level": 2,
+            "maxHealth": 160,
+            "attack": 130,
+            "health": 160
+          },
+          {
+            "templateId": "berserk_node",
+            "attack": 100,
+            "copies": 6,
+            "maxHealth": 145,
+            "health": 145,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "name": "Hardcoded"
+              },
+              {
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 3
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "level": 4,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 215,
+            "copies": 9,
+            "maxHealth": 215,
+            "attack": 165,
+            "templateId": "goldfish"
+          }
+        ],
+        "randomSeed": 0.805611229850851
       }
     ],
     "16": [
