@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794325552486,
-  "lastSyncDate": "2026-11-10",
-  "totalReadsPerformed": 5605,
+  "lastSyncTimestamp": 1794411338475,
+  "lastSyncDate": "2026-11-11",
+  "totalReadsPerformed": 5753,
   "rounds": {
     "1": [
       {
@@ -4174,6 +4174,57 @@
         "totalHp": 105,
         "randomSeed": 0.40648489881603844,
         "round": 1
+      },
+      {
+        "round": 1,
+        "timestamp": 1791914261616,
+        "randomSeed": 0.35940758149754104,
+        "totalAtk": 135,
+        "totalHp": 160,
+        "name": "Quantum Spatula",
+        "id": "team_r1_1791914261616_8ddet2",
+        "slots": [
+          {
+            "attack": 35,
+            "copies": 1,
+            "level": 1,
+            "health": 35,
+            "templateId": "weapon_proxy",
+            "maxHealth": 35
+          },
+          {
+            "attack": 25,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "shield_proxy"
+          },
+          {
+            "copies": 1,
+            "attack": 40,
+            "level": 1,
+            "templateId": "malware_injector",
+            "maxHealth": 35,
+            "health": 35
+          },
+          {
+            "copies": 2,
+            "attack": 20,
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "glitch_rat"
+          },
+          {
+            "health": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1,
+            "attack": 15,
+            "templateId": "glitch_rat"
+          }
+        ]
       }
     ],
     "2": [
@@ -8266,6 +8317,57 @@
         "totalAtk": 125,
         "timestamp": 1791819083061,
         "round": 2
+      },
+      {
+        "name": "Sloppy Microwave",
+        "id": "team_r2_1791965944280_p7lwml",
+        "slots": [
+          {
+            "attack": 20,
+            "copies": 2,
+            "maxHealth": 20,
+            "health": 20,
+            "level": 1,
+            "templateId": "turret_program"
+          },
+          {
+            "attack": 40,
+            "copies": 1,
+            "level": 1,
+            "health": 30,
+            "templateId": "data_miner",
+            "maxHealth": 30
+          },
+          {
+            "attack": 20,
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 30
+          },
+          {
+            "level": 1,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 1,
+            "attack": 15
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 30,
+            "templateId": "goldfish",
+            "maxHealth": 40,
+            "health": 40
+          }
+        ],
+        "totalAtk": 125,
+        "round": 2,
+        "timestamp": 1791965944280,
+        "totalHp": 165,
+        "randomSeed": 0.5387520961883926
       }
     ],
     "3": [
@@ -42898,6 +43000,57 @@
         "totalHp": 775,
         "randomSeed": 0.4073486006994468,
         "round": 9
+      },
+      {
+        "randomSeed": 0.8331914617009809,
+        "slots": [
+          {
+            "health": 145,
+            "maxHealth": 145,
+            "level": 2,
+            "attack": 125,
+            "templateId": "scrap_goat",
+            "copies": 3
+          },
+          {
+            "health": 70,
+            "templateId": "data_cow",
+            "level": 3,
+            "copies": 6,
+            "attack": 55,
+            "maxHealth": 70
+          },
+          {
+            "maxHealth": 85,
+            "level": 2,
+            "health": 85,
+            "attack": 115,
+            "copies": 3,
+            "templateId": "wasp"
+          },
+          {
+            "health": 135,
+            "templateId": "tank",
+            "attack": 95,
+            "maxHealth": 135,
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "maxHealth": 100,
+            "level": 2,
+            "health": 100,
+            "copies": 4,
+            "templateId": "relay_proxy",
+            "attack": 70
+          }
+        ],
+        "round": 9,
+        "timestamp": 1791880227361,
+        "name": "Frenetic Fridge",
+        "totalAtk": 460,
+        "id": "team_r9_1791880227361_9a8h6b",
+        "totalHp": 535
       }
     ],
     "10": [
@@ -76362,6 +76515,57 @@
           }
         ],
         "randomSeed": 0.805611229850851
+      },
+      {
+        "totalHp": 415,
+        "id": "team_r15_1791913557291_6zd0ex",
+        "totalAtk": 295,
+        "round": 15,
+        "randomSeed": 0.9878210944216365,
+        "slots": [
+          {
+            "copies": 3,
+            "level": 2,
+            "attack": 80,
+            "templateId": "ddos_daemon",
+            "maxHealth": 90,
+            "health": 90
+          },
+          {
+            "attack": 70,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 70,
+            "health": 70,
+            "templateId": "drag_n_drop"
+          },
+          {
+            "attack": 30,
+            "copies": 3,
+            "templateId": "vanguard_feeder",
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40
+          },
+          {
+            "health": 155,
+            "level": 2,
+            "attack": 85,
+            "copies": 3,
+            "templateId": "berserk_node",
+            "maxHealth": 155
+          },
+          {
+            "level": 1,
+            "templateId": "spaghetti_code",
+            "maxHealth": 60,
+            "health": 60,
+            "copies": 1,
+            "attack": 30
+          }
+        ],
+        "name": "Unhinged Goblin",
+        "timestamp": 1791913557291
       }
     ],
     "16": [
