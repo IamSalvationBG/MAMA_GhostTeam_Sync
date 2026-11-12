@@ -1,10 +1,186 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794411338475,
-  "lastSyncDate": "2026-11-11",
-  "totalReadsPerformed": 5753,
+  "lastSyncTimestamp": 1794499917763,
+  "lastSyncDate": "2026-11-12",
+  "totalReadsPerformed": 5910,
   "rounds": {
     "1": [
+      {
+        "slots": [
+          {
+            "copies": 2,
+            "attack": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "health": 20,
+            "maxHealth": 20
+          },
+          {
+            "attack": 40,
+            "health": 30,
+            "templateId": "data_miner",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30
+          },
+          null,
+          {
+            "templateId": "glitch_rat",
+            "level": 1,
+            "copies": 1,
+            "health": 45,
+            "attack": 15,
+            "maxHealth": 45
+          },
+          {
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "goldfish",
+            "attack": 20,
+            "health": 30,
+            "level": 1
+          }
+        ],
+        "randomSeed": 0.7926204134001151,
+        "totalHp": 125,
+        "round": 1,
+        "totalAtk": 95,
+        "timestamp": 1794415851423,
+        "id": "team_r1_1794415851423_y2udlb",
+        "name": "Suspicious Plunger"
+      },
+      {
+        "timestamp": 1794416993670,
+        "totalAtk": 95,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "health": 20,
+            "level": 1,
+            "attack": 20,
+            "templateId": "turret_program",
+            "copies": 2
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "health": 30,
+            "attack": 40
+          },
+          null,
+          {
+            "attack": 15,
+            "health": 45,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "health": 30,
+            "templateId": "goldfish",
+            "level": 1,
+            "attack": 20,
+            "copies": 1,
+            "maxHealth": 30
+          }
+        ],
+        "randomSeed": 0.8579630682736774,
+        "name": "Blazing Baguette",
+        "id": "team_r1_1794416993670_cej60w",
+        "totalHp": 125,
+        "round": 1
+      },
+      {
+        "timestamp": 1794422642749,
+        "round": 1,
+        "randomSeed": 0.4712677064294494,
+        "totalAtk": 95,
+        "name": "Sublime Towel",
+        "slots": [
+          {
+            "health": 20,
+            "maxHealth": 20,
+            "level": 1,
+            "templateId": "turret_program",
+            "attack": 20,
+            "copies": 1
+          },
+          {
+            "attack": 40,
+            "maxHealth": 30,
+            "health": 30,
+            "level": 1,
+            "copies": 1,
+            "templateId": "data_miner"
+          },
+          null,
+          {
+            "templateId": "glitch_rat",
+            "attack": 15,
+            "health": 45,
+            "copies": 2,
+            "maxHealth": 45,
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "templateId": "goldfish",
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1
+          }
+        ],
+        "totalHp": 125,
+        "id": "team_r1_1794422642749_efhgx5"
+      },
+      {
+        "round": 1,
+        "randomSeed": 0.9703448785164598,
+        "totalHp": 105,
+        "timestamp": 1794480293194,
+        "name": "Corrupted Towel",
+        "slots": [
+          {
+            "attack": 40,
+            "templateId": "turret_program",
+            "health": 20,
+            "copies": 2,
+            "maxHealth": 20,
+            "level": 1
+          },
+          {
+            "attack": 40,
+            "health": 30,
+            "templateId": "data_miner",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30
+          },
+          null,
+          {
+            "maxHealth": 25,
+            "copies": 1,
+            "level": 1,
+            "health": 25,
+            "templateId": "glitch_rat",
+            "attack": 15
+          },
+          {
+            "templateId": "goldfish",
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "attack": 20
+          }
+        ],
+        "totalAtk": 115,
+        "id": "team_r1_1794480293194_iwb88p"
+      },
       {
         "id": "team_r1_1794322403125_0rwvh9",
         "totalHp": 145,
@@ -4229,6 +4405,108 @@
     ],
     "2": [
       {
+        "totalAtk": 125,
+        "randomSeed": 0.06317402515129789,
+        "round": 2,
+        "totalHp": 165,
+        "timestamp": 1794422953024,
+        "slots": [
+          {
+            "attack": 20,
+            "templateId": "turret_program",
+            "health": 20,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 20
+          },
+          {
+            "copies": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "copies": 1,
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 20,
+            "health": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "health": 45,
+            "level": 1,
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "copies": 2
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 40,
+            "templateId": "goldfish",
+            "copies": 3
+          }
+        ],
+        "id": "team_r2_1794422953024_344jgz",
+        "name": "Sublime Towel"
+      },
+      {
+        "round": 2,
+        "id": "team_r2_1794480534594_f8koak",
+        "name": "Corrupted Towel",
+        "randomSeed": 0.5702192843214535,
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 20,
+            "copies": 2,
+            "templateId": "turret_program",
+            "health": 20,
+            "attack": 40
+          },
+          {
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "data_miner",
+            "copies": 1,
+            "health": 30,
+            "attack": 40
+          },
+          {
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "glitch_rat",
+            "health": 25,
+            "level": 1,
+            "maxHealth": 25,
+            "attack": 15,
+            "copies": 1
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 40,
+            "templateId": "goldfish",
+            "copies": 3
+          }
+        ],
+        "timestamp": 1794480534594,
+        "totalAtk": 145,
+        "totalHp": 145
+      },
+      {
         "name": "Stinky Pickle",
         "totalAtk": 170,
         "timestamp": 1794322502535,
@@ -8368,9 +8646,249 @@
         "timestamp": 1791965944280,
         "totalHp": 165,
         "randomSeed": 0.5387520961883926
+      },
+      {
+        "totalHp": 145,
+        "randomSeed": 0.42424804138490624,
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 20,
+            "level": 1,
+            "attack": 20,
+            "templateId": "turret_program",
+            "health": 20
+          },
+          {
+            "templateId": "data_miner",
+            "attack": 40,
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 2,
+            "level": 1
+          },
+          {
+            "maxHealth": 30,
+            "level": 1,
+            "health": 30,
+            "attack": 20,
+            "copies": 1,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 1,
+            "copies": 1,
+            "health": 25,
+            "maxHealth": 25,
+            "attack": 15
+          },
+          {
+            "attack": 30,
+            "perks": [
+              "backup"
+            ],
+            "health": 40,
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 40,
+            "templateId": "goldfish"
+          }
+        ],
+        "timestamp": 1791764816805,
+        "totalAtk": 125,
+        "name": "Chunky Spoon",
+        "round": 2,
+        "id": "team_r2_1791764816805_g1yxzp"
+      },
+      {
+        "name": "Greasy Submarine",
+        "round": 2,
+        "id": "team_r2_1791764528595_ybj8rx",
+        "totalHp": 145,
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 20,
+            "attack": 20,
+            "templateId": "turret_program",
+            "health": 20,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 40,
+            "copies": 2,
+            "templateId": "data_miner"
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "health": 30,
+            "attack": 20
+          },
+          {
+            "copies": 1,
+            "attack": 15,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "health": 25,
+            "maxHealth": 25
+          },
+          {
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "level": 2,
+            "copies": 3,
+            "perks": [
+              "backup"
+            ],
+            "health": 40,
+            "maxHealth": 40,
+            "templateId": "goldfish",
+            "attack": 30
+          }
+        ],
+        "totalAtk": 125,
+        "timestamp": 1791764528595,
+        "randomSeed": 0.43921822522252696
       }
     ],
     "3": [
+      {
+        "timestamp": 1794423217582,
+        "randomSeed": 0.8974981718030715,
+        "slots": [
+          {
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 40,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "templateId": "data_miner",
+            "copies": 2,
+            "attack": 45,
+            "maxHealth": 35,
+            "level": 1,
+            "health": 35
+          },
+          {
+            "attack": 20,
+            "templateId": "vanguard_feeder",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "copies": 2,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "attack": 15,
+            "health": 45,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "health": 60,
+            "templateId": "goldfish",
+            "maxHealth": 60,
+            "copies": 3,
+            "level": 2
+          }
+        ],
+        "id": "team_r3_1794423217582_z5p835",
+        "totalAtk": 150,
+        "round": 3,
+        "name": "Sublime Towel",
+        "totalHp": 200
+      },
+      {
+        "totalAtk": 145,
+        "slots": [
+          {
+            "health": 20,
+            "level": 1,
+            "maxHealth": 20,
+            "attack": 40,
+            "templateId": "turret_program",
+            "copies": 2
+          },
+          {
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "health": 30,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "attack": 20,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "attack": 15,
+            "health": 25,
+            "templateId": "glitch_rat",
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 1,
+            "level": 1,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "maxHealth": 25
+          },
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 30,
+            "health": 40,
+            "templateId": "goldfish",
+            "level": 2
+          }
+        ],
+        "id": "team_r3_1794481001390_v7to2i",
+        "timestamp": 1794481001390,
+        "totalHp": 145,
+        "round": 3,
+        "randomSeed": 0.3549044491255914,
+        "name": "Corrupted Towel"
+      },
       {
         "totalAtk": 185,
         "id": "team_r3_1794322642229_zffwfh",
@@ -12647,9 +13165,186 @@
           }
         ],
         "name": "Feral Lobster"
+      },
+      {
+        "slots": [
+          {
+            "attack": 20,
+            "maxHealth": 20,
+            "health": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "maxHealth": 30,
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "attack": 20
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 2,
+            "copies": 3,
+            "health": 30,
+            "attack": 20,
+            "maxHealth": 30
+          },
+          {
+            "copies": 3,
+            "perks": [
+              "backup"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "backup",
+                "name": "Back up"
+              }
+            ],
+            "maxHealth": 40,
+            "attack": 50,
+            "level": 2,
+            "templateId": "goldfish",
+            "health": 40
+          }
+        ],
+        "randomSeed": 0.34686929172973446,
+        "totalHp": 150,
+        "name": "Fluffy Pants",
+        "timestamp": 1791811032048,
+        "round": 3,
+        "totalAtk": 150,
+        "id": "team_r3_1791811032048_8j8q7y"
       }
     ],
     "4": [
+      {
+        "randomSeed": 0.788907389541526,
+        "totalAtk": 150,
+        "timestamp": 1794423540770,
+        "round": 4,
+        "totalHp": 150,
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 2,
+            "health": 30,
+            "templateId": "weapon_proxy",
+            "attack": 40
+          },
+          {
+            "attack": 45,
+            "health": 35,
+            "maxHealth": 35,
+            "level": 1,
+            "copies": 2,
+            "templateId": "data_miner"
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "vanguard_feeder",
+            "attack": 20
+          },
+          {
+            "attack": 20,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 3,
+            "level": 2,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "templateId": "bandwidth_spider",
+            "health": 25,
+            "attack": 25,
+            "maxHealth": 25
+          }
+        ],
+        "id": "team_r4_1794423540770_lnomfx",
+        "name": "Sublime Towel"
+      },
+      {
+        "totalAtk": 150,
+        "totalHp": 150,
+        "round": 4,
+        "name": "Corrupted Towel",
+        "id": "team_r4_1794481350521_42g518",
+        "timestamp": 1794481350521,
+        "randomSeed": 0.17720982412859831,
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "health": 20,
+            "level": 1,
+            "attack": 40,
+            "maxHealth": 20,
+            "copies": 2
+          },
+          {
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 40,
+            "templateId": "data_miner",
+            "copies": 1
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "attack": 20,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load"
+              }
+            ],
+            "maxHealth": 25,
+            "templateId": "glitch_rat",
+            "attack": 15,
+            "level": 1,
+            "health": 25
+          },
+          {
+            "level": 2,
+            "health": 45,
+            "attack": 35,
+            "templateId": "goldfish",
+            "copies": 4,
+            "maxHealth": 45
+          }
+        ]
+      },
       {
         "totalHp": 190,
         "id": "team_r4_1794323434679_p8hp9n",
@@ -17313,6 +18008,120 @@
     ],
     "5": [
       {
+        "timestamp": 1794423623949,
+        "randomSeed": 0.14150846028283415,
+        "totalAtk": 155,
+        "round": 5,
+        "name": "Sublime Towel",
+        "totalHp": 155,
+        "slots": [
+          {
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "copies": 2,
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 40
+          },
+          {
+            "attack": 45,
+            "health": 35,
+            "copies": 2,
+            "maxHealth": 35,
+            "level": 1,
+            "templateId": "data_miner"
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 20
+          },
+          {
+            "health": 30,
+            "level": 2,
+            "maxHealth": 30,
+            "attack": 20,
+            "copies": 3,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 2,
+            "health": 30,
+            "attack": 30,
+            "templateId": "bandwidth_spider"
+          }
+        ],
+        "id": "team_r5_1794423623949_g69q83"
+      },
+      {
+        "id": "team_r5_1794481488653_w9ao14",
+        "totalHp": 170,
+        "randomSeed": 0.35604900106680193,
+        "slots": [
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "attack": 50,
+            "level": 2,
+            "templateId": "turret_program",
+            "copies": 4
+          },
+          {
+            "health": 30,
+            "level": 1,
+            "attack": 40,
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "copies": 1
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 20,
+            "templateId": "vanguard_feeder",
+            "copies": 1
+          },
+          {
+            "attack": 25,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "health": 35,
+            "level": 2,
+            "copies": 3,
+            "templateId": "glitch_rat",
+            "maxHealth": 35
+          },
+          {
+            "attack": 35,
+            "health": 45,
+            "copies": 4,
+            "level": 2,
+            "maxHealth": 45,
+            "templateId": "goldfish"
+          }
+        ],
+        "name": "Corrupted Towel",
+        "totalAtk": 170,
+        "timestamp": 1794481488653,
+        "round": 5
+      },
+      {
         "id": "team_r5_1794323585734_1iwmbz",
         "timestamp": 1794323585734,
         "totalAtk": 205,
@@ -21884,6 +22693,69 @@
       }
     ],
     "6": [
+      {
+        "randomSeed": 0.549161746120051,
+        "round": 6,
+        "timestamp": 1794481771206,
+        "totalAtk": 215,
+        "id": "team_r6_1794481771206_tmvxax",
+        "name": "Corrupted Towel",
+        "totalHp": 215,
+        "slots": [
+          {
+            "level": 2,
+            "copies": 4,
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "turret_program",
+            "attack": 50
+          },
+          {
+            "health": 30,
+            "templateId": "data_miner",
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 40,
+            "copies": 1
+          },
+          {
+            "copies": 2,
+            "maxHealth": 35,
+            "templateId": "vanguard_feeder",
+            "attack": 25,
+            "level": 1,
+            "health": 35
+          },
+          {
+            "copies": 3,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 35,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 25,
+            "templateId": "glitch_rat",
+            "health": 35,
+            "level": 2
+          },
+          {
+            "copies": 4,
+            "maxHealth": 85,
+            "templateId": "goldfish",
+            "level": 2,
+            "attack": 75,
+            "health": 85
+          }
+        ]
+      },
       {
         "randomSeed": 0.6221815775836207,
         "slots": [
@@ -27078,9 +27950,123 @@
         "timestamp": 1791914093159,
         "randomSeed": 0.48103922256022513,
         "totalHp": 225
+      },
+      {
+        "slots": [
+          {
+            "attack": 40,
+            "templateId": "drone_mosquito",
+            "health": 35,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35
+          },
+          {
+            "health": 70,
+            "level": 1,
+            "attack": 25,
+            "maxHealth": 70,
+            "templateId": "tank",
+            "copies": 1
+          },
+          {
+            "level": 2,
+            "maxHealth": 50,
+            "health": 50,
+            "attack": 45,
+            "copies": 3,
+            "templateId": "david_exe"
+          },
+          {
+            "attack": 35,
+            "health": 40,
+            "templateId": "gandhi_exe",
+            "copies": 2,
+            "maxHealth": 40,
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "attack": 20,
+            "level": 1,
+            "health": 35
+          }
+        ],
+        "timestamp": 1792029859166,
+        "totalHp": 230,
+        "randomSeed": 0.7472193955107269,
+        "totalAtk": 165,
+        "round": 6,
+        "name": "Psychic Chihuahua",
+        "id": "team_r6_1792029859166_rt1htx"
       }
     ],
     "7": [
+      {
+        "timestamp": 1794481992389,
+        "totalAtk": 220,
+        "slots": [
+          {
+            "level": 2,
+            "health": 30,
+            "attack": 50,
+            "templateId": "turret_program",
+            "maxHealth": 30,
+            "copies": 4
+          },
+          {
+            "copies": 2,
+            "maxHealth": 35,
+            "attack": 45,
+            "templateId": "data_miner",
+            "health": 35,
+            "level": 1
+          },
+          {
+            "health": 35,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 35,
+            "level": 1,
+            "attack": 25,
+            "copies": 2
+          },
+          {
+            "health": 35,
+            "maxHealth": 35,
+            "level": 2,
+            "attack": 25,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3,
+            "templateId": "glitch_rat"
+          },
+          {
+            "copies": 4,
+            "maxHealth": 105,
+            "templateId": "goldfish",
+            "attack": 75,
+            "level": 2,
+            "health": 105
+          }
+        ],
+        "randomSeed": 0.8533398293755746,
+        "id": "team_r7_1794481992389_acdw4r",
+        "name": "Corrupted Towel",
+        "totalHp": 240,
+        "round": 7
+      },
       {
         "name": "Stinky Pickle",
         "round": 7,
@@ -32440,9 +33426,130 @@
         "timestamp": 1791914804041,
         "id": "team_r7_1791914804041_yxsep4",
         "totalAtk": 240
+      },
+      {
+        "name": "Turbo Waffle",
+        "arenaSkinId": "arena_villa_straylight",
+        "id": "team_r7_1792000025487_b2l92b",
+        "slots": [
+          {
+            "foil": "foil_prismatic",
+            "health": 60,
+            "templateId": "bsod",
+            "maxHealth": 60,
+            "level": 1,
+            "attack": 70,
+            "copies": 1
+          },
+          {
+            "maxHealth": 50,
+            "copies": 1,
+            "templateId": "crash_dump_exe",
+            "foil": "foil_prismatic",
+            "attack": 30,
+            "level": 1,
+            "health": 50
+          },
+          {
+            "level": 2,
+            "copies": 4,
+            "foil": "foil_prismatic",
+            "templateId": "spam_pigeon",
+            "health": 55,
+            "maxHealth": 55,
+            "attack": 45
+          },
+          {
+            "level": 2,
+            "templateId": "trojan_exe",
+            "copies": 3,
+            "maxHealth": 90,
+            "health": 90,
+            "attack": 75,
+            "foil": "foil_prismatic"
+          },
+          {
+            "level": 2,
+            "copies": 5,
+            "templateId": "rootkit_loader",
+            "health": 40,
+            "attack": 30,
+            "maxHealth": 40,
+            "foil": "foil_prismatic"
+          }
+        ],
+        "randomSeed": 0.7400085879001855,
+        "timestamp": 1792000025487,
+        "round": 7,
+        "totalAtk": 250,
+        "teamFoilId": "foil_prismatic",
+        "totalHp": 295
       }
     ],
     "8": [
+      {
+        "randomSeed": 0.4834971244857581,
+        "id": "team_r8_1794482082415_3ljul2",
+        "slots": [
+          {
+            "copies": 4,
+            "attack": 50,
+            "templateId": "turret_program",
+            "level": 2,
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "maxHealth": 40,
+            "health": 40,
+            "level": 2,
+            "attack": 50,
+            "templateId": "data_miner",
+            "copies": 3
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "copies": 2,
+            "health": 35,
+            "maxHealth": 35,
+            "attack": 25
+          },
+          {
+            "level": 2,
+            "health": 35,
+            "attack": 25,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "glitch_rat",
+            "maxHealth": 35,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3
+          },
+          {
+            "copies": 5,
+            "templateId": "goldfish",
+            "level": 2,
+            "attack": 80,
+            "maxHealth": 110,
+            "health": 110
+          }
+        ],
+        "totalAtk": 230,
+        "timestamp": 1794482082415,
+        "name": "Corrupted Towel",
+        "totalHp": 250,
+        "round": 8
+      },
       {
         "timestamp": 1794324309382,
         "round": 8,
@@ -37943,6 +39050,69 @@
     ],
     "9": [
       {
+        "name": "Corrupted Towel",
+        "round": 9,
+        "totalAtk": 265,
+        "id": "team_r9_1794482187098_ily81x",
+        "totalHp": 285,
+        "slots": [
+          {
+            "copies": 4,
+            "maxHealth": 30,
+            "level": 2,
+            "health": 30,
+            "templateId": "turret_program",
+            "attack": 50
+          },
+          {
+            "maxHealth": 40,
+            "attack": 50,
+            "health": 40,
+            "templateId": "data_miner",
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "level": 2,
+            "maxHealth": 40,
+            "templateId": "vanguard_feeder",
+            "copies": 3,
+            "health": 40,
+            "attack": 30
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "health": 45,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 35,
+            "templateId": "glitch_rat"
+          },
+          {
+            "maxHealth": 130,
+            "level": 2,
+            "copies": 5,
+            "templateId": "goldfish",
+            "health": 130,
+            "attack": 100
+          }
+        ],
+        "timestamp": 1794482187098,
+        "randomSeed": 0.4740570029840854
+      },
+      {
         "slots": [
           {
             "attack": 130,
@@ -43054,6 +44224,69 @@
       }
     ],
     "10": [
+      {
+        "id": "team_r10_1794482400929_8uprpb",
+        "round": 10,
+        "totalAtk": 270,
+        "timestamp": 1794482400929,
+        "randomSeed": 0.004266884936344195,
+        "totalHp": 290,
+        "slots": [
+          {
+            "attack": 50,
+            "health": 30,
+            "templateId": "turret_program",
+            "maxHealth": 30,
+            "copies": 4,
+            "level": 2
+          },
+          {
+            "health": 40,
+            "templateId": "data_miner",
+            "level": 2,
+            "maxHealth": 40,
+            "attack": 50,
+            "copies": 3
+          },
+          {
+            "attack": 30,
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 3,
+            "templateId": "vanguard_feeder",
+            "level": 2
+          },
+          {
+            "level": 2,
+            "templateId": "glitch_rat",
+            "copies": 4,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load"
+              }
+            ],
+            "maxHealth": 50,
+            "health": 50,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 40
+          },
+          {
+            "copies": 5,
+            "maxHealth": 130,
+            "templateId": "goldfish",
+            "attack": 100,
+            "health": 130,
+            "level": 2
+          }
+        ],
+        "name": "Corrupted Towel"
+      },
       {
         "round": 10,
         "id": "team_r10_1794324601782_d1xo96",
@@ -48677,6 +49910,69 @@
     ],
     "11": [
       {
+        "timestamp": 1794482659313,
+        "id": "team_r11_1794482659313_oyqs3g",
+        "round": 11,
+        "randomSeed": 0.8280182286691455,
+        "name": "Corrupted Towel",
+        "totalAtk": 280,
+        "slots": [
+          {
+            "level": 2,
+            "maxHealth": 35,
+            "templateId": "turret_program",
+            "copies": 5,
+            "health": 35,
+            "attack": 55
+          },
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 50,
+            "health": 40,
+            "templateId": "data_miner",
+            "level": 2
+          },
+          {
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "health": 40,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 40
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 40,
+            "health": 50,
+            "copies": 4,
+            "maxHealth": 50,
+            "level": 2,
+            "templateId": "glitch_rat"
+          },
+          {
+            "templateId": "goldfish",
+            "copies": 6,
+            "maxHealth": 135,
+            "attack": 105,
+            "health": 135,
+            "level": 3
+          }
+        ],
+        "totalHp": 300
+      },
+      {
         "id": "team_r11_1794324753342_f2jn7v",
         "slots": [
           {
@@ -54265,6 +55561,69 @@
       }
     ],
     "12": [
+      {
+        "timestamp": 1794483009715,
+        "name": "Corrupted Towel",
+        "round": 12,
+        "totalAtk": 280,
+        "randomSeed": 0.47970466897127195,
+        "slots": [
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "level": 2,
+            "attack": 55,
+            "copies": 5,
+            "templateId": "turret_program"
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "health": 40,
+            "templateId": "data_miner",
+            "maxHealth": 40,
+            "attack": 50
+          },
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "templateId": "vanguard_feeder",
+            "attack": 30,
+            "level": 2,
+            "health": 40
+          },
+          {
+            "attack": 40,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 50,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load"
+              }
+            ],
+            "copies": 4,
+            "level": 2,
+            "maxHealth": 50,
+            "templateId": "glitch_rat"
+          },
+          {
+            "maxHealth": 135,
+            "health": 135,
+            "attack": 105,
+            "level": 3,
+            "copies": 6,
+            "templateId": "goldfish"
+          }
+        ],
+        "id": "team_r12_1794483009715_uyc7fz",
+        "totalHp": 300
+      },
       {
         "name": "Flaming Trophy",
         "slots": [
@@ -60255,9 +61614,159 @@
         "name": "Stinky Vacuum",
         "id": "team_r12_1791897872066_6dy4cj",
         "randomSeed": 0.29017382398954916
+      },
+      {
+        "round": 12,
+        "totalAtk": 770,
+        "randomSeed": 0.5305803543936343,
+        "totalHp": 860,
+        "timestamp": 1791880626329,
+        "name": "Frenetic Fridge",
+        "slots": [
+          {
+            "templateId": "scrap_goat",
+            "level": 2,
+            "copies": 4,
+            "maxHealth": 320,
+            "health": 320,
+            "attack": 295
+          },
+          {
+            "level": 3,
+            "copies": 6,
+            "maxHealth": 80,
+            "health": 80,
+            "attack": 70,
+            "templateId": "data_cow"
+          },
+          {
+            "copies": 3,
+            "templateId": "wasp",
+            "maxHealth": 125,
+            "attack": 150,
+            "health": 125,
+            "level": 2
+          },
+          {
+            "templateId": "tank",
+            "maxHealth": 195,
+            "level": 2,
+            "copies": 4,
+            "health": 195,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 150
+          },
+          {
+            "attack": 105,
+            "perks": [
+              "frontload"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "name": "Frontload",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "frontload"
+              }
+            ],
+            "maxHealth": 140,
+            "health": 140,
+            "copies": 4,
+            "level": 2,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "id": "team_r12_1791880626329_j6iea8"
       }
     ],
     "13": [
+      {
+        "totalAtk": 290,
+        "round": 13,
+        "name": "Corrupted Towel",
+        "totalHp": 330,
+        "timestamp": 1794483264691,
+        "randomSeed": 0.7782807457164274,
+        "id": "team_r13_1794483264691_bzfjao",
+        "slots": [
+          {
+            "level": 2,
+            "copies": 5,
+            "maxHealth": 55,
+            "health": 55,
+            "templateId": "turret_program",
+            "mods": [
+              {
+                "id": "blockchain",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Blockchain",
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits."
+              }
+            ],
+            "perks": [
+              "blockchain"
+            ],
+            "attack": 55
+          },
+          {
+            "templateId": "data_miner",
+            "copies": 4,
+            "maxHealth": 45,
+            "attack": 55,
+            "level": 2,
+            "health": 45
+          },
+          {
+            "health": 40,
+            "templateId": "vanguard_feeder",
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 40,
+            "copies": 3
+          },
+          {
+            "health": 50,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "maxHealth": 50,
+            "attack": 40,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "copies": 4,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "level": 3,
+            "copies": 7,
+            "maxHealth": 140,
+            "health": 140,
+            "templateId": "goldfish",
+            "attack": 110
+          }
+        ]
+      },
       {
         "name": "Flaming Trophy",
         "randomSeed": 0.2504588839219507,
@@ -65955,9 +67464,158 @@
           }
         ],
         "round": 13
+      },
+      {
+        "name": "Bionic Sock",
+        "battlesCount": 2,
+        "losses": 0,
+        "id": "team_r13_1791564956095_clbb8g",
+        "wins": 2,
+        "slots": [
+          {
+            "copies": 3,
+            "maxHealth": 390,
+            "attack": 380,
+            "level": 2,
+            "templateId": "scrap_goat",
+            "health": 390
+          },
+          {
+            "attack": 55,
+            "maxHealth": 85,
+            "health": 85,
+            "templateId": "vanguard_feeder",
+            "copies": 4,
+            "level": 2
+          },
+          {
+            "copies": 7,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "maxHealth": 160,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              },
+              {
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "id": "monolith_refactor"
+              }
+            ],
+            "level": 3,
+            "attack": 21,
+            "templateId": "armor_pangolin",
+            "health": 160
+          },
+          {
+            "templateId": "trojan_exe",
+            "attack": 40,
+            "health": 70,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 70
+          },
+          {
+            "templateId": "goldfish",
+            "level": 2,
+            "copies": 3,
+            "health": 95,
+            "attack": 75,
+            "maxHealth": 95
+          }
+        ],
+        "lastBattleTime": 1791919515439,
+        "totalHp": 800,
+        "totalAtk": 571,
+        "round": 13,
+        "randomSeed": 0.9739500916805054,
+        "timestamp": 1791564956095
       }
     ],
     "14": [
+      {
+        "totalAtk": 305,
+        "round": 14,
+        "totalHp": 345,
+        "name": "Corrupted Towel",
+        "randomSeed": 0.9129174424503401,
+        "id": "team_r14_1794483356630_sbg9jc",
+        "slots": [
+          {
+            "health": 60,
+            "maxHealth": 60,
+            "attack": 60,
+            "templateId": "turret_program",
+            "level": 3,
+            "mods": [
+              {
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Blockchain",
+                "id": "blockchain"
+              }
+            ],
+            "perks": [
+              "blockchain"
+            ],
+            "copies": 6
+          },
+          {
+            "copies": 4,
+            "level": 2,
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "data_miner",
+            "attack": 55
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 60,
+            "copies": 6,
+            "templateId": "glitch_rat",
+            "level": 3,
+            "health": 60,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 50
+          },
+          {
+            "attack": 110,
+            "maxHealth": 140,
+            "health": 140,
+            "copies": 7,
+            "level": 3,
+            "templateId": "goldfish"
+          }
+        ],
+        "timestamp": 1794483356630
+      },
       {
         "totalHp": 230,
         "name": "Flaming Trophy",
@@ -71850,6 +73508,81 @@
     ],
     "15": [
       {
+        "round": 15,
+        "id": "team_r15_1794483502907_8osy2w",
+        "timestamp": 1794483502907,
+        "randomSeed": 0.10886157806659458,
+        "name": "Corrupted Towel",
+        "totalAtk": 310,
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "level": 3,
+            "copies": 6,
+            "mods": [
+              {
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "id": "blockchain",
+                "bonusHealth": 0,
+                "name": "Blockchain",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 60,
+            "health": 60,
+            "perks": [
+              "blockchain"
+            ],
+            "attack": 60
+          },
+          {
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 55,
+            "health": 45,
+            "templateId": "data_miner",
+            "level": 2
+          },
+          {
+            "level": 2,
+            "health": 40,
+            "attack": 30,
+            "maxHealth": 40,
+            "templateId": "vanguard_feeder",
+            "copies": 3
+          },
+          {
+            "maxHealth": 60,
+            "level": 3,
+            "health": 60,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "attack": 50,
+            "templateId": "glitch_rat",
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 6
+          },
+          {
+            "attack": 115,
+            "health": 145,
+            "templateId": "goldfish",
+            "level": 3,
+            "copies": 8,
+            "maxHealth": 145
+          }
+        ],
+        "totalHp": 350
+      },
+      {
         "arenaSkinId": "arena_ruhr_valley",
         "timestamp": 1793958817345,
         "name": "Wobbly Badger",
@@ -76569,6 +78302,81 @@
       }
     ],
     "16": [
+      {
+        "totalAtk": 315,
+        "slots": [
+          {
+            "copies": 6,
+            "perks": [
+              "blockchain"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "id": "blockchain",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Blockchain"
+              }
+            ],
+            "attack": 60,
+            "level": 3,
+            "maxHealth": 60,
+            "templateId": "turret_program",
+            "health": 60
+          },
+          {
+            "health": 45,
+            "maxHealth": 45,
+            "level": 2,
+            "attack": 55,
+            "templateId": "data_miner",
+            "copies": 4
+          },
+          {
+            "level": 2,
+            "maxHealth": 45,
+            "copies": 4,
+            "health": 45,
+            "attack": 35,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "copies": 6,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 60,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 50,
+            "level": 3,
+            "templateId": "glitch_rat",
+            "health": 60
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 115,
+            "health": 145,
+            "copies": 8,
+            "maxHealth": 145,
+            "level": 3
+          }
+        ],
+        "name": "Corrupted Towel",
+        "randomSeed": 0.7283612799661036,
+        "timestamp": 1794483614062,
+        "totalHp": 355,
+        "round": 16,
+        "id": "team_r16_1794483614062_xxg2io"
+      },
       {
         "timestamp": 1793968034534,
         "totalAtk": 395,
