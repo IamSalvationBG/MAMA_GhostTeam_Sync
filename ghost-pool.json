@@ -1,10 +1,124 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794499917763,
-  "lastSyncDate": "2026-11-12",
-  "totalReadsPerformed": 5910,
+  "lastSyncTimestamp": 1794584415312,
+  "lastSyncDate": "2026-11-13",
+  "totalReadsPerformed": 6071,
   "rounds": {
     "1": [
+      {
+        "id": "team_r1_1794523237998_1lvz1m",
+        "randomSeed": 0.049284953910251894,
+        "name": "Panicking Teapot",
+        "round": 1,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 35,
+            "level": 1,
+            "templateId": "overclocker",
+            "attack": 35,
+            "maxHealth": 35
+          },
+          {
+            "templateId": "crypto_staker",
+            "copies": 1,
+            "health": 25,
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "attack": 35,
+            "templateId": "weapon_proxy",
+            "copies": 1,
+            "health": 25,
+            "maxHealth": 25
+          },
+          {
+            "copies": 1,
+            "health": 25,
+            "attack": 40,
+            "templateId": "malware_injector",
+            "maxHealth": 25,
+            "level": 1
+          },
+          {
+            "templateId": "relay_proxy",
+            "level": 1,
+            "attack": 35,
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35
+          }
+        ],
+        "totalHp": 145,
+        "timestamp": 1794523237998,
+        "totalAtk": 170
+      },
+      {
+        "timestamp": 1794581352781,
+        "round": 1,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 35,
+            "health": 25,
+            "copies": 1,
+            "maxHealth": 25,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "health": 35,
+            "copies": 1,
+            "templateId": "overclock_hub",
+            "level": 1,
+            "maxHealth": 35,
+            "attack": 35
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "health": 35,
+            "copies": 1,
+            "maxHealth": 35
+          },
+          {
+            "templateId": "glitch_rat",
+            "health": 25,
+            "copies": 1,
+            "attack": 15,
+            "maxHealth": 25,
+            "level": 1
+          },
+          {
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 30,
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 25,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "health": 25,
+            "copies": 1
+          }
+        ],
+        "randomSeed": 0.7111485713514202,
+        "name": "Menacing Pigeon",
+        "id": "team_r1_1794581352781_ty4n0e",
+        "totalHp": 145,
+        "totalAtk": 145
+      },
       {
         "slots": [
           {
@@ -4401,9 +4515,180 @@
             "templateId": "glitch_rat"
           }
         ]
+      },
+      {
+        "totalAtk": 140,
+        "name": "Cranky Submarine",
+        "timestamp": 1791976765958,
+        "totalHp": 185,
+        "slots": [
+          {
+            "maxHealth": 15,
+            "copies": 1,
+            "health": 15,
+            "templateId": "buffer_bug",
+            "level": 1,
+            "attack": 15,
+            "foil": "foil_prismatic"
+          },
+          {
+            "attack": 30,
+            "templateId": "shield_proxy",
+            "foil": "foil_prismatic",
+            "level": 1,
+            "copies": 1,
+            "health": 35,
+            "maxHealth": 35
+          },
+          {
+            "health": 45,
+            "copies": 1,
+            "level": 1,
+            "templateId": "byte_donor",
+            "maxHealth": 45,
+            "attack": 40,
+            "foil": "foil_prismatic"
+          },
+          {
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "maxHealth": 50,
+            "attack": 35,
+            "copies": 1,
+            "health": 50,
+            "foil": "foil_prismatic"
+          },
+          {
+            "foil": "foil_prismatic",
+            "maxHealth": 40,
+            "copies": 1,
+            "health": 40,
+            "attack": 20,
+            "templateId": "glitch_rat",
+            "level": 1
+          }
+        ],
+        "round": 1,
+        "randomSeed": 0.8209561145082737,
+        "teamFoilId": "foil_prismatic",
+        "id": "team_r1_1791976765958_hqpfsc"
       }
     ],
     "2": [
+      {
+        "totalAtk": 175,
+        "totalHp": 190,
+        "name": "Panicking Teapot",
+        "timestamp": 1794523369503,
+        "randomSeed": 0.6138362448750122,
+        "slots": [
+          {
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 1,
+            "templateId": "shield_proxy"
+          },
+          {
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "maxHealth": 30,
+            "attack": 40,
+            "copies": 2,
+            "health": 30
+          },
+          {
+            "level": 1,
+            "templateId": "overclocker",
+            "maxHealth": 35,
+            "attack": 35,
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "templateId": "trojan_distributor",
+            "copies": 1,
+            "health": 55,
+            "attack": 30,
+            "maxHealth": 55,
+            "level": 1
+          },
+          {
+            "attack": 35,
+            "maxHealth": 35,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "copies": 1
+          }
+        ],
+        "round": 2,
+        "id": "team_r2_1794523369503_49te3v"
+      },
+      {
+        "id": "team_r2_1794581418155_d55ydz",
+        "round": 2,
+        "slots": [
+          {
+            "templateId": "weapon_proxy",
+            "health": 25,
+            "copies": 1,
+            "maxHealth": 25,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "attack": 40,
+            "templateId": "overclock_hub",
+            "level": 1,
+            "maxHealth": 40,
+            "copies": 2,
+            "health": 40
+          },
+          {
+            "health": 35,
+            "copies": 1,
+            "attack": 30,
+            "templateId": "trojan_distributor",
+            "maxHealth": 35,
+            "level": 1
+          },
+          {
+            "copies": 2,
+            "health": 30,
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 30,
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 45,
+            "level": 1,
+            "maxHealth": 35,
+            "templateId": "relay_proxy",
+            "copies": 1,
+            "health": 35,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0
+              }
+            ]
+          }
+        ],
+        "timestamp": 1794581418155,
+        "name": "Menacing Pigeon",
+        "totalHp": 165,
+        "randomSeed": 0.4730076375781779,
+        "totalAtk": 170
+      },
       {
         "totalAtk": 125,
         "randomSeed": 0.06317402515129789,
@@ -8772,9 +9057,255 @@
         "totalAtk": 125,
         "timestamp": 1791764528595,
         "randomSeed": 0.43921822522252696
+      },
+      {
+        "teamFoilId": "foil_prismatic",
+        "id": "team_r2_1791899009482_9ay2gj",
+        "round": 2,
+        "slots": [
+          {
+            "copies": 3,
+            "health": 30,
+            "level": 2,
+            "foil": "foil_prismatic",
+            "templateId": "turret_program",
+            "maxHealth": 30,
+            "attack": 30
+          },
+          {
+            "maxHealth": 30,
+            "copies": 2,
+            "health": 30,
+            "level": 1,
+            "attack": 40,
+            "foil": "foil_prismatic",
+            "templateId": "weapon_proxy"
+          },
+          {
+            "templateId": "malware_injector",
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 45,
+            "copies": 2,
+            "health": 30,
+            "foil": "foil_prismatic"
+          },
+          {
+            "attack": 30,
+            "foil": "foil_prismatic",
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "health": 30,
+            "copies": 2
+          },
+          {
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 40,
+            "foil": "foil_prismatic",
+            "copies": 2,
+            "health": 30,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "randomSeed": 0.9184962624608802,
+        "timestamp": 1791899009482,
+        "totalHp": 150,
+        "totalAtk": 185,
+        "name": "Lethargic Fridge"
+      },
+      {
+        "timestamp": 1791817169414,
+        "totalHp": 145,
+        "randomSeed": 0.9303945716722234,
+        "name": "Gigantic Rubberduck",
+        "id": "team_r2_1791817169414_4q61jc",
+        "slots": [
+          {
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 20,
+            "health": 20,
+            "copies": 2,
+            "templateId": "turret_program"
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "attack": 40
+          },
+          {
+            "attack": 20,
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "attack": 15,
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "health": 25
+          },
+          {
+            "level": 2,
+            "attack": 30,
+            "templateId": "goldfish",
+            "health": 40,
+            "copies": 3,
+            "perks": [
+              "backup"
+            ],
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 40
+          }
+        ],
+        "round": 2,
+        "totalAtk": 125
       }
     ],
     "3": [
+      {
+        "totalAtk": 190,
+        "totalHp": 205,
+        "name": "Panicking Teapot",
+        "round": 3,
+        "slots": [
+          {
+            "health": 40,
+            "copies": 2,
+            "level": 1,
+            "templateId": "shield_proxy",
+            "maxHealth": 40,
+            "attack": 40
+          },
+          {
+            "templateId": "weapon_proxy",
+            "health": 30,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 40
+          },
+          {
+            "attack": 35,
+            "maxHealth": 35,
+            "templateId": "overclocker",
+            "copies": 1,
+            "health": 35,
+            "level": 1
+          },
+          {
+            "health": 60,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 60,
+            "templateId": "trojan_distributor",
+            "attack": 35
+          },
+          {
+            "templateId": "relay_proxy",
+            "maxHealth": 40,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 2,
+            "health": 40,
+            "attack": 40,
+            "level": 1,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ]
+          }
+        ],
+        "id": "team_r3_1794523497131_p53mdy",
+        "randomSeed": 0.38027737478012313,
+        "timestamp": 1794523497131
+      },
+      {
+        "id": "team_r3_1794581476983_oomx6f",
+        "name": "Menacing Pigeon",
+        "round": 3,
+        "slots": [
+          {
+            "maxHealth": 35,
+            "templateId": "weapon_proxy",
+            "copies": 2,
+            "health": 35,
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "attack": 40,
+            "health": 45,
+            "templateId": "overclock_hub",
+            "copies": 2,
+            "maxHealth": 45
+          },
+          {
+            "maxHealth": 40,
+            "copies": 1,
+            "health": 40,
+            "level": 1,
+            "attack": 30,
+            "templateId": "trojan_distributor"
+          },
+          {
+            "attack": 45,
+            "maxHealth": 35,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "copies": 2,
+            "health": 35
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 65,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 65,
+            "copies": 2,
+            "templateId": "relay_proxy",
+            "level": 1,
+            "attack": 55
+          }
+        ],
+        "randomSeed": 0.7337187551065312,
+        "timestamp": 1794581476983,
+        "totalHp": 220,
+        "totalAtk": 210
+      },
       {
         "timestamp": 1794423217582,
         "randomSeed": 0.8974981718030715,
@@ -13231,6 +13762,144 @@
       }
     ],
     "4": [
+      {
+        "id": "team_r4_1794523779766_96whdv",
+        "totalAtk": 205,
+        "timestamp": 1794523779766,
+        "totalHp": 230,
+        "round": 4,
+        "slots": [
+          {
+            "health": 60,
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 60,
+            "templateId": "shield_proxy",
+            "attack": 70
+          },
+          {
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "health": 35,
+            "copies": 2,
+            "maxHealth": 35,
+            "level": 1
+          },
+          {
+            "maxHealth": 45,
+            "level": 1,
+            "attack": 25,
+            "health": 45,
+            "copies": 1,
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 40,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "trojan_distributor",
+            "maxHealth": 65,
+            "level": 1,
+            "mods": [
+              {
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 65,
+            "copies": 2
+          },
+          {
+            "health": 25,
+            "copies": 2,
+            "level": 1,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "id": "backup",
+                "bonusHealth": 0,
+                "name": "Back up"
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "templateId": "spam_pigeon",
+            "maxHealth": 25,
+            "attack": 25
+          }
+        ],
+        "randomSeed": 0.16252504393711664,
+        "name": "Panicking Teapot"
+      },
+      {
+        "id": "team_r4_1794581593686_vctu7e",
+        "totalAtk": 230,
+        "timestamp": 1794581593686,
+        "randomSeed": 0.4675307873508765,
+        "totalHp": 235,
+        "round": 4,
+        "slots": [
+          {
+            "templateId": "weapon_proxy",
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 2,
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "templateId": "overclock_hub",
+            "level": 1,
+            "attack": 40,
+            "copies": 2,
+            "health": 45,
+            "maxHealth": 45
+          },
+          {
+            "templateId": "trojan_distributor",
+            "attack": 30,
+            "level": 1,
+            "copies": 1,
+            "health": 40,
+            "maxHealth": 40
+          },
+          {
+            "attack": 65,
+            "level": 1,
+            "health": 50,
+            "copies": 1,
+            "maxHealth": 50,
+            "templateId": "bouncer_exe"
+          },
+          {
+            "templateId": "relay_proxy",
+            "level": 1,
+            "attack": 55,
+            "maxHealth": 65,
+            "health": 65,
+            "copies": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "name": "Menacing Pigeon"
+      },
       {
         "randomSeed": 0.788907389541526,
         "totalAtk": 150,
@@ -18008,6 +18677,156 @@
     ],
     "5": [
       {
+        "randomSeed": 0.2171865400962436,
+        "name": "Panicking Teapot",
+        "slots": [
+          {
+            "level": 2,
+            "attack": 70,
+            "health": 60,
+            "copies": 5,
+            "maxHealth": 60,
+            "templateId": "shield_proxy"
+          },
+          {
+            "maxHealth": 35,
+            "level": 1,
+            "attack": 45,
+            "health": 35,
+            "copies": 2,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "level": 1,
+            "attack": 30,
+            "templateId": "glitch_rat",
+            "health": 50,
+            "copies": 2,
+            "maxHealth": 50
+          },
+          {
+            "level": 1,
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "attack": 40,
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 65,
+            "copies": 2,
+            "health": 65,
+            "templateId": "trojan_distributor"
+          },
+          {
+            "attack": 30,
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 30,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "name": "Back up",
+                "bonusHealth": 0,
+                "id": "backup"
+              }
+            ],
+            "templateId": "spam_pigeon",
+            "health": 30,
+            "copies": 3,
+            "level": 2
+          }
+        ],
+        "round": 5,
+        "timestamp": 1794523898826,
+        "totalAtk": 215,
+        "id": "team_r5_1794523898826_oyac19",
+        "totalHp": 240
+      },
+      {
+        "round": 5,
+        "slots": [
+          {
+            "level": 2,
+            "attack": 45,
+            "health": 40,
+            "copies": 3,
+            "templateId": "weapon_proxy",
+            "maxHealth": 40
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "templateId": "david_exe",
+            "attack": 30,
+            "maxHealth": 30
+          },
+          {
+            "attack": 30,
+            "templateId": "wasp",
+            "maxHealth": 20,
+            "level": 1,
+            "copies": 1,
+            "health": 20
+          },
+          {
+            "maxHealth": 50,
+            "level": 1,
+            "attack": 65,
+            "health": 50,
+            "copies": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "templateId": "bouncer_exe"
+          },
+          {
+            "health": 65,
+            "copies": 2,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 1,
+            "maxHealth": 65,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "relay_proxy",
+            "attack": 55
+          }
+        ],
+        "timestamp": 1794581729255,
+        "totalAtk": 225,
+        "name": "Menacing Pigeon",
+        "id": "team_r5_1794581729255_am8ile",
+        "randomSeed": 0.4425337891137182,
+        "totalHp": 205
+      },
+      {
         "timestamp": 1794423623949,
         "randomSeed": 0.14150846028283415,
         "totalAtk": 155,
@@ -22690,9 +23509,273 @@
             "level": 1
           }
         ]
+      },
+      {
+        "timestamp": 1791988609215,
+        "totalHp": 205,
+        "randomSeed": 0.8915255408719409,
+        "totalAtk": 220,
+        "id": "team_r5_1791988609215_p4hg14",
+        "round": 5,
+        "slots": [
+          {
+            "health": 45,
+            "copies": 4,
+            "attack": 65,
+            "level": 2,
+            "maxHealth": 45,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "id": "backup"
+              }
+            ],
+            "level": 2,
+            "attack": 50,
+            "health": 40,
+            "copies": 3,
+            "maxHealth": 40,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "glitch_rat"
+          },
+          {
+            "attack": 30,
+            "templateId": "berserk_node",
+            "maxHealth": 55,
+            "level": 1,
+            "health": 55,
+            "copies": 1
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 2,
+            "health": 45,
+            "attack": 45,
+            "level": 1,
+            "maxHealth": 45
+          },
+          {
+            "level": 1,
+            "maxHealth": 20,
+            "templateId": "drone_mosquito",
+            "attack": 30,
+            "copies": 1,
+            "health": 20
+          }
+        ],
+        "name": "Cheesy Duck"
+      },
+      {
+        "totalHp": 210,
+        "id": "team_r5_1791811823732_d9kai4",
+        "name": "Fluffy Pants",
+        "timestamp": 1791811823732,
+        "totalAtk": 225,
+        "slots": [
+          {
+            "maxHealth": 25,
+            "copies": 1,
+            "health": 25,
+            "level": 1,
+            "templateId": "router_rooster",
+            "attack": 30
+          },
+          {
+            "level": 2,
+            "maxHealth": 35,
+            "attack": 40,
+            "health": 35,
+            "copies": 3,
+            "templateId": "crypto_staker"
+          },
+          {
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "attack": 30,
+            "copies": 2,
+            "health": 35,
+            "maxHealth": 35
+          },
+          {
+            "attack": 45,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "maxHealth": 50,
+            "health": 50,
+            "copies": 5
+          },
+          {
+            "mods": [
+              {
+                "id": "backup",
+                "name": "Back up",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "health": 65,
+            "copies": 5,
+            "templateId": "goldfish",
+            "level": 2,
+            "attack": 80,
+            "maxHealth": 65
+          }
+        ],
+        "round": 5,
+        "randomSeed": 0.898618191405126
       }
     ],
     "6": [
+      {
+        "totalAtk": 225,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "templateId": "shield_proxy",
+            "health": 60,
+            "copies": 5,
+            "level": 2,
+            "attack": 70
+          },
+          {
+            "health": 35,
+            "copies": 2,
+            "attack": 45,
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "maxHealth": 35
+          },
+          {
+            "attack": 35,
+            "maxHealth": 55,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "health": 55,
+            "copies": 3
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "attack": 30,
+            "mods": [
+              {
+                "id": "backup",
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 30,
+            "level": 2,
+            "templateId": "spam_pigeon",
+            "copies": 3,
+            "health": 30
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load"
+              }
+            ],
+            "maxHealth": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 45,
+            "level": 1,
+            "health": 45,
+            "copies": 2,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "round": 6,
+        "totalHp": 225,
+        "id": "team_r6_1794524007399_0ix4qx",
+        "timestamp": 1794524007399,
+        "randomSeed": 0.029995450156776626,
+        "name": "Panicking Teapot"
+      },
+      {
+        "randomSeed": 0.2491046698985585,
+        "name": "Menacing Pigeon",
+        "timestamp": 1794581832840,
+        "round": 6,
+        "slots": [
+          {
+            "maxHealth": 40,
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "health": 40,
+            "copies": 3
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "attack": 30,
+            "templateId": "david_exe"
+          },
+          {
+            "copies": 1,
+            "health": 20,
+            "templateId": "wasp",
+            "level": 1,
+            "maxHealth": 20,
+            "attack": 30
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 50,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 50,
+            "copies": 1,
+            "templateId": "bouncer_exe",
+            "level": 1,
+            "attack": 85
+          },
+          {
+            "health": 70,
+            "copies": 1,
+            "level": 1,
+            "templateId": "armor_pangolin",
+            "maxHealth": 70,
+            "attack": 20
+          }
+        ],
+        "totalHp": 210,
+        "id": "team_r6_1794581832840_4qgyxk",
+        "totalAtk": 210
+      },
       {
         "randomSeed": 0.549161746120051,
         "round": 6,
@@ -28004,6 +29087,144 @@
       }
     ],
     "7": [
+      {
+        "id": "team_r7_1794524149331_vb2kqr",
+        "name": "Panicking Teapot",
+        "totalAtk": 235,
+        "randomSeed": 0.8767254240757925,
+        "timestamp": 1794524149331,
+        "totalHp": 235,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "attack": 70,
+            "level": 2,
+            "templateId": "shield_proxy",
+            "health": 60,
+            "copies": 5
+          },
+          {
+            "health": 35,
+            "copies": 2,
+            "maxHealth": 35,
+            "level": 1,
+            "attack": 45,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "attack": 35,
+            "templateId": "glitch_rat",
+            "maxHealth": 55,
+            "level": 2,
+            "health": 55,
+            "copies": 3
+          },
+          {
+            "attack": 35,
+            "templateId": "spam_pigeon",
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 35,
+            "mods": [
+              {
+                "id": "backup",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "copies": 4,
+            "health": 35
+          },
+          {
+            "maxHealth": 50,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "health": 50,
+            "copies": 3,
+            "templateId": "relay_proxy",
+            "attack": 50,
+            "level": 2
+          }
+        ],
+        "round": 7
+      },
+      {
+        "randomSeed": 0.7333225597728209,
+        "round": 7,
+        "slots": [
+          {
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "templateId": "bsod",
+            "maxHealth": 30,
+            "attack": 40
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "templateId": "david_exe",
+            "level": 1,
+            "attack": 30,
+            "maxHealth": 30
+          },
+          {
+            "maxHealth": 20,
+            "copies": 1,
+            "health": 20,
+            "level": 1,
+            "templateId": "wasp",
+            "attack": 30
+          },
+          {
+            "health": 50,
+            "copies": 1,
+            "level": 1,
+            "templateId": "bouncer_exe",
+            "maxHealth": 50,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 85
+          },
+          {
+            "attack": 25,
+            "maxHealth": 75,
+            "templateId": "armor_pangolin",
+            "copies": 2,
+            "health": 75,
+            "level": 1
+          }
+        ],
+        "totalHp": 205,
+        "name": "Menacing Pigeon",
+        "totalAtk": 210,
+        "timestamp": 1794581914106,
+        "id": "team_r7_1794581914106_svknff"
+      },
       {
         "timestamp": 1794481992389,
         "totalAtk": 220,
@@ -33487,6 +34708,144 @@
       }
     ],
     "8": [
+      {
+        "totalAtk": 245,
+        "id": "team_r8_1794524226809_x18ykk",
+        "name": "Panicking Teapot",
+        "timestamp": 1794524226809,
+        "totalHp": 245,
+        "round": 8,
+        "slots": [
+          {
+            "attack": 70,
+            "maxHealth": 60,
+            "templateId": "shield_proxy",
+            "copies": 5,
+            "health": 60,
+            "level": 2
+          },
+          {
+            "attack": 45,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "copies": 3,
+            "health": 55,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "maxHealth": 55,
+            "attack": 35
+          },
+          {
+            "maxHealth": 45,
+            "perks": [
+              "backup"
+            ],
+            "health": 45,
+            "copies": 6,
+            "attack": 45,
+            "level": 3,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0,
+                "name": "Back up"
+              }
+            ],
+            "templateId": "spam_pigeon"
+          },
+          {
+            "health": 50,
+            "copies": 3,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "level": 2,
+            "maxHealth": 50,
+            "templateId": "relay_proxy",
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 50
+          }
+        ],
+        "randomSeed": 0.15769298515611152
+      },
+      {
+        "randomSeed": 0.4928240862328559,
+        "slots": [
+          {
+            "level": 1,
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "templateId": "bsod",
+            "attack": 40
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "templateId": "david_exe",
+            "maxHealth": 30,
+            "attack": 30
+          },
+          {
+            "maxHealth": 20,
+            "health": 20,
+            "copies": 1,
+            "attack": 30,
+            "templateId": "wasp",
+            "level": 1
+          },
+          {
+            "maxHealth": 55,
+            "health": 55,
+            "copies": 2,
+            "level": 1,
+            "templateId": "bouncer_exe",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 90,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "maxHealth": 80,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "attack": 30,
+            "health": 80,
+            "copies": 3
+          }
+        ],
+        "round": 8,
+        "totalHp": 215,
+        "totalAtk": 220,
+        "timestamp": 1794581997522,
+        "id": "team_r8_1794581997522_yl5h0l",
+        "name": "Menacing Pigeon"
+      },
       {
         "randomSeed": 0.4834971244857581,
         "id": "team_r8_1794482082415_3ljul2",
@@ -39050,6 +40409,144 @@
     ],
     "9": [
       {
+        "name": "Panicking Teapot",
+        "totalHp": 250,
+        "slots": [
+          {
+            "copies": 5,
+            "health": 60,
+            "templateId": "shield_proxy",
+            "level": 2,
+            "attack": 70,
+            "maxHealth": 60
+          },
+          {
+            "copies": 2,
+            "health": 35,
+            "maxHealth": 35,
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "attack": 45
+          },
+          {
+            "maxHealth": 55,
+            "attack": 35,
+            "level": 2,
+            "copies": 3,
+            "health": 55,
+            "templateId": "glitch_rat"
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 50,
+            "health": 50,
+            "copies": 7,
+            "attack": 50,
+            "templateId": "spam_pigeon",
+            "level": 3,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "id": "backup",
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "attack": 50,
+            "templateId": "relay_proxy",
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 50,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "copies": 3,
+            "health": 50
+          }
+        ],
+        "round": 9,
+        "id": "team_r9_1794524355264_v3xj37",
+        "timestamp": 1794524355264,
+        "totalAtk": 250,
+        "randomSeed": 0.5798393541373259
+      },
+      {
+        "totalAtk": 230,
+        "slots": [
+          {
+            "maxHealth": 30,
+            "attack": 40,
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "templateId": "bsod"
+          },
+          {
+            "copies": 1,
+            "health": 30,
+            "attack": 30,
+            "templateId": "david_exe",
+            "level": 1,
+            "maxHealth": 30
+          },
+          {
+            "maxHealth": 25,
+            "copies": 2,
+            "health": 25,
+            "level": 1,
+            "attack": 35,
+            "templateId": "wasp"
+          },
+          {
+            "health": 80,
+            "copies": 3,
+            "level": 2,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded"
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 80,
+            "templateId": "bouncer_exe",
+            "attack": 95
+          },
+          {
+            "attack": 30,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "maxHealth": 80,
+            "copies": 3,
+            "health": 80
+          }
+        ],
+        "round": 9,
+        "id": "team_r9_1794582063713_xsr6tb",
+        "name": "Menacing Pigeon",
+        "randomSeed": 0.4060866048769636,
+        "timestamp": 1794582063713,
+        "totalHp": 245
+      },
+      {
         "name": "Corrupted Towel",
         "round": 9,
         "totalAtk": 265,
@@ -44224,6 +45721,156 @@
       }
     ],
     "10": [
+      {
+        "randomSeed": 0.0004072737224286582,
+        "name": "Panicking Teapot",
+        "totalAtk": 250,
+        "round": 10,
+        "slots": [
+          {
+            "attack": 70,
+            "level": 2,
+            "templateId": "shield_proxy",
+            "health": 60,
+            "copies": 5,
+            "maxHealth": 60
+          },
+          {
+            "maxHealth": 35,
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "copies": 2,
+            "health": 35
+          },
+          {
+            "health": 65,
+            "copies": 3,
+            "level": 2,
+            "mods": [
+              {
+                "id": "backup",
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "templateId": "glitch_rat",
+            "maxHealth": 65,
+            "attack": 35
+          },
+          {
+            "maxHealth": 50,
+            "copies": 7,
+            "health": 50,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "spam_pigeon",
+            "attack": 50,
+            "mods": [
+              {
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "level": 3
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "health": 50,
+            "templateId": "relay_proxy",
+            "mods": [
+              {
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Back up"
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 50,
+            "attack": 50
+          }
+        ],
+        "totalHp": 260,
+        "id": "team_r10_1794524493464_6y4xfu",
+        "timestamp": 1794524493464
+      },
+      {
+        "round": 10,
+        "slots": [
+          {
+            "templateId": "bsod",
+            "maxHealth": 50,
+            "attack": 60,
+            "level": 1,
+            "copies": 1,
+            "health": 50
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 30,
+            "templateId": "david_exe",
+            "attack": 30
+          },
+          {
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 2,
+            "templateId": "wasp",
+            "level": 1,
+            "attack": 35
+          },
+          {
+            "templateId": "bouncer_exe",
+            "level": 2,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "attack": 120,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 4,
+            "health": 135,
+            "maxHealth": 135
+          },
+          {
+            "health": 80,
+            "copies": 3,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "maxHealth": 80,
+            "attack": 30
+          }
+        ],
+        "totalHp": 320,
+        "randomSeed": 0.6289008168591284,
+        "id": "team_r10_1794582112133_fpd15b",
+        "name": "Menacing Pigeon",
+        "totalAtk": 275,
+        "timestamp": 1794582112133
+      },
       {
         "id": "team_r10_1794482400929_8uprpb",
         "round": 10,
@@ -49910,6 +51557,144 @@
     ],
     "11": [
       {
+        "totalHp": 290,
+        "totalAtk": 250,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "health": 60,
+            "copies": 5,
+            "attack": 70,
+            "templateId": "shield_proxy",
+            "level": 2
+          },
+          {
+            "maxHealth": 35,
+            "templateId": "weapon_proxy",
+            "health": 35,
+            "copies": 2,
+            "level": 1,
+            "attack": 45
+          },
+          {
+            "attack": 50,
+            "maxHealth": 80,
+            "health": 80,
+            "copies": 1,
+            "templateId": "action_jackson",
+            "level": 1
+          },
+          {
+            "maxHealth": 65,
+            "copies": 3,
+            "health": 65,
+            "level": 2,
+            "attack": 35,
+            "perks": [
+              "backup"
+            ],
+            "mods": [
+              {
+                "name": "Back up",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "glitch_rat"
+          },
+          {
+            "level": 3,
+            "templateId": "spam_pigeon",
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "attack": 50,
+            "copies": 7,
+            "perks": [
+              "backup"
+            ],
+            "health": 50,
+            "maxHealth": 50
+          }
+        ],
+        "round": 11,
+        "id": "team_r11_1794524634563_b5oair",
+        "timestamp": 1794524634563,
+        "randomSeed": 0.8886150477604334,
+        "name": "Panicking Teapot"
+      },
+      {
+        "totalAtk": 305,
+        "totalHp": 350,
+        "name": "Menacing Pigeon",
+        "timestamp": 1794582158296,
+        "randomSeed": 0.7871741690282129,
+        "round": 11,
+        "slots": [
+          {
+            "templateId": "bsod",
+            "health": 50,
+            "copies": 1,
+            "maxHealth": 50,
+            "attack": 60,
+            "level": 1
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "attack": 30,
+            "templateId": "david_exe",
+            "level": 1,
+            "maxHealth": 30
+          },
+          {
+            "maxHealth": 25,
+            "templateId": "wasp",
+            "health": 25,
+            "copies": 2,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "copies": 4,
+            "health": 135,
+            "level": 2,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 135,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe",
+            "attack": 150
+          },
+          {
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 3,
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "attack": 30
+          }
+        ],
+        "id": "team_r11_1794582158296_6ntx99"
+      },
+      {
         "timestamp": 1794482659313,
         "id": "team_r11_1794482659313_oyqs3g",
         "round": 11,
@@ -55558,9 +57343,202 @@
         ],
         "name": "Suspicious Trophy",
         "id": "team_r11_1791805451323_ql57vm"
+      },
+      {
+        "totalHp": 735,
+        "randomSeed": 0.35284298809220804,
+        "losses": 0,
+        "lastBattleTime": 1791980731041,
+        "timestamp": 1791922443032,
+        "totalAtk": 795,
+        "battlesCount": 2,
+        "slots": [
+          {
+            "health": 115,
+            "templateId": "crypto_staker",
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 115,
+            "attack": 120
+          },
+          {
+            "attack": 120,
+            "maxHealth": 50,
+            "templateId": "buffer_bug",
+            "level": 2,
+            "health": 50,
+            "copies": 5
+          },
+          {
+            "copies": 9,
+            "health": 165,
+            "attack": 90,
+            "maxHealth": 165,
+            "templateId": "defrag_otter",
+            "level": 4
+          },
+          {
+            "maxHealth": 290,
+            "health": 290,
+            "copies": 5,
+            "level": 2,
+            "attack": 295,
+            "templateId": "scrap_goat"
+          },
+          {
+            "templateId": "trex",
+            "health": 115,
+            "copies": 3,
+            "attack": 170,
+            "maxHealth": 115,
+            "level": 2
+          }
+        ],
+        "round": 11,
+        "wins": 2,
+        "id": "team_r11_1791922443032_vxihjw",
+        "name": "Crispy Sandwich"
       }
     ],
     "12": [
+      {
+        "timestamp": 1794524763024,
+        "randomSeed": 0.5451358785189403,
+        "totalHp": 290,
+        "round": 12,
+        "slots": [
+          {
+            "attack": 70,
+            "templateId": "shield_proxy",
+            "maxHealth": 60,
+            "health": 60,
+            "copies": 5,
+            "level": 2
+          },
+          {
+            "level": 1,
+            "attack": 45,
+            "maxHealth": 35,
+            "copies": 2,
+            "health": 35,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "templateId": "action_jackson",
+            "health": 80,
+            "copies": 1,
+            "maxHealth": 80,
+            "attack": 50,
+            "level": 1
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "copies": 3,
+            "health": 65,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 65,
+            "level": 2,
+            "attack": 35,
+            "templateId": "glitch_rat"
+          },
+          {
+            "level": 3,
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "maxHealth": 50,
+            "attack": 50,
+            "templateId": "spam_pigeon",
+            "copies": 7,
+            "health": 50,
+            "perks": [
+              "backup"
+            ]
+          }
+        ],
+        "totalAtk": 250,
+        "id": "team_r12_1794524763024_d8byi2",
+        "name": "Panicking Teapot"
+      },
+      {
+        "name": "Menacing Pigeon",
+        "round": 12,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 50,
+            "templateId": "bsod",
+            "attack": 60,
+            "level": 1,
+            "maxHealth": 50
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "templateId": "david_exe",
+            "attack": 30,
+            "copies": 1,
+            "health": 30
+          },
+          {
+            "health": 25,
+            "copies": 2,
+            "maxHealth": 25,
+            "level": 1,
+            "templateId": "wasp",
+            "attack": 35
+          },
+          {
+            "copies": 4,
+            "health": 155,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "maxHealth": 155,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe",
+            "attack": 150
+          },
+          {
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "copies": 4,
+            "health": 115,
+            "maxHealth": 115,
+            "attack": 65
+          }
+        ],
+        "randomSeed": 0.417365333283918,
+        "totalAtk": 340,
+        "timestamp": 1794582205619,
+        "id": "team_r12_1794582205619_u9bw1n",
+        "totalHp": 375
+      },
       {
         "timestamp": 1794483009715,
         "name": "Corrupted Towel",
@@ -61693,6 +63671,144 @@
     ],
     "13": [
       {
+        "randomSeed": 0.4098401373494982,
+        "timestamp": 1794524896645,
+        "totalAtk": 250,
+        "totalHp": 290,
+        "round": 13,
+        "slots": [
+          {
+            "copies": 5,
+            "health": 60,
+            "level": 2,
+            "templateId": "shield_proxy",
+            "maxHealth": 60,
+            "attack": 70
+          },
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 2,
+            "templateId": "weapon_proxy",
+            "attack": 45,
+            "level": 1
+          },
+          {
+            "maxHealth": 80,
+            "attack": 50,
+            "templateId": "action_jackson",
+            "level": 1,
+            "health": 80,
+            "copies": 1
+          },
+          {
+            "templateId": "glitch_rat",
+            "copies": 3,
+            "health": 65,
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 35,
+            "perks": [
+              "backup"
+            ],
+            "maxHealth": 65
+          },
+          {
+            "attack": 50,
+            "maxHealth": 50,
+            "perks": [
+              "backup"
+            ],
+            "level": 3,
+            "templateId": "spam_pigeon",
+            "mods": [
+              {
+                "id": "backup",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "health": 50,
+            "copies": 7
+          }
+        ],
+        "id": "team_r13_1794524896645_jthy0r",
+        "name": "Panicking Teapot"
+      },
+      {
+        "totalHp": 410,
+        "timestamp": 1794582277204,
+        "name": "Menacing Pigeon",
+        "id": "team_r13_1794582277204_z9n6yn",
+        "randomSeed": 0.1054007300470835,
+        "slots": [
+          {
+            "templateId": "bsod",
+            "attack": 60,
+            "level": 1,
+            "maxHealth": 50,
+            "copies": 1,
+            "health": 50
+          },
+          {
+            "attack": 30,
+            "maxHealth": 30,
+            "templateId": "david_exe",
+            "level": 1,
+            "health": 30,
+            "copies": 1
+          },
+          {
+            "attack": 35,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 25,
+            "health": 25,
+            "templateId": "wasp"
+          },
+          {
+            "attack": 170,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "level": 2,
+            "health": 155,
+            "copies": 4,
+            "maxHealth": 155
+          },
+          {
+            "attack": 70,
+            "maxHealth": 150,
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "copies": 5,
+            "health": 150
+          }
+        ],
+        "round": 13,
+        "totalAtk": 365
+      },
+      {
         "totalAtk": 290,
         "round": 13,
         "name": "Corrupted Towel",
@@ -67541,6 +69657,144 @@
       }
     ],
     "14": [
+      {
+        "randomSeed": 0.12445504445486177,
+        "totalAtk": 250,
+        "id": "team_r14_1794525038238_4uecl4",
+        "slots": [
+          {
+            "templateId": "shield_proxy",
+            "health": 60,
+            "copies": 5,
+            "maxHealth": 60,
+            "attack": 70,
+            "level": 2
+          },
+          {
+            "templateId": "weapon_proxy",
+            "maxHealth": 35,
+            "copies": 2,
+            "health": 35,
+            "attack": 45,
+            "level": 1
+          },
+          {
+            "templateId": "action_jackson",
+            "health": 80,
+            "copies": 1,
+            "maxHealth": 80,
+            "level": 1,
+            "attack": 50
+          },
+          {
+            "level": 3,
+            "maxHealth": 50,
+            "templateId": "spam_pigeon",
+            "attack": 50,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "backup"
+            ],
+            "copies": 7,
+            "health": 50
+          },
+          {
+            "health": 65,
+            "copies": 3,
+            "maxHealth": 65,
+            "level": 2,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Back up",
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 35,
+            "templateId": "glitch_rat",
+            "perks": [
+              "backup"
+            ]
+          }
+        ],
+        "round": 14,
+        "totalHp": 290,
+        "name": "Panicking Teapot",
+        "timestamp": 1794525038238
+      },
+      {
+        "id": "team_r14_1794582347670_7z8gso",
+        "totalAtk": 425,
+        "totalHp": 470,
+        "name": "Menacing Pigeon",
+        "timestamp": 1794582347670,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 1,
+            "attack": 90,
+            "level": 1
+          },
+          {
+            "attack": 30,
+            "templateId": "david_exe",
+            "maxHealth": 30,
+            "level": 1,
+            "copies": 1,
+            "health": 30
+          },
+          {
+            "maxHealth": 25,
+            "copies": 2,
+            "health": 25,
+            "attack": 35,
+            "level": 1,
+            "templateId": "wasp"
+          },
+          {
+            "maxHealth": 155,
+            "level": 2,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 200,
+            "health": 155,
+            "copies": 4,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe"
+          },
+          {
+            "attack": 70,
+            "maxHealth": 150,
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "health": 150,
+            "copies": 5
+          }
+        ],
+        "round": 14,
+        "randomSeed": 0.7783601825557924
+      },
       {
         "totalAtk": 305,
         "round": 14,
@@ -73509,6 +75763,144 @@
     "15": [
       {
         "round": 15,
+        "slots": [
+          {
+            "attack": 70,
+            "level": 2,
+            "maxHealth": 60,
+            "copies": 5,
+            "health": 60,
+            "templateId": "shield_proxy"
+          },
+          {
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 2
+          },
+          {
+            "maxHealth": 80,
+            "copies": 1,
+            "health": 80,
+            "level": 1,
+            "attack": 50,
+            "templateId": "action_jackson"
+          },
+          {
+            "perks": [
+              "backup"
+            ],
+            "copies": 7,
+            "health": 50,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "id": "backup",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 3,
+            "attack": 50,
+            "maxHealth": 50,
+            "templateId": "spam_pigeon"
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Back up",
+                "id": "backup"
+              }
+            ],
+            "templateId": "glitch_rat",
+            "perks": [
+              "backup"
+            ],
+            "attack": 35,
+            "level": 2,
+            "health": 65,
+            "copies": 3,
+            "maxHealth": 65
+          }
+        ],
+        "totalAtk": 250,
+        "timestamp": 1794525145678,
+        "randomSeed": 0.16656622186983328,
+        "name": "Panicking Teapot",
+        "totalHp": 290,
+        "id": "team_r15_1794525145678_2viaqq"
+      },
+      {
+        "round": 15,
+        "slots": [
+          {
+            "health": 110,
+            "copies": 1,
+            "attack": 90,
+            "maxHealth": 110,
+            "templateId": "priority_queue",
+            "level": 1
+          },
+          {
+            "templateId": "david_exe",
+            "attack": 30,
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30
+          },
+          {
+            "attack": 35,
+            "templateId": "wasp",
+            "copies": 2,
+            "health": 25,
+            "level": 1,
+            "maxHealth": 25
+          },
+          {
+            "templateId": "bouncer_exe",
+            "maxHealth": 160,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 5,
+            "health": 160,
+            "attack": 205,
+            "level": 2,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ]
+          },
+          {
+            "health": 155,
+            "copies": 6,
+            "level": 3,
+            "maxHealth": 155,
+            "templateId": "armor_pangolin",
+            "attack": 75
+          }
+        ],
+        "id": "team_r15_1794582394628_p89a8z",
+        "totalAtk": 435,
+        "totalHp": 480,
+        "randomSeed": 0.12026527571931922,
+        "name": "Menacing Pigeon",
+        "timestamp": 1794582394628
+      },
+      {
+        "round": 15,
         "id": "team_r15_1794483502907_8osy2w",
         "timestamp": 1794483502907,
         "randomSeed": 0.10886157806659458,
@@ -78303,6 +80695,144 @@
     ],
     "16": [
       {
+        "round": 16,
+        "slots": [
+          {
+            "copies": 5,
+            "health": 60,
+            "level": 2,
+            "attack": 70,
+            "maxHealth": 60,
+            "templateId": "shield_proxy"
+          },
+          {
+            "templateId": "weapon_proxy",
+            "health": 40,
+            "copies": 3,
+            "level": 2,
+            "attack": 50,
+            "maxHealth": 40
+          },
+          {
+            "attack": 50,
+            "maxHealth": 80,
+            "level": 1,
+            "templateId": "action_jackson",
+            "health": 80,
+            "copies": 1
+          },
+          {
+            "maxHealth": 80,
+            "copies": 7,
+            "health": 80,
+            "level": 3,
+            "templateId": "spam_pigeon",
+            "perks": [
+              "backup"
+            ],
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusHealth": 0,
+                "id": "backup"
+              }
+            ],
+            "attack": 80
+          },
+          {
+            "health": 70,
+            "copies": 4,
+            "level": 2,
+            "maxHealth": 70,
+            "perks": [
+              "backup"
+            ],
+            "attack": 40,
+            "templateId": "glitch_rat",
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusAttack": 0,
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ]
+          }
+        ],
+        "randomSeed": 0.6335217397129337,
+        "totalAtk": 290,
+        "name": "Panicking Teapot",
+        "timestamp": 1794525366868,
+        "id": "team_r16_1794525366868_qrp4zu",
+        "totalHp": 330
+      },
+      {
+        "totalAtk": 445,
+        "randomSeed": 0.07534155881300819,
+        "totalHp": 490,
+        "round": 16,
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 110,
+            "attack": 90,
+            "copies": 1,
+            "health": 110,
+            "templateId": "priority_queue"
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 30,
+            "health": 30,
+            "copies": 1,
+            "templateId": "david_exe"
+          },
+          {
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 25,
+            "templateId": "wasp",
+            "copies": 2,
+            "health": 25
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe",
+            "copies": 5,
+            "health": 160,
+            "attack": 205,
+            "maxHealth": 160,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "level": 2
+          },
+          {
+            "maxHealth": 165,
+            "health": 165,
+            "copies": 8,
+            "attack": 85,
+            "level": 3,
+            "templateId": "armor_pangolin"
+          }
+        ],
+        "name": "Menacing Pigeon",
+        "timestamp": 1794582436999,
+        "id": "team_r16_1794582436999_ctu8ax"
+      },
+      {
         "totalAtk": 315,
         "slots": [
           {
@@ -82113,6 +84643,69 @@
       }
     ],
     "17": [
+      {
+        "randomSeed": 0.041488932557927516,
+        "id": "team_r17_1794582493801_hmdaxd",
+        "totalHp": 535,
+        "name": "Menacing Pigeon",
+        "timestamp": 1794582493801,
+        "slots": [
+          {
+            "copies": 1,
+            "health": 110,
+            "level": 1,
+            "maxHealth": 110,
+            "templateId": "priority_queue",
+            "attack": 90
+          },
+          {
+            "maxHealth": 30,
+            "attack": 30,
+            "level": 1,
+            "templateId": "david_exe",
+            "health": 30,
+            "copies": 1
+          },
+          {
+            "health": 70,
+            "copies": 4,
+            "level": 2,
+            "templateId": "wasp",
+            "maxHealth": 70,
+            "attack": 80
+          },
+          {
+            "templateId": "bouncer_exe",
+            "health": 160,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 5,
+            "attack": 205,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded"
+              }
+            ],
+            "level": 2,
+            "maxHealth": 160
+          },
+          {
+            "copies": 8,
+            "health": 165,
+            "templateId": "armor_pangolin",
+            "attack": 85,
+            "level": 3,
+            "maxHealth": 165
+          }
+        ],
+        "round": 17,
+        "totalAtk": 490
+      },
       {
         "round": 17,
         "slots": [
@@ -86145,6 +88738,69 @@
       }
     ],
     "18": [
+      {
+        "randomSeed": 0.46149700359014156,
+        "totalHp": 540,
+        "id": "team_r18_1794582551356_2d0y98",
+        "timestamp": 1794582551356,
+        "name": "Menacing Pigeon",
+        "totalAtk": 525,
+        "slots": [
+          {
+            "templateId": "priority_queue",
+            "copies": 1,
+            "health": 110,
+            "level": 1,
+            "attack": 90,
+            "maxHealth": 110
+          },
+          {
+            "level": 1,
+            "attack": 30,
+            "templateId": "david_exe",
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "wasp",
+            "copies": 4,
+            "health": 70,
+            "attack": 80,
+            "maxHealth": 70,
+            "level": 2
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 160,
+            "copies": 5,
+            "health": 160,
+            "templateId": "bouncer_exe",
+            "level": 2,
+            "attack": 235
+          },
+          {
+            "level": 4,
+            "maxHealth": 170,
+            "templateId": "armor_pangolin",
+            "attack": 90,
+            "copies": 9,
+            "health": 170
+          }
+        ],
+        "round": 18
+      },
       {
         "randomSeed": 0.8394322263274722,
         "id": "team_r18_1793576879018_2u1zog",
