@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794584415312,
-  "lastSyncDate": "2026-11-13",
-  "totalReadsPerformed": 6071,
+  "lastSyncTimestamp": 1794666486331,
+  "lastSyncDate": "2026-11-14",
+  "totalReadsPerformed": 6231,
   "rounds": {
     "1": [
       {
@@ -4572,6 +4572,191 @@
         "randomSeed": 0.8209561145082737,
         "teamFoilId": "foil_prismatic",
         "id": "team_r1_1791976765958_hqpfsc"
+      },
+      {
+        "wins": 1,
+        "battlesCount": 1,
+        "name": "Toxic Muffin",
+        "timestamp": 1790349989750,
+        "round": 1,
+        "lastBattleTime": 1790902858761,
+        "losses": 0,
+        "id": "team_r1_1790349989750_t5y24n",
+        "slots": [
+          null,
+          null,
+          {
+            "maxHealth": 35,
+            "attack": 25,
+            "health": 35,
+            "copies": 2,
+            "level": 1,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "attack": 15,
+            "level": 1,
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "health": 35
+          },
+          {
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "health": 25,
+            "copies": 1
+          }
+        ]
+      },
+      {
+        "name": "Tactical Burrito",
+        "battlesCount": 1,
+        "timestamp": 1790356300101,
+        "slots": [
+          {
+            "templateId": "shield_proxy",
+            "level": 1,
+            "copies": 1,
+            "health": 35,
+            "attack": 25,
+            "maxHealth": 35
+          },
+          {
+            "attack": 35,
+            "maxHealth": 35,
+            "copies": 1,
+            "health": 35,
+            "level": 1,
+            "templateId": "weapon_proxy"
+          },
+          null,
+          {
+            "attack": 25,
+            "templateId": "berserk_node",
+            "level": 1,
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 1
+          },
+          {
+            "attack": 35,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "maxHealth": 35,
+            "copies": 1,
+            "health": 35
+          }
+        ],
+        "wins": 0,
+        "id": "team_r1_1790356300101_o77gih",
+        "lastBattleTime": 1790883349480,
+        "round": 1,
+        "losses": 1
+      },
+      {
+        "slots": [
+          {
+            "attack": 25,
+            "maxHealth": 35,
+            "level": 1,
+            "copies": 1,
+            "health": 35,
+            "templateId": "shield_proxy"
+          },
+          null,
+          {
+            "maxHealth": 35,
+            "level": 1,
+            "attack": 20,
+            "templateId": "rootkit_loader",
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "copies": 1,
+            "health": 35,
+            "attack": 15
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "templateId": "goldfish",
+            "level": 1,
+            "attack": 20,
+            "maxHealth": 30
+          }
+        ],
+        "name": "Deranged Fridge",
+        "round": 1,
+        "timestamp": 1790374804743,
+        "id": "team_r1_1790374804743_4m2o94"
+      },
+      {
+        "slots": [
+          {
+            "copies": 1,
+            "health": 25,
+            "templateId": "weapon_proxy",
+            "maxHealth": 25,
+            "level": 1,
+            "attack": 35
+          },
+          {
+            "level": 1,
+            "maxHealth": 35,
+            "copies": 1,
+            "health": 35,
+            "attack": 45,
+            "templateId": "byte_donor"
+          },
+          {
+            "maxHealth": 30,
+            "templateId": "vanguard_feeder",
+            "attack": 30,
+            "copies": 1,
+            "health": 30,
+            "level": 1
+          },
+          {
+            "maxHealth": 45,
+            "attack": 30,
+            "level": 1,
+            "mods": [
+              {
+                "bonusHealth": 15,
+                "description": "Balanced neural coprocessor for adaptive subroutines.",
+                "id": "neural_core",
+                "bonusAttack": 15,
+                "name": "Neural Core"
+              }
+            ],
+            "templateId": "berserk_node",
+            "health": 45,
+            "copies": 1
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 1,
+            "health": 25,
+            "copies": 1,
+            "attack": 15,
+            "maxHealth": 25
+          }
+        ],
+        "id": "team_r1_1790405401129_5hxkcl",
+        "round": 1,
+        "timestamp": 1790405401129,
+        "name": "Explosive Chihuahua",
+        "wins": 2,
+        "losses": 0,
+        "battlesCount": 2,
+        "lastBattleTime": 1790820683434
       }
     ],
     "2": [
@@ -13759,6 +13944,57 @@
         "round": 3,
         "totalAtk": 150,
         "id": "team_r3_1791811032048_8j8q7y"
+      },
+      {
+        "timestamp": 1791998739148,
+        "randomSeed": 0.5074410870585101,
+        "totalAtk": 135,
+        "id": "team_r3_1791998739148_3mixnm",
+        "totalHp": 155,
+        "round": 3,
+        "name": "Feral Turnip",
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "maxHealth": 30,
+            "level": 2,
+            "copies": 3,
+            "health": 30,
+            "attack": 30
+          },
+          {
+            "templateId": "data_miner",
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "attack": 40,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "attack": 20,
+            "level": 1,
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30
+          },
+          {
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 2
+          },
+          {
+            "level": 2,
+            "health": 40,
+            "copies": 3,
+            "attack": 30,
+            "templateId": "goldfish",
+            "maxHealth": 40
+          }
+        ]
       }
     ],
     "4": [
@@ -18673,6 +18909,126 @@
             "maxHealth": 55
           }
         ]
+      },
+      {
+        "round": 4,
+        "totalAtk": 180,
+        "timestamp": 1791977038637,
+        "teamFoilId": "foil_prismatic",
+        "slots": [
+          {
+            "templateId": "buffer_bug",
+            "attack": 45,
+            "maxHealth": 40,
+            "foil": "foil_prismatic",
+            "health": 40,
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "templateId": "siphon_leech",
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 35,
+            "foil": "foil_prismatic",
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "templateId": "vacuum",
+            "maxHealth": 20,
+            "attack": 30,
+            "health": 20,
+            "copies": 1,
+            "level": 1,
+            "foil": "foil_prismatic"
+          },
+          {
+            "foil": "foil_prismatic",
+            "templateId": "trojan_distributor",
+            "level": 2,
+            "health": 75,
+            "copies": 4,
+            "attack": 55,
+            "maxHealth": 75
+          },
+          {
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 45,
+            "foil": "foil_prismatic",
+            "health": 45,
+            "copies": 1,
+            "templateId": "glitch_rat"
+          }
+        ],
+        "name": "Cranky Submarine",
+        "randomSeed": 0.035214450717023116,
+        "totalHp": 215,
+        "id": "team_r4_1791977038637_1vaili"
+      },
+      {
+        "timestamp": 1791548323579,
+        "totalAtk": 160,
+        "id": "team_r4_1791548323579_hx1ydj",
+        "round": 4,
+        "slots": [
+          {
+            "health": 75,
+            "copies": 2,
+            "maxHealth": 75,
+            "templateId": "shield_proxy",
+            "level": 1,
+            "attack": 45
+          },
+          {
+            "level": 1,
+            "health": 55,
+            "copies": 1,
+            "maxHealth": 55,
+            "templateId": "berserk_node",
+            "attack": 30
+          },
+          {
+            "maxHealth": 40,
+            "attack": 20,
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "health": 40
+          },
+          {
+            "templateId": "siphon_leech",
+            "attack": 40,
+            "level": 2,
+            "maxHealth": 50,
+            "copies": 3,
+            "health": 50
+          },
+          {
+            "health": 25,
+            "copies": 1,
+            "mods": [
+              {
+                "name": "Blockchain",
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "bonusHealth": 0,
+                "id": "blockchain",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 25,
+            "templateId": "crypto_staker",
+            "level": 1,
+            "perks": [
+              "blockchain"
+            ],
+            "attack": 25
+          }
+        ],
+        "randomSeed": 0.045558578892902823,
+        "name": "Electric Spoon",
+        "totalHp": 245
       }
     ],
     "5": [
@@ -34705,6 +35061,69 @@
         "totalAtk": 250,
         "teamFoilId": "foil_prismatic",
         "totalHp": 295
+      },
+      {
+        "id": "team_r7_1791508027773_8yxdhj",
+        "totalAtk": 200,
+        "slots": [
+          {
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 25,
+            "templateId": "rootkit_loader",
+            "copies": 1,
+            "health": 25
+          },
+          {
+            "health": 25,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 25,
+            "attack": 35,
+            "templateId": "vacuum"
+          },
+          {
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "health": 65,
+            "copies": 4,
+            "attack": 35,
+            "maxHealth": 65
+          },
+          {
+            "level": 3,
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 6,
+            "templateId": "wasp",
+            "attack": 45
+          },
+          {
+            "perks": [
+              "snap"
+            ],
+            "templateId": "relay_proxy",
+            "maxHealth": 35,
+            "level": 2,
+            "copies": 3,
+            "health": 35,
+            "attack": 60,
+            "mods": [
+              {
+                "name": "SNAP",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "id": "snap",
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "round": 7,
+        "name": "Clumsy Plunger",
+        "randomSeed": 0.5606418974149147,
+        "totalHp": 185,
+        "timestamp": 1791508027773
       }
     ],
     "8": [
