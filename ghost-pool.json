@@ -1,10 +1,104 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794666486331,
-  "lastSyncDate": "2026-11-14",
-  "totalReadsPerformed": 6231,
+  "lastSyncTimestamp": 1794754619372,
+  "lastSyncDate": "2026-11-15",
+  "totalReadsPerformed": 6392,
   "rounds": {
     "1": [
+      {
+        "name": "Chunky Meatloaf",
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 1,
+        "slots": [
+          null,
+          {
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "attack": 40,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "templateId": "data_miner"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "templateId": "malware_injector",
+            "maxHealth": 25,
+            "attack": 30,
+            "health": 25,
+            "copies": 1
+          },
+          {
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30,
+            "attack": 25,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "templateId": "network_patcher"
+          },
+          {
+            "templateId": "data_miner",
+            "health": 35,
+            "copies": 2,
+            "maxHealth": 35,
+            "attack": 65,
+            "foil": "foil_matrix_rain_red",
+            "level": 1
+          }
+        ],
+        "timestamp": 1794748780491,
+        "randomSeed": 0.6718182432886178,
+        "totalHp": 120,
+        "totalAtk": 160,
+        "id": "team_r1_1794748780491_c9r1m2",
+        "teamFoilId": "foil_matrix_rain_red"
+      },
+      {
+        "id": "team_r1_1794748882645_pusa9d",
+        "totalAtk": 115,
+        "slots": [
+          {
+            "health": 20,
+            "copies": 1,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "attack": 40,
+            "level": 1,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 2,
+            "templateId": "data_miner"
+          },
+          null,
+          {
+            "level": 1,
+            "health": 25,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "maxHealth": 25,
+            "attack": 15
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 20,
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "maxHealth": 30
+          }
+        ],
+        "name": "Flaming Marmot",
+        "totalHp": 105,
+        "timestamp": 1794748882645,
+        "randomSeed": 0.23519686595977718,
+        "round": 1
+      },
       {
         "id": "team_r1_1794523237998_1lvz1m",
         "randomSeed": 0.049284953910251894,
@@ -4761,6 +4855,64 @@
     ],
     "2": [
       {
+        "id": "team_r2_1794748880494_rk4ouw",
+        "slots": [
+          {
+            "copies": 1,
+            "health": 45,
+            "templateId": "overclocker",
+            "attack": 45,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 45
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 20,
+            "health": 20,
+            "copies": 1
+          },
+          {
+            "health": 25,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "templateId": "malware_injector",
+            "attack": 30,
+            "maxHealth": 25
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "attack": 70,
+            "templateId": "data_miner",
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 3
+          },
+          {
+            "attack": 25,
+            "copies": 1,
+            "health": 30,
+            "templateId": "network_patcher",
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 30
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_red",
+        "round": 2,
+        "totalAtk": 200,
+        "randomSeed": 0.7196457158460757,
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalHp": 160,
+        "name": "Chunky Meatloaf",
+        "timestamp": 1794748880494
+      },
+      {
         "totalAtk": 175,
         "totalHp": 190,
         "name": "Panicking Teapot",
@@ -9365,6 +9517,76 @@
       }
     ],
     "3": [
+      {
+        "totalAtk": 200,
+        "name": "Chunky Meatloaf",
+        "timestamp": 1794749765700,
+        "randomSeed": 0.37151182704931984,
+        "round": 3,
+        "totalHp": 195,
+        "id": "team_r3_1794749765700_e4a6d8",
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "health": 45,
+            "maxHealth": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 25,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "crypto_staker",
+            "level": 1,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 35,
+            "attack": 35,
+            "copies": 2,
+            "health": 35,
+            "templateId": "emp_bomber"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "overclocker",
+            "copies": 1,
+            "health": 45,
+            "level": 1,
+            "attack": 45,
+            "maxHealth": 45
+          },
+          {
+            "level": 2,
+            "templateId": "data_miner",
+            "foil": "foil_matrix_rain_red",
+            "copies": 3,
+            "health": 40,
+            "attack": 70,
+            "maxHealth": 40
+          },
+          {
+            "templateId": "network_patcher",
+            "copies": 1,
+            "health": 30,
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "attack": 25,
+            "maxHealth": 30
+          }
+        ]
+      },
       {
         "totalAtk": 190,
         "totalHp": 205,
@@ -13995,6 +14217,159 @@
             "maxHealth": 40
           }
         ]
+      },
+      {
+        "slots": [
+          {
+            "attack": 25,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1,
+            "level": 1,
+            "templateId": "network_patcher"
+          },
+          {
+            "level": 2,
+            "templateId": "shield_proxy",
+            "attack": 45,
+            "copies": 5,
+            "health": 55,
+            "maxHealth": 55
+          },
+          {
+            "health": 40,
+            "copies": 2,
+            "maxHealth": 40,
+            "attack": 40,
+            "templateId": "weapon_proxy",
+            "level": 1
+          },
+          {
+            "maxHealth": 35,
+            "attack": 45,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "copies": 1
+          },
+          {
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 3,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "attack": 35
+          }
+        ],
+        "totalAtk": 190,
+        "randomSeed": 0.3161706659945822,
+        "round": 3,
+        "name": "Cranky Trophy",
+        "totalHp": 205,
+        "id": "team_r3_1792030524232_bv22t0",
+        "timestamp": 1792030524232
+      },
+      {
+        "randomSeed": 0.3254201318367288,
+        "id": "team_r3_1791898812419_9tj9i2",
+        "slots": [
+          {
+            "health": 25,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 25,
+            "templateId": "turret_program",
+            "attack": 35
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "attack": 20,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "templateId": "berserk_node",
+            "attack": 15,
+            "maxHealth": 30,
+            "level": 1,
+            "health": 30,
+            "copies": 1
+          },
+          {
+            "templateId": "trojan_distributor",
+            "level": 2,
+            "attack": 40,
+            "maxHealth": 55,
+            "copies": 5,
+            "health": 55
+          },
+          {
+            "maxHealth": 40,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "health": 40,
+            "copies": 2,
+            "attack": 30
+          }
+        ],
+        "name": "Feral Meatball",
+        "totalHp": 180,
+        "totalAtk": 140,
+        "round": 3,
+        "timestamp": 1791898812419
+      },
+      {
+        "id": "team_r3_1791771911507_2j4s3z",
+        "name": "Prickly Taco",
+        "totalHp": 175,
+        "totalAtk": 190,
+        "round": 3,
+        "slots": [
+          {
+            "health": 45,
+            "copies": 1,
+            "maxHealth": 45,
+            "attack": 25,
+            "level": 1,
+            "templateId": "glitch_rat"
+          },
+          {
+            "copies": 4,
+            "maxHealth": 50,
+            "level": 2,
+            "health": 50,
+            "templateId": "trojan_distributor",
+            "attack": 45
+          },
+          {
+            "health": 30,
+            "copies": 2,
+            "templateId": "relay_proxy",
+            "attack": 40,
+            "maxHealth": 30,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "attack": 40,
+            "templateId": "emp_bomber",
+            "maxHealth": 20,
+            "health": 20,
+            "copies": 1
+          },
+          {
+            "level": 2,
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 3,
+            "templateId": "turret_program",
+            "attack": 40
+          }
+        ],
+        "randomSeed": 0.3361161134705768,
+        "timestamp": 1791771911507
       }
     ],
     "4": [
@@ -23991,6 +24366,57 @@
         ],
         "round": 5,
         "randomSeed": 0.898618191405126
+      },
+      {
+        "timestamp": 1791985777929,
+        "totalHp": 160,
+        "totalAtk": 135,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "level": 1,
+            "attack": 20,
+            "templateId": "turret_program",
+            "health": 20,
+            "copies": 1
+          },
+          {
+            "health": 25,
+            "copies": 1,
+            "templateId": "relay_proxy",
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 25
+          },
+          {
+            "maxHealth": 50,
+            "health": 50,
+            "copies": 1,
+            "level": 1,
+            "attack": 35,
+            "templateId": "trojan_exe"
+          },
+          {
+            "attack": 20,
+            "templateId": "goldfish",
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "level": 1,
+            "templateId": "overclocker",
+            "attack": 35,
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 1
+          }
+        ],
+        "id": "team_r5_1791985777929_slhyf3",
+        "round": 5,
+        "randomSeed": 0.8009220302407881,
+        "name": "Microscopic Pigeon"
       }
     ],
     "6": [
