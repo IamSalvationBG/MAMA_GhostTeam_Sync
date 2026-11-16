@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794754619372,
-  "lastSyncDate": "2026-11-15",
-  "totalReadsPerformed": 6392,
+  "lastSyncTimestamp": 1794849906298,
+  "lastSyncDate": "2026-11-16",
+  "totalReadsPerformed": 6550,
   "rounds": {
     "1": [
       {
@@ -14370,9 +14370,130 @@
         ],
         "randomSeed": 0.3361161134705768,
         "timestamp": 1791771911507
+      },
+      {
+        "name": "Clumsy Plunger",
+        "totalAtk": 210,
+        "totalHp": 195,
+        "id": "team_r3_1791913828068_x86nlj",
+        "round": 3,
+        "slots": [
+          {
+            "templateId": "weapon_proxy",
+            "health": 45,
+            "attack": 75,
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 45
+          },
+          {
+            "attack": 60,
+            "copies": 4,
+            "health": 50,
+            "maxHealth": 50,
+            "level": 2,
+            "templateId": "shield_proxy"
+          },
+          {
+            "copies": 1,
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "snack_vendor",
+            "level": 1
+          },
+          {
+            "level": 1,
+            "maxHealth": 45,
+            "copies": 1,
+            "attack": 40,
+            "health": 45,
+            "templateId": "glitch_rat"
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "copies": 1,
+            "attack": 15
+          }
+        ],
+        "randomSeed": 0.1266891131882789,
+        "timestamp": 1791913828068
       }
     ],
     "4": [
+      {
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "templateId": "crypto_staker",
+            "health": 70,
+            "attack": 30,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 70,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "attack": 20,
+            "foil": "foil_matrix_rain_red",
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "copies": 2,
+            "attack": 35,
+            "templateId": "emp_bomber",
+            "maxHealth": 35,
+            "level": 1,
+            "health": 35
+          },
+          {
+            "level": 2,
+            "maxHealth": 40,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "data_miner",
+            "attack": 70,
+            "copies": 3,
+            "health": 40
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 25,
+            "copies": 1,
+            "templateId": "network_patcher",
+            "health": 30,
+            "level": 1,
+            "maxHealth": 30
+          }
+        ],
+        "totalAtk": 180,
+        "randomSeed": 0.39813157336703975,
+        "round": 4,
+        "id": "team_r4_1794775595164_vifv9a",
+        "totalHp": 205,
+        "name": "Chunky Meatloaf",
+        "timestamp": 1794775595164,
+        "arenaSkinId": "arena_ruhr_valley"
+      },
       {
         "id": "team_r4_1794523779766_96whdv",
         "totalAtk": 205,
@@ -19404,9 +19525,130 @@
         "randomSeed": 0.045558578892902823,
         "name": "Electric Spoon",
         "totalHp": 245
+      },
+      {
+        "timestamp": 1791825267009,
+        "round": 4,
+        "name": "Blazing Vacuum",
+        "id": "team_r4_1791825267009_2vsaez",
+        "totalAtk": 155,
+        "slots": [
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 30,
+            "copies": 3,
+            "templateId": "turret_program",
+            "level": 2
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "attack": 35,
+            "health": 25,
+            "templateId": "crypto_staker",
+            "maxHealth": 25
+          },
+          {
+            "level": 1,
+            "health": 20,
+            "templateId": "drone_mosquito",
+            "copies": 1,
+            "attack": 30,
+            "maxHealth": 20
+          },
+          {
+            "attack": 20,
+            "copies": 1,
+            "health": 60,
+            "maxHealth": 60,
+            "templateId": "tank",
+            "level": 1
+          },
+          {
+            "maxHealth": 50,
+            "templateId": "goldfish",
+            "health": 50,
+            "attack": 40,
+            "copies": 5,
+            "level": 2
+          }
+        ],
+        "totalHp": 185,
+        "randomSeed": 0.6307848496179489
       }
     ],
     "5": [
+      {
+        "totalHp": 260,
+        "totalAtk": 220,
+        "name": "Chunky Meatloaf",
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 5,
+        "id": "team_r5_1794775798828_uv1hd5",
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1794775798828,
+        "randomSeed": 0.42219724973188666,
+        "slots": [
+          {
+            "maxHealth": 90,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "crypto_staker",
+            "attack": 45,
+            "copies": 4,
+            "health": 90
+          },
+          {
+            "maxHealth": 40,
+            "templateId": "firewall_umbrella",
+            "level": 1,
+            "health": 40,
+            "attack": 25,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 2,
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "health": 55,
+            "attack": 50,
+            "maxHealth": 55,
+            "copies": 4
+          },
+          {
+            "level": 2,
+            "attack": 75,
+            "copies": 3,
+            "foil": "foil_matrix_rain_red",
+            "health": 50,
+            "maxHealth": 50,
+            "templateId": "data_miner"
+          },
+          {
+            "templateId": "router_rooster",
+            "maxHealth": 25,
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "health": 25,
+            "attack": 25,
+            "copies": 1
+          }
+        ]
+      },
       {
         "randomSeed": 0.2171865400962436,
         "name": "Panicking Teapot",
@@ -24420,6 +24662,146 @@
       }
     ],
     "6": [
+      {
+        "id": "team_r6_1794775887661_2m5qme",
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalHp": 275,
+        "name": "Chunky Meatloaf",
+        "totalAtk": 220,
+        "randomSeed": 0.8059558501258183,
+        "round": 6,
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1794775887661,
+        "slots": [
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "id": "trojan_load"
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 100,
+            "attack": 55,
+            "copies": 4,
+            "maxHealth": 100,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker"
+          },
+          {
+            "maxHealth": 45,
+            "level": 1,
+            "templateId": "firewall_umbrella",
+            "health": 45,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red",
+            "attack": 30
+          },
+          {
+            "maxHealth": 70,
+            "level": 2,
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "copies": 5,
+            "attack": 75,
+            "health": 70
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "maxHealth": 20,
+            "attack": 30,
+            "templateId": "vacuum",
+            "health": 20
+          },
+          {
+            "templateId": "router_rooster",
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "attack": 30,
+            "maxHealth": 40,
+            "copies": 2,
+            "health": 40
+          }
+        ]
+      },
+      {
+        "arenaSkinId": "arena_ruhr_valley",
+        "randomSeed": 0.6330034408486155,
+        "round": 6,
+        "totalHp": 275,
+        "name": "Chunky Meatloaf",
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "health": 100,
+            "level": 2,
+            "attack": 55,
+            "copies": 4,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "crypto_staker",
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 100
+          },
+          {
+            "health": 45,
+            "copies": 2,
+            "attack": 30,
+            "templateId": "firewall_umbrella",
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red",
+            "level": 1
+          },
+          {
+            "templateId": "emp_bomber",
+            "health": 70,
+            "foil": "foil_matrix_rain_red",
+            "attack": 75,
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 70
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 20,
+            "templateId": "vacuum",
+            "copies": 1,
+            "attack": 30,
+            "health": 20
+          },
+          {
+            "health": 40,
+            "copies": 2,
+            "attack": 30,
+            "templateId": "router_rooster",
+            "foil": "foil_matrix_rain_red",
+            "level": 1,
+            "maxHealth": 40
+          }
+        ],
+        "id": "team_r6_1794776232397_iqu1xd",
+        "timestamp": 1794776232397,
+        "totalAtk": 220
+      },
       {
         "totalAtk": 225,
         "slots": [
@@ -29869,6 +30251,146 @@
       }
     ],
     "7": [
+      {
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2,
+            "attack": 65,
+            "copies": 4,
+            "health": 130,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 130
+          },
+          {
+            "templateId": "emp_bomber",
+            "level": 3,
+            "health": 85,
+            "attack": 90,
+            "copies": 6,
+            "maxHealth": 85,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 2,
+            "maxHealth": 50,
+            "health": 50,
+            "attack": 35,
+            "copies": 3,
+            "templateId": "firewall_umbrella",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 1,
+            "templateId": "vacuum",
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "attack": 30,
+            "health": 20,
+            "maxHealth": 20
+          },
+          {
+            "health": 40,
+            "level": 1,
+            "attack": 30,
+            "copies": 2,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "router_rooster",
+            "maxHealth": 40
+          }
+        ],
+        "round": 7,
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1794776385966,
+        "teamFoilId": "foil_matrix_rain_red",
+        "totalAtk": 250,
+        "randomSeed": 0.6027567672270848,
+        "id": "team_r7_1794776385966_ye4nb1",
+        "totalHp": 325,
+        "name": "Chunky Meatloaf"
+      },
+      {
+        "totalAtk": 250,
+        "id": "team_r7_1794777091988_9kqqe9",
+        "totalHp": 325,
+        "timestamp": 1794777091988,
+        "name": "Chunky Meatloaf",
+        "slots": [
+          {
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "maxHealth": 130,
+            "attack": 65,
+            "copies": 4,
+            "foil": "foil_matrix_rain_red",
+            "health": 130,
+            "templateId": "crypto_staker"
+          },
+          {
+            "health": 85,
+            "copies": 6,
+            "attack": 90,
+            "templateId": "emp_bomber",
+            "maxHealth": 85,
+            "foil": "foil_matrix_rain_red",
+            "level": 3
+          },
+          {
+            "templateId": "firewall_umbrella",
+            "level": 2,
+            "copies": 3,
+            "attack": 35,
+            "health": 50,
+            "maxHealth": 50,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 20,
+            "copies": 1,
+            "attack": 30,
+            "templateId": "vacuum",
+            "health": 20
+          },
+          {
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "router_rooster",
+            "attack": 30,
+            "copies": 2,
+            "maxHealth": 40,
+            "health": 40
+          }
+        ],
+        "randomSeed": 0.9272368831543619,
+        "arenaSkinId": "arena_ruhr_valley",
+        "teamFoilId": "foil_matrix_rain_red",
+        "round": 7
+      },
       {
         "id": "team_r7_1794524149331_vb2kqr",
         "name": "Panicking Teapot",
@@ -35553,6 +36075,146 @@
       }
     ],
     "8": [
+      {
+        "timestamp": 1794777441388,
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "health": 130,
+            "attack": 65,
+            "copies": 4,
+            "maxHealth": 130,
+            "perks": [
+              "trojan_load"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "templateId": "crypto_staker",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load"
+              }
+            ]
+          },
+          {
+            "maxHealth": 100,
+            "level": 3,
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "health": 100,
+            "attack": 105,
+            "copies": 7
+          },
+          {
+            "templateId": "firewall_umbrella",
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 60,
+            "copies": 3,
+            "attack": 45,
+            "health": 60
+          },
+          {
+            "health": 20,
+            "templateId": "vacuum",
+            "attack": 30,
+            "copies": 1,
+            "level": 1,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 20
+          },
+          {
+            "templateId": "router_rooster",
+            "health": 50,
+            "copies": 4,
+            "attack": 40,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 50,
+            "level": 2
+          }
+        ],
+        "round": 8,
+        "randomSeed": 0.8705668703847462,
+        "totalHp": 360,
+        "totalAtk": 285,
+        "id": "team_r8_1794777441388_zud611",
+        "arenaSkinId": "arena_ruhr_valley",
+        "name": "Chunky Meatloaf"
+      },
+      {
+        "round": 8,
+        "timestamp": 1794777602414,
+        "teamFoilId": "foil_matrix_rain_red",
+        "name": "Chunky Meatloaf",
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 130,
+            "perks": [
+              "trojan_load"
+            ],
+            "attack": 65,
+            "copies": 4,
+            "templateId": "crypto_staker",
+            "level": 2,
+            "health": 130,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "templateId": "emp_bomber",
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "health": 100,
+            "maxHealth": 100,
+            "copies": 7,
+            "attack": 105
+          },
+          {
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "firewall_umbrella",
+            "copies": 3,
+            "attack": 45,
+            "maxHealth": 60,
+            "health": 60
+          },
+          {
+            "maxHealth": 20,
+            "health": 20,
+            "templateId": "vacuum",
+            "attack": 30,
+            "copies": 1,
+            "foil": "foil_matrix_rain_red",
+            "level": 1
+          },
+          {
+            "maxHealth": 50,
+            "templateId": "router_rooster",
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "health": 50,
+            "copies": 4,
+            "attack": 40
+          }
+        ],
+        "randomSeed": 0.21717273706484952,
+        "totalHp": 360,
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalAtk": 285,
+        "id": "team_r8_1794777602414_n6rdgv"
+      },
       {
         "totalAtk": 245,
         "id": "team_r8_1794524226809_x18ykk",
@@ -41254,6 +41916,76 @@
     ],
     "9": [
       {
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 145,
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "health": 145,
+            "templateId": "crypto_staker",
+            "copies": 4,
+            "attack": 80,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ]
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "emp_bomber",
+            "maxHealth": 100,
+            "level": 3,
+            "attack": 105,
+            "copies": 7,
+            "health": 100
+          },
+          {
+            "level": 2,
+            "health": 75,
+            "copies": 3,
+            "attack": 60,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "firewall_umbrella",
+            "maxHealth": 75
+          },
+          {
+            "templateId": "vacuum",
+            "health": 30,
+            "attack": 40,
+            "copies": 3,
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 30
+          },
+          {
+            "health": 55,
+            "attack": 45,
+            "copies": 5,
+            "maxHealth": 55,
+            "templateId": "router_rooster",
+            "foil": "foil_matrix_rain_red",
+            "level": 2
+          }
+        ],
+        "totalAtk": 330,
+        "id": "team_r9_1794777960654_3vj6xr",
+        "randomSeed": 0.5623538310198484,
+        "round": 9,
+        "timestamp": 1794777960654,
+        "totalHp": 405,
+        "name": "Chunky Meatloaf",
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
         "name": "Panicking Teapot",
         "totalHp": 250,
         "slots": [
@@ -46566,6 +47298,76 @@
       }
     ],
     "10": [
+      {
+        "timestamp": 1794778510268,
+        "slots": [
+          {
+            "level": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load"
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 160,
+            "foil": "foil_matrix_rain_red",
+            "attack": 100,
+            "copies": 4,
+            "health": 160,
+            "templateId": "crypto_staker"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "copies": 7,
+            "attack": 125,
+            "maxHealth": 115,
+            "health": 115,
+            "templateId": "emp_bomber"
+          },
+          {
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_red",
+            "health": 75,
+            "attack": 65,
+            "copies": 3
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 40,
+            "templateId": "vacuum",
+            "level": 2,
+            "attack": 55,
+            "copies": 5,
+            "health": 40
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "copies": 1,
+            "attack": 30,
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "david_exe",
+            "level": 1
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_red",
+        "round": 10,
+        "randomSeed": 0.9471072080563135,
+        "name": "Chunky Meatloaf",
+        "id": "team_r10_1794778510268_ym1wzj",
+        "totalAtk": 375,
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalHp": 420
+      },
       {
         "randomSeed": 0.0004072737224286582,
         "name": "Panicking Teapot",
@@ -52401,6 +53203,76 @@
       }
     ],
     "11": [
+      {
+        "totalAtk": 390,
+        "totalHp": 435,
+        "randomSeed": 0.0727914007780529,
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r11_1794778834197_ah8u7u",
+        "timestamp": 1794778834197,
+        "slots": [
+          {
+            "templateId": "crypto_staker",
+            "foil": "foil_matrix_rain_red",
+            "copies": 4,
+            "attack": 100,
+            "health": 160,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "maxHealth": 160
+          },
+          {
+            "health": 120,
+            "copies": 8,
+            "attack": 130,
+            "templateId": "emp_bomber",
+            "maxHealth": 120,
+            "foil": "foil_matrix_rain_red",
+            "level": 3
+          },
+          {
+            "level": 2,
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_red",
+            "copies": 3,
+            "attack": 65,
+            "health": 75,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "level": 2,
+            "templateId": "vacuum",
+            "foil": "foil_matrix_rain_red",
+            "copies": 5,
+            "attack": 55,
+            "maxHealth": 40,
+            "health": 40
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "david_exe",
+            "maxHealth": 40,
+            "attack": 40,
+            "copies": 3,
+            "level": 2,
+            "health": 40
+          }
+        ],
+        "round": 11,
+        "name": "Chunky Meatloaf",
+        "arenaSkinId": "arena_ruhr_valley"
+      },
       {
         "totalHp": 290,
         "totalAtk": 250,
@@ -58246,6 +59118,216 @@
       }
     ],
     "12": [
+      {
+        "name": "Chunky Meatloaf",
+        "id": "team_r12_1794778927965_obc5pu",
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 12,
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "maxHealth": 160,
+            "attack": 100,
+            "copies": 4,
+            "health": 160,
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ]
+          },
+          {
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "copies": 8,
+            "attack": 130,
+            "level": 3,
+            "health": 120,
+            "maxHealth": 120
+          },
+          {
+            "level": 2,
+            "health": 75,
+            "copies": 3,
+            "attack": 65,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "firewall_umbrella",
+            "maxHealth": 75
+          },
+          {
+            "templateId": "vacuum",
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "attack": 60,
+            "copies": 6,
+            "health": 45,
+            "maxHealth": 45
+          },
+          {
+            "templateId": "david_exe",
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "attack": 45,
+            "copies": 4,
+            "health": 45,
+            "maxHealth": 45
+          }
+        ],
+        "totalHp": 445,
+        "timestamp": 1794778927965,
+        "totalAtk": 400,
+        "randomSeed": 0.15218156215111212
+      },
+      {
+        "totalAtk": 400,
+        "totalHp": 445,
+        "teamFoilId": "foil_matrix_rain_red",
+        "arenaSkinId": "arena_ruhr_valley",
+        "id": "team_r12_1794779086883_0l4wm8",
+        "randomSeed": 0.3443318958636272,
+        "timestamp": 1794779086883,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 160,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "health": 160,
+            "attack": 100,
+            "copies": 4,
+            "level": 2,
+            "templateId": "crypto_staker"
+          },
+          {
+            "templateId": "emp_bomber",
+            "maxHealth": 120,
+            "health": 120,
+            "attack": 130,
+            "copies": 8,
+            "foil": "foil_matrix_rain_red",
+            "level": 3
+          },
+          {
+            "templateId": "firewall_umbrella",
+            "foil": "foil_matrix_rain_red",
+            "attack": 65,
+            "copies": 3,
+            "maxHealth": 75,
+            "health": 75,
+            "level": 2
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "copies": 6,
+            "attack": 60,
+            "templateId": "vacuum",
+            "health": 45,
+            "maxHealth": 45
+          },
+          {
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "david_exe",
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 45,
+            "health": 45
+          }
+        ],
+        "name": "Chunky Meatloaf",
+        "round": 12
+      },
+      {
+        "slots": [
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "crypto_staker",
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "attack": 100,
+            "copies": 4,
+            "health": 160,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "name": "Trojan Load"
+              }
+            ],
+            "maxHealth": 160
+          },
+          {
+            "health": 120,
+            "level": 3,
+            "maxHealth": 120,
+            "templateId": "emp_bomber",
+            "copies": 8,
+            "attack": 130,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "health": 75,
+            "templateId": "firewall_umbrella",
+            "maxHealth": 75,
+            "copies": 3,
+            "attack": 65,
+            "level": 2,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "vacuum",
+            "health": 45,
+            "level": 3,
+            "attack": 60,
+            "copies": 6,
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 45,
+            "health": 45,
+            "templateId": "david_exe",
+            "foil": "foil_matrix_rain_red",
+            "level": 2
+          }
+        ],
+        "timestamp": 1794779339891,
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 12,
+        "totalAtk": 400,
+        "totalHp": 445,
+        "name": "Chunky Meatloaf",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.6840294292860798,
+        "id": "team_r12_1794779339891_d2o26t"
+      },
       {
         "timestamp": 1794524763024,
         "randomSeed": 0.5451358785189403,
@@ -64516,6 +65598,76 @@
     ],
     "13": [
       {
+        "teamFoilId": "foil_matrix_rain_red",
+        "name": "Chunky Meatloaf",
+        "totalAtk": 410,
+        "randomSeed": 0.9157561303377924,
+        "timestamp": 1794779461979,
+        "totalHp": 455,
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 13,
+        "slots": [
+          {
+            "maxHealth": 160,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 4,
+            "attack": 100,
+            "health": 160,
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ]
+          },
+          {
+            "templateId": "emp_bomber",
+            "health": 130,
+            "maxHealth": 130,
+            "attack": 140,
+            "copies": 9,
+            "foil": "foil_matrix_rain_red",
+            "level": 4
+          },
+          {
+            "health": 75,
+            "attack": 65,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 75,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "templateId": "vacuum",
+            "foil": "foil_matrix_rain_red",
+            "health": 45,
+            "copies": 6,
+            "attack": 60,
+            "level": 3,
+            "maxHealth": 45
+          },
+          {
+            "health": 45,
+            "level": 2,
+            "copies": 4,
+            "attack": 45,
+            "templateId": "david_exe",
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red"
+          }
+        ],
+        "id": "team_r13_1794779461979_9icrkx"
+      },
+      {
         "randomSeed": 0.4098401373494982,
         "timestamp": 1794524896645,
         "totalAtk": 250,
@@ -70499,9 +71651,340 @@
         "round": 13,
         "randomSeed": 0.9739500916805054,
         "timestamp": 1791564956095
+      },
+      {
+        "round": 13,
+        "id": "team_r13_1791991036753_wszpn0",
+        "totalAtk": 285,
+        "totalHp": 345,
+        "name": "Corrupted Meatloaf",
+        "randomSeed": 0.8121714873877923,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "level": 1,
+            "attack": 30,
+            "copies": 1,
+            "templateId": "spaghetti_code",
+            "health": 60
+          },
+          {
+            "level": 2,
+            "health": 60,
+            "copies": 3,
+            "attack": 60,
+            "templateId": "upload_toaster",
+            "maxHealth": 60
+          },
+          {
+            "health": 90,
+            "attack": 80,
+            "copies": 1,
+            "maxHealth": 90,
+            "templateId": "holo_triceratops",
+            "level": 1
+          },
+          {
+            "attack": 65,
+            "copies": 4,
+            "health": 85,
+            "level": 2,
+            "templateId": "priority_queue",
+            "maxHealth": 85
+          },
+          {
+            "templateId": "goldfish",
+            "level": 2,
+            "maxHealth": 50,
+            "copies": 5,
+            "attack": 50,
+            "health": 50
+          }
+        ],
+        "timestamp": 1791991036753
       }
     ],
     "14": [
+      {
+        "id": "team_r14_1794779775771_m0t28h",
+        "totalAtk": 445,
+        "timestamp": 1794779775771,
+        "totalHp": 475,
+        "teamFoilId": "foil_matrix_rain_red",
+        "slots": [
+          {
+            "health": 165,
+            "copies": 5,
+            "attack": 110,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 165,
+            "level": 2
+          },
+          {
+            "health": 130,
+            "copies": 9,
+            "maxHealth": 130,
+            "attack": 145,
+            "templateId": "emp_bomber",
+            "foil": "foil_matrix_rain_red",
+            "level": 4
+          },
+          {
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "foil": "foil_matrix_rain_red",
+            "attack": 70,
+            "copies": 3,
+            "health": 75,
+            "maxHealth": 75
+          },
+          {
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "vacuum",
+            "copies": 6,
+            "attack": 65,
+            "maxHealth": 45,
+            "health": 45
+          },
+          {
+            "templateId": "david_exe",
+            "foil": "foil_matrix_rain_red",
+            "health": 60,
+            "attack": 55,
+            "copies": 7,
+            "level": 3,
+            "maxHealth": 60
+          }
+        ],
+        "name": "Chunky Meatloaf",
+        "round": 14,
+        "randomSeed": 0.5643032535687438,
+        "arenaSkinId": "arena_ruhr_valley"
+      },
+      {
+        "randomSeed": 0.8362846860558381,
+        "totalHp": 475,
+        "teamFoilId": "foil_matrix_rain_red",
+        "id": "team_r14_1794780220442_rug0zy",
+        "name": "Chunky Meatloaf",
+        "round": 14,
+        "timestamp": 1794780220443,
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalAtk": 445,
+        "slots": [
+          {
+            "level": 2,
+            "maxHealth": 165,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load"
+              }
+            ],
+            "copies": 5,
+            "attack": 110,
+            "foil": "foil_matrix_rain_red",
+            "health": 165,
+            "templateId": "crypto_staker"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 4,
+            "maxHealth": 130,
+            "attack": 145,
+            "copies": 9,
+            "templateId": "emp_bomber",
+            "health": 130
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "attack": 70,
+            "copies": 3,
+            "maxHealth": 75,
+            "health": 75
+          },
+          {
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "health": 45,
+            "copies": 6,
+            "attack": 65
+          },
+          {
+            "health": 60,
+            "level": 3,
+            "copies": 7,
+            "attack": 55,
+            "templateId": "david_exe",
+            "maxHealth": 60,
+            "foil": "foil_matrix_rain_red"
+          }
+        ]
+      },
+      {
+        "slots": [
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "name": "Trojan Load"
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "crypto_staker",
+            "health": 165,
+            "maxHealth": 165,
+            "attack": 110,
+            "copies": 5,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "maxHealth": 130,
+            "templateId": "emp_bomber",
+            "health": 130,
+            "copies": 9,
+            "attack": 145,
+            "foil": "foil_matrix_rain_red",
+            "level": 4
+          },
+          {
+            "health": 75,
+            "maxHealth": 75,
+            "copies": 3,
+            "attack": 70,
+            "templateId": "firewall_umbrella",
+            "level": 2,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 3,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "attack": 65,
+            "copies": 6,
+            "health": 45
+          },
+          {
+            "templateId": "david_exe",
+            "level": 3,
+            "maxHealth": 60,
+            "health": 60,
+            "foil": "foil_matrix_rain_red",
+            "attack": 55,
+            "copies": 7
+          }
+        ],
+        "id": "team_r14_1794780408050_zp3w7s",
+        "arenaSkinId": "arena_ruhr_valley",
+        "timestamp": 1794780408050,
+        "totalAtk": 445,
+        "round": 14,
+        "teamFoilId": "foil_matrix_rain_red",
+        "name": "Chunky Meatloaf",
+        "totalHp": 475,
+        "randomSeed": 0.37836928365366407
+      },
+      {
+        "slots": [
+          {
+            "health": 165,
+            "copies": 5,
+            "attack": 110,
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "level": 2,
+            "maxHealth": 165,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ]
+          },
+          {
+            "health": 130,
+            "attack": 145,
+            "copies": 9,
+            "templateId": "emp_bomber",
+            "level": 4,
+            "maxHealth": 130,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "attack": 70,
+            "foil": "foil_matrix_rain_red",
+            "maxHealth": 75,
+            "health": 75,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "health": 45,
+            "copies": 6,
+            "attack": 65,
+            "level": 3,
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "attack": 55,
+            "maxHealth": 60,
+            "copies": 7,
+            "health": 60,
+            "templateId": "david_exe",
+            "level": 3
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_red",
+        "timestamp": 1794780681987,
+        "randomSeed": 0.6608302039912253,
+        "round": 14,
+        "id": "team_r14_1794780681987_o1x31r",
+        "name": "Chunky Meatloaf",
+        "arenaSkinId": "arena_ruhr_valley",
+        "totalHp": 475,
+        "totalAtk": 445
+      },
       {
         "randomSeed": 0.12445504445486177,
         "totalAtk": 250,
@@ -76606,6 +78089,146 @@
       }
     ],
     "15": [
+      {
+        "totalAtk": 450,
+        "totalHp": 520,
+        "id": "team_r15_1794780807538_kg08wn",
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.5566844537902976,
+        "slots": [
+          {
+            "maxHealth": 195,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 5,
+            "attack": 110,
+            "health": 195,
+            "level": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ]
+          },
+          {
+            "templateId": "emp_bomber",
+            "level": 4,
+            "attack": 145,
+            "copies": 9,
+            "foil": "foil_matrix_rain_red",
+            "health": 130,
+            "maxHealth": 130
+          },
+          {
+            "level": 2,
+            "foil": "foil_matrix_rain_red",
+            "attack": 70,
+            "maxHealth": 75,
+            "copies": 3,
+            "health": 75,
+            "templateId": "firewall_umbrella"
+          },
+          {
+            "level": 3,
+            "attack": 65,
+            "copies": 6,
+            "maxHealth": 55,
+            "health": 55,
+            "templateId": "vacuum",
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "david_exe",
+            "foil": "foil_matrix_rain_red",
+            "level": 3,
+            "copies": 8,
+            "attack": 60,
+            "health": 65,
+            "maxHealth": 65
+          }
+        ],
+        "name": "Chunky Meatloaf",
+        "timestamp": 1794780807538,
+        "arenaSkinId": "arena_ruhr_valley",
+        "round": 15
+      },
+      {
+        "totalAtk": 450,
+        "id": "team_r15_1794781293740_ty4wq7",
+        "totalHp": 520,
+        "timestamp": 1794781293740,
+        "teamFoilId": "foil_matrix_rain_red",
+        "arenaSkinId": "arena_ruhr_valley",
+        "slots": [
+          {
+            "level": 2,
+            "attack": 110,
+            "copies": 5,
+            "health": 195,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "perks": [
+              "trojan_load"
+            ],
+            "foil": "foil_matrix_rain_red",
+            "templateId": "crypto_staker",
+            "maxHealth": 195
+          },
+          {
+            "maxHealth": 130,
+            "health": 130,
+            "level": 4,
+            "copies": 9,
+            "attack": 145,
+            "foil": "foil_matrix_rain_red",
+            "templateId": "emp_bomber"
+          },
+          {
+            "foil": "foil_matrix_rain_red",
+            "copies": 3,
+            "attack": 70,
+            "health": 75,
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "maxHealth": 75
+          },
+          {
+            "templateId": "vacuum",
+            "health": 55,
+            "foil": "foil_matrix_rain_red",
+            "attack": 65,
+            "copies": 6,
+            "maxHealth": 55,
+            "level": 3
+          },
+          {
+            "maxHealth": 65,
+            "templateId": "david_exe",
+            "foil": "foil_matrix_rain_red",
+            "copies": 8,
+            "attack": 60,
+            "health": 65,
+            "level": 3
+          }
+        ],
+        "randomSeed": 0.08502569888977352,
+        "name": "Chunky Meatloaf",
+        "round": 15
+      },
       {
         "round": 15,
         "slots": [
