@@ -1,10 +1,111 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794849906298,
-  "lastSyncDate": "2026-11-16",
-  "totalReadsPerformed": 6550,
+  "lastSyncTimestamp": 1794934941391,
+  "lastSyncDate": "2026-11-17",
+  "totalReadsPerformed": 6720,
   "rounds": {
     "1": [
+      {
+        "timestamp": 1794869745148,
+        "round": 1,
+        "name": "Gigantic Cupcake",
+        "totalAtk": 175,
+        "randomSeed": 0.03121720335307543,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "id": "team_r1_1794869745148_kggu4u",
+        "totalHp": 140,
+        "slots": [
+          {
+            "level": 1,
+            "health": 25,
+            "attack": 35,
+            "copies": 1,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "weapon_proxy",
+            "maxHealth": 25
+          },
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "copies": 1,
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "templateId": "byte_donor",
+            "attack": 45
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 25,
+            "maxHealth": 25,
+            "copies": 1,
+            "attack": 25,
+            "templateId": "glitch_rat",
+            "level": 1
+          },
+          {
+            "templateId": "network_patcher",
+            "maxHealth": 30,
+            "copies": 1,
+            "attack": 35,
+            "foil": "foil_matrix_rain_gold",
+            "health": 30,
+            "level": 1
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "copies": 1,
+            "attack": 35,
+            "maxHealth": 25,
+            "templateId": "relay_proxy",
+            "health": 25,
+            "level": 1
+          }
+        ]
+      },
+      {
+        "slots": [
+          {
+            "level": 1,
+            "health": 20,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "attack": 20,
+            "copies": 2
+          },
+          {
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "health": 30,
+            "level": 1,
+            "attack": 40,
+            "copies": 1
+          },
+          null,
+          {
+            "level": 1,
+            "health": 45,
+            "templateId": "glitch_rat",
+            "maxHealth": 45,
+            "attack": 15,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "attack": 20,
+            "maxHealth": 30,
+            "templateId": "goldfish",
+            "level": 1,
+            "health": 30
+          }
+        ],
+        "timestamp": 1794874004619,
+        "randomSeed": 0.19960368262954298,
+        "totalHp": 125,
+        "name": "Invisible Duck",
+        "totalAtk": 95,
+        "round": 1,
+        "id": "team_r1_1794874004619_5vplqw"
+      },
       {
         "name": "Chunky Meatloaf",
         "arenaSkinId": "arena_ruhr_valley",
@@ -4855,6 +4956,114 @@
     ],
     "2": [
       {
+        "id": "team_r2_1794869798523_brvazt",
+        "totalHp": 155,
+        "slots": [
+          {
+            "health": 30,
+            "level": 1,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 40,
+            "maxHealth": 30,
+            "templateId": "weapon_proxy",
+            "copies": 2
+          },
+          {
+            "maxHealth": 35,
+            "health": 35,
+            "level": 1,
+            "copies": 1,
+            "templateId": "byte_donor",
+            "foil": "foil_matrix_rain_gold",
+            "attack": 45
+          },
+          {
+            "health": 25,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "maxHealth": 25,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 25,
+            "copies": 1
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "attack": 35,
+            "level": 1,
+            "templateId": "network_patcher"
+          },
+          {
+            "attack": 45,
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "health": 35,
+            "maxHealth": 35,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "timestamp": 1794869798523,
+        "totalAtk": 190,
+        "name": "Gigantic Cupcake",
+        "randomSeed": 0.5823342440982404,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "round": 2
+      },
+      {
+        "totalHp": 165,
+        "id": "team_r2_1794874266698_ynn3p1",
+        "slots": [
+          {
+            "attack": 20,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 20,
+            "health": 20,
+            "templateId": "turret_program"
+          },
+          {
+            "templateId": "data_miner",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "level": 1,
+            "attack": 40
+          },
+          {
+            "attack": 20,
+            "maxHealth": 30,
+            "level": 1,
+            "copies": 1,
+            "health": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 45,
+            "attack": 15,
+            "level": 1,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "health": 45
+          },
+          {
+            "templateId": "goldfish",
+            "health": 40,
+            "maxHealth": 40,
+            "copies": 3,
+            "level": 2,
+            "attack": 30
+          }
+        ],
+        "name": "Invisible Duck",
+        "timestamp": 1794874266698,
+        "round": 2,
+        "randomSeed": 0.9821646312161959,
+        "totalAtk": 125
+      },
+      {
         "id": "team_r2_1794748880494_rk4ouw",
         "slots": [
           {
@@ -9517,6 +9726,114 @@
       }
     ],
     "3": [
+      {
+        "totalHp": 145,
+        "id": "team_r3_1794869912587_ka6gsp",
+        "round": 3,
+        "timestamp": 1794869912587,
+        "totalAtk": 180,
+        "name": "Gigantic Cupcake",
+        "slots": [
+          {
+            "maxHealth": 30,
+            "foil": "foil_matrix_rain_gold",
+            "health": 30,
+            "templateId": "weapon_proxy",
+            "copies": 2,
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "templateId": "rootkit_loader",
+            "attack": 30,
+            "level": 1,
+            "maxHealth": 25,
+            "foil": "foil_matrix_rain_gold",
+            "health": 25
+          },
+          {
+            "maxHealth": 20,
+            "health": 20,
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "templateId": "wasp",
+            "attack": 30,
+            "copies": 1
+          },
+          {
+            "attack": 30,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 1,
+            "level": 1,
+            "templateId": "goldfish",
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 50,
+            "maxHealth": 40,
+            "templateId": "relay_proxy",
+            "copies": 4
+          }
+        ],
+        "randomSeed": 0.4312707114944394,
+        "teamFoilId": "foil_matrix_rain_gold"
+      },
+      {
+        "totalAtk": 135,
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "health": 25,
+            "maxHealth": 25,
+            "copies": 3,
+            "attack": 25,
+            "level": 2
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "level": 1,
+            "attack": 40,
+            "copies": 1
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "vanguard_feeder",
+            "copies": 1,
+            "level": 1,
+            "attack": 20
+          },
+          {
+            "level": 1,
+            "health": 50,
+            "maxHealth": 50,
+            "attack": 20,
+            "copies": 2,
+            "templateId": "glitch_rat"
+          },
+          {
+            "templateId": "goldfish",
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "copies": 3,
+            "attack": 30
+          }
+        ],
+        "id": "team_r3_1794874456678_u6s41o",
+        "name": "Invisible Duck",
+        "randomSeed": 0.7906404899328991,
+        "totalHp": 175,
+        "round": 3,
+        "timestamp": 1794874456678
+      },
       {
         "totalAtk": 200,
         "name": "Chunky Meatloaf",
@@ -14424,6 +14741,114 @@
       }
     ],
     "4": [
+      {
+        "totalAtk": 165,
+        "id": "team_r4_1794870181619_hqdsha",
+        "timestamp": 1794870181619,
+        "name": "Gigantic Cupcake",
+        "slots": [
+          {
+            "templateId": "data_cow",
+            "health": 45,
+            "copies": 1,
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "maxHealth": 45,
+            "attack": 25
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 20,
+            "templateId": "wasp",
+            "copies": 1,
+            "maxHealth": 20,
+            "attack": 30,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "attack": 40,
+            "templateId": "bouncer_exe",
+            "copies": 1,
+            "maxHealth": 50,
+            "health": 50,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "copies": 1,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 20,
+            "health": 50,
+            "templateId": "armor_pangolin",
+            "level": 1,
+            "maxHealth": 50
+          },
+          {
+            "health": 40,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 40,
+            "level": 2,
+            "attack": 50,
+            "templateId": "relay_proxy",
+            "copies": 4
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_gold",
+        "totalHp": 205,
+        "randomSeed": 0.8648134801622299,
+        "round": 4
+      },
+      {
+        "randomSeed": 0.032007102122608044,
+        "totalAtk": 115,
+        "timestamp": 1794874906495,
+        "slots": [
+          {
+            "attack": 25,
+            "maxHealth": 25,
+            "templateId": "turret_program",
+            "copies": 3,
+            "level": 2,
+            "health": 25
+          },
+          {
+            "copies": 1,
+            "attack": 20,
+            "health": 30,
+            "level": 1,
+            "maxHealth": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "copies": 2,
+            "attack": 20,
+            "templateId": "glitch_rat",
+            "health": 50,
+            "level": 1,
+            "maxHealth": 50
+          },
+          {
+            "level": 2,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "goldfish",
+            "copies": 3
+          },
+          {
+            "level": 2,
+            "attack": 20,
+            "templateId": "firewall_umbrella",
+            "copies": 3,
+            "maxHealth": 30,
+            "health": 30
+          }
+        ],
+        "name": "Invisible Duck",
+        "round": 4,
+        "totalHp": 175,
+        "id": "team_r4_1794874906494_xarc4x"
+      },
       {
         "teamFoilId": "foil_matrix_rain_red",
         "slots": [
@@ -19576,9 +20001,168 @@
         ],
         "totalHp": 185,
         "randomSeed": 0.6307848496179489
+      },
+      {
+        "randomSeed": 0.5753405404610853,
+        "slots": [
+          {
+            "health": 25,
+            "templateId": "crypto_staker",
+            "maxHealth": 25,
+            "copies": 3,
+            "attack": 25,
+            "level": 2
+          },
+          {
+            "templateId": "data_miner",
+            "health": 40,
+            "maxHealth": 40,
+            "copies": 3,
+            "attack": 50,
+            "level": 2
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 20,
+            "copies": 1,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "copies": 2,
+            "attack": 20,
+            "templateId": "glitch_rat",
+            "maxHealth": 50,
+            "health": 50,
+            "level": 1
+          },
+          {
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "goldfish",
+            "level": 2,
+            "copies": 4,
+            "attack": 35
+          }
+        ],
+        "name": "Sloppy Microwave",
+        "totalAtk": 150,
+        "id": "team_r4_1791966331059_gxmiqc",
+        "round": 4,
+        "totalHp": 190,
+        "timestamp": 1791966331059
       }
     ],
     "5": [
+      {
+        "round": 5,
+        "totalAtk": 185,
+        "totalHp": 260,
+        "name": "Gigantic Cupcake",
+        "randomSeed": 0.2817791132712829,
+        "timestamp": 1794870311739,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "id": "team_r5_1794870311739_0x1316",
+        "slots": [
+          {
+            "level": 1,
+            "health": 35,
+            "attack": 40,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 1,
+            "maxHealth": 35,
+            "templateId": "wasp"
+          },
+          {
+            "templateId": "data_cow",
+            "health": 55,
+            "level": 1,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 30,
+            "maxHealth": 55,
+            "copies": 2
+          },
+          {
+            "templateId": "bouncer_exe",
+            "attack": 40,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 55,
+            "copies": 1,
+            "level": 1,
+            "health": 55
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "copies": 2,
+            "attack": 25,
+            "health": 60,
+            "maxHealth": 60,
+            "level": 1,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "copies": 4,
+            "attack": 50,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "maxHealth": 55,
+            "templateId": "relay_proxy",
+            "health": 55
+          }
+        ]
+      },
+      {
+        "totalAtk": 120,
+        "id": "team_r5_1794875132352_mlnmas",
+        "round": 5,
+        "name": "Invisible Duck",
+        "timestamp": 1794875132352,
+        "randomSeed": 0.3909696286750747,
+        "slots": [
+          {
+            "health": 25,
+            "copies": 3,
+            "attack": 25,
+            "templateId": "turret_program",
+            "maxHealth": 25,
+            "level": 2
+          },
+          {
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 30,
+            "attack": 20,
+            "level": 1,
+            "health": 30
+          },
+          {
+            "maxHealth": 85,
+            "health": 85,
+            "copies": 3,
+            "templateId": "glitch_rat",
+            "attack": 25,
+            "level": 2
+          },
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "goldfish",
+            "level": 2,
+            "health": 40
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 2,
+            "copies": 3,
+            "templateId": "firewall_umbrella",
+            "attack": 20
+          }
+        ],
+        "totalHp": 210
+      },
       {
         "totalHp": 260,
         "totalAtk": 220,
@@ -24662,6 +25246,114 @@
       }
     ],
     "6": [
+      {
+        "slots": [
+          {
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "crypto_staker",
+            "attack": 35,
+            "copies": 3
+          },
+          {
+            "attack": 35,
+            "level": 2,
+            "maxHealth": 65,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "health": 65,
+            "templateId": "data_cow"
+          },
+          {
+            "templateId": "bouncer_exe",
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 70,
+            "health": 70,
+            "copies": 1,
+            "attack": 50,
+            "level": 1
+          },
+          {
+            "health": 70,
+            "maxHealth": 70,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "templateId": "armor_pangolin",
+            "attack": 30,
+            "copies": 3
+          },
+          {
+            "attack": 50,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "copies": 4,
+            "foil": "foil_matrix_rain_gold",
+            "health": 60,
+            "maxHealth": 60
+          }
+        ],
+        "totalAtk": 200,
+        "id": "team_r6_1794870432242_v01nsa",
+        "totalHp": 305,
+        "name": "Gigantic Cupcake",
+        "teamFoilId": "foil_matrix_rain_gold",
+        "randomSeed": 0.35460451149344385,
+        "round": 6,
+        "timestamp": 1794870432242
+      },
+      {
+        "totalHp": 245,
+        "timestamp": 1794875275771,
+        "slots": [
+          {
+            "copies": 3,
+            "attack": 25,
+            "maxHealth": 25,
+            "templateId": "turret_program",
+            "health": 25,
+            "level": 2
+          },
+          {
+            "copies": 2,
+            "templateId": "vanguard_feeder",
+            "attack": 25,
+            "maxHealth": 65,
+            "level": 1,
+            "health": 65
+          },
+          {
+            "health": 85,
+            "level": 2,
+            "maxHealth": 85,
+            "attack": 25,
+            "templateId": "glitch_rat",
+            "copies": 3
+          },
+          {
+            "attack": 30,
+            "templateId": "goldfish",
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "copies": 3,
+            "attack": 20,
+            "templateId": "firewall_umbrella",
+            "level": 2
+          }
+        ],
+        "randomSeed": 0.5162018933944716,
+        "totalAtk": 125,
+        "id": "team_r6_1794875275771_qsn7o5",
+        "round": 6,
+        "name": "Invisible Duck"
+      },
       {
         "id": "team_r6_1794775887661_2m5qme",
         "arenaSkinId": "arena_ruhr_valley",
@@ -30251,6 +30943,114 @@
       }
     ],
     "7": [
+      {
+        "totalHp": 340,
+        "totalAtk": 235,
+        "name": "Gigantic Cupcake",
+        "teamFoilId": "foil_matrix_rain_gold",
+        "timestamp": 1794870549211,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 40,
+            "templateId": "crypto_staker",
+            "copies": 3,
+            "attack": 35,
+            "level": 2,
+            "maxHealth": 40
+          },
+          {
+            "copies": 3,
+            "attack": 35,
+            "templateId": "data_cow",
+            "foil": "foil_matrix_rain_gold",
+            "health": 65,
+            "level": 2,
+            "maxHealth": 65
+          },
+          {
+            "templateId": "bouncer_exe",
+            "maxHealth": 85,
+            "health": 85,
+            "copies": 2,
+            "level": 1,
+            "attack": 65,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "health": 90,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "level": 2,
+            "attack": 50,
+            "maxHealth": 90,
+            "copies": 5
+          },
+          {
+            "level": 2,
+            "attack": 50,
+            "copies": 4,
+            "maxHealth": 60,
+            "templateId": "relay_proxy",
+            "health": 60,
+            "foil": "foil_matrix_rain_gold"
+          }
+        ],
+        "randomSeed": 0.14033663153312737,
+        "round": 7,
+        "id": "team_r7_1794870549211_ukof3h"
+      },
+      {
+        "timestamp": 1794875458754,
+        "slots": [
+          {
+            "copies": 3,
+            "templateId": "turret_program",
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 2,
+            "health": 25
+          },
+          {
+            "copies": 2,
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 65,
+            "templateId": "vanguard_feeder",
+            "health": 65
+          },
+          {
+            "templateId": "glitch_rat",
+            "maxHealth": 85,
+            "health": 85,
+            "copies": 3,
+            "level": 2,
+            "attack": 25
+          },
+          {
+            "templateId": "goldfish",
+            "maxHealth": 40,
+            "health": 40,
+            "copies": 3,
+            "level": 2,
+            "attack": 30
+          },
+          {
+            "attack": 20,
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "copies": 3,
+            "health": 30,
+            "maxHealth": 30
+          }
+        ],
+        "id": "team_r7_1794875458754_st5jd7",
+        "name": "Invisible Duck",
+        "totalAtk": 125,
+        "randomSeed": 0.282173419753855,
+        "round": 7,
+        "totalHp": 245
+      },
       {
         "slots": [
           {
@@ -36072,9 +36872,168 @@
         "randomSeed": 0.5606418974149147,
         "totalHp": 185,
         "timestamp": 1791508027773
+      },
+      {
+        "slots": [
+          {
+            "templateId": "drone_mosquito",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "level": 1,
+            "attack": 40
+          },
+          {
+            "level": 1,
+            "templateId": "defrag_otter",
+            "attack": 50,
+            "maxHealth": 50,
+            "copies": 2,
+            "health": 50
+          },
+          {
+            "attack": 50,
+            "level": 1,
+            "maxHealth": 40,
+            "copies": 1,
+            "health": 40,
+            "templateId": "david_exe"
+          },
+          {
+            "health": 55,
+            "maxHealth": 55,
+            "level": 2,
+            "attack": 65,
+            "templateId": "byte_donor",
+            "copies": 3
+          },
+          {
+            "attack": 75,
+            "templateId": "relay_proxy",
+            "maxHealth": 65,
+            "level": 2,
+            "copies": 4,
+            "health": 65
+          }
+        ],
+        "randomSeed": 0.9817305000763827,
+        "id": "team_r7_1791918962008_4torpl",
+        "name": "Feral Keyboard",
+        "totalHp": 240,
+        "totalAtk": 280,
+        "timestamp": 1791918962008,
+        "round": 7
       }
     ],
     "8": [
+      {
+        "id": "team_r8_1794870646498_n232ww",
+        "slots": [
+          {
+            "level": 2,
+            "templateId": "crypto_staker",
+            "maxHealth": 40,
+            "attack": 35,
+            "copies": 3,
+            "health": 40,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "health": 65,
+            "templateId": "data_cow",
+            "maxHealth": 65,
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 35,
+            "copies": 3
+          },
+          {
+            "copies": 3,
+            "maxHealth": 100,
+            "templateId": "bouncer_exe",
+            "attack": 80,
+            "level": 2,
+            "health": 100,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "copies": 5,
+            "templateId": "armor_pangolin",
+            "maxHealth": 100,
+            "attack": 60,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "health": 100
+          },
+          {
+            "attack": 50,
+            "maxHealth": 60,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "copies": 4,
+            "health": 60,
+            "templateId": "relay_proxy"
+          }
+        ],
+        "timestamp": 1794870646498,
+        "totalHp": 365,
+        "name": "Gigantic Cupcake",
+        "totalAtk": 260,
+        "randomSeed": 0.6735706329736687,
+        "round": 8,
+        "teamFoilId": "foil_matrix_rain_gold"
+      },
+      {
+        "totalHp": 255,
+        "totalAtk": 135,
+        "slots": [
+          {
+            "copies": 3,
+            "maxHealth": 25,
+            "attack": 25,
+            "level": 2,
+            "templateId": "turret_program",
+            "health": 25
+          },
+          {
+            "level": 2,
+            "attack": 30,
+            "copies": 3,
+            "maxHealth": 70,
+            "templateId": "vanguard_feeder",
+            "health": 70
+          },
+          {
+            "health": 85,
+            "templateId": "glitch_rat",
+            "maxHealth": 85,
+            "copies": 3,
+            "attack": 25,
+            "level": 2
+          },
+          {
+            "copies": 4,
+            "attack": 35,
+            "templateId": "goldfish",
+            "health": 45,
+            "level": 2,
+            "maxHealth": 45
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "firewall_umbrella",
+            "copies": 3,
+            "attack": 20,
+            "level": 2
+          }
+        ],
+        "id": "team_r8_1794875590799_i5wocq",
+        "randomSeed": 0.6888999272748956,
+        "name": "Invisible Duck",
+        "timestamp": 1794875590799,
+        "round": 8
+      },
       {
         "timestamp": 1794777441388,
         "teamFoilId": "foil_matrix_rain_red",
@@ -41916,6 +42875,114 @@
     ],
     "9": [
       {
+        "round": 9,
+        "totalAtk": 290,
+        "name": "Gigantic Cupcake",
+        "id": "team_r9_1794870808514_hmuum9",
+        "randomSeed": 0.3453452553388814,
+        "timestamp": 1794870808514,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "totalHp": 395,
+        "slots": [
+          {
+            "level": 2,
+            "health": 40,
+            "templateId": "crypto_staker",
+            "attack": 35,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "maxHealth": 40
+          },
+          {
+            "maxHealth": 65,
+            "health": 65,
+            "copies": 3,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "data_cow",
+            "level": 2,
+            "attack": 35
+          },
+          {
+            "attack": 95,
+            "level": 2,
+            "copies": 4,
+            "foil": "foil_matrix_rain_gold",
+            "health": 115,
+            "templateId": "bouncer_exe",
+            "maxHealth": 115
+          },
+          {
+            "maxHealth": 115,
+            "health": 115,
+            "copies": 6,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "level": 3,
+            "attack": 75
+          },
+          {
+            "level": 2,
+            "attack": 50,
+            "templateId": "relay_proxy",
+            "copies": 4,
+            "health": 60,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 60
+          }
+        ]
+      },
+      {
+        "slots": [
+          {
+            "health": 70,
+            "level": 2,
+            "attack": 30,
+            "templateId": "vanguard_feeder",
+            "copies": 3,
+            "maxHealth": 70
+          },
+          {
+            "copies": 3,
+            "maxHealth": 85,
+            "attack": 25,
+            "templateId": "glitch_rat",
+            "level": 2,
+            "health": 85
+          },
+          {
+            "copies": 2,
+            "attack": 25,
+            "level": 1,
+            "maxHealth": 65,
+            "health": 65,
+            "templateId": "tank"
+          },
+          {
+            "copies": 4,
+            "attack": 35,
+            "level": 2,
+            "health": 45,
+            "maxHealth": 45,
+            "templateId": "goldfish"
+          },
+          {
+            "health": 30,
+            "level": 2,
+            "templateId": "firewall_umbrella",
+            "maxHealth": 30,
+            "attack": 20,
+            "copies": 3
+          }
+        ],
+        "randomSeed": 0.5876362801623839,
+        "name": "Invisible Duck",
+        "round": 9,
+        "totalAtk": 135,
+        "id": "team_r9_1794875778351_z4q6jv",
+        "totalHp": 295,
+        "timestamp": 1794875778351
+      },
+      {
         "teamFoilId": "foil_matrix_rain_red",
         "slots": [
           {
@@ -47298,6 +48365,114 @@
       }
     ],
     "10": [
+      {
+        "id": "team_r10_1794870904811_8mez2p",
+        "name": "Gigantic Cupcake",
+        "totalHp": 430,
+        "slots": [
+          {
+            "attack": 35,
+            "templateId": "crypto_staker",
+            "level": 2,
+            "maxHealth": 40,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "health": 40
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "attack": 35,
+            "templateId": "data_cow",
+            "health": 65,
+            "maxHealth": 65,
+            "level": 2
+          },
+          {
+            "health": 130,
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "bouncer_exe",
+            "attack": 110,
+            "copies": 5,
+            "maxHealth": 130
+          },
+          {
+            "copies": 8,
+            "attack": 95,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "maxHealth": 135,
+            "level": 3,
+            "health": 135
+          },
+          {
+            "health": 60,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "relay_proxy",
+            "level": 2,
+            "attack": 50,
+            "maxHealth": 60,
+            "copies": 4
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_gold",
+        "round": 10,
+        "randomSeed": 0.7381711840345885,
+        "totalAtk": 325,
+        "timestamp": 1794870904811
+      },
+      {
+        "totalHp": 330,
+        "round": 10,
+        "totalAtk": 170,
+        "name": "Invisible Duck",
+        "timestamp": 1794876043606,
+        "slots": [
+          {
+            "maxHealth": 80,
+            "attack": 60,
+            "level": 1,
+            "copies": 1,
+            "health": 80,
+            "templateId": "ddos_daemon"
+          },
+          {
+            "level": 2,
+            "templateId": "vanguard_feeder",
+            "health": 70,
+            "maxHealth": 70,
+            "attack": 30,
+            "copies": 3
+          },
+          {
+            "health": 85,
+            "templateId": "glitch_rat",
+            "maxHealth": 85,
+            "level": 2,
+            "attack": 25,
+            "copies": 3
+          },
+          {
+            "level": 1,
+            "attack": 20,
+            "templateId": "armor_pangolin",
+            "copies": 1,
+            "health": 50,
+            "maxHealth": 50
+          },
+          {
+            "copies": 4,
+            "attack": 35,
+            "health": 45,
+            "level": 2,
+            "templateId": "goldfish",
+            "maxHealth": 45
+          }
+        ],
+        "randomSeed": 0.2776744206937499,
+        "id": "team_r10_1794876043606_73uu5j"
+      },
       {
         "timestamp": 1794778510268,
         "slots": [
@@ -53203,6 +54378,162 @@
       }
     ],
     "11": [
+      {
+        "slots": [
+          {
+            "level": 1,
+            "attack": 10,
+            "copies": 1,
+            "health": 70,
+            "maxHealth": 70,
+            "templateId": "echo_engine",
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "level": 1,
+            "attack": 10,
+            "copies": 1,
+            "templateId": "recovery_partition",
+            "health": 90,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 90
+          },
+          {
+            "health": 65,
+            "templateId": "data_cow",
+            "level": 2,
+            "maxHealth": 65,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 35,
+            "copies": 3
+          },
+          {
+            "copies": 5,
+            "templateId": "bouncer_exe",
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "health": 140,
+            "attack": 120,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 140,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "perks": [
+              "refactoring_expert"
+            ],
+            "health": 145,
+            "copies": 8,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "maxHealth": 145,
+            "level": 3,
+            "attack": 1,
+            "mods": [
+              {
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor"
+              }
+            ]
+          }
+        ],
+        "id": "team_r11_1794871080434_52dwo6",
+        "totalHp": 510,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "name": "Gigantic Cupcake",
+        "randomSeed": 0.035176670389314935,
+        "round": 11,
+        "timestamp": 1794871080434,
+        "totalAtk": 176
+      },
+      {
+        "id": "team_r11_1794876222717_jpz294",
+        "slots": [
+          {
+            "attack": 60,
+            "level": 1,
+            "copies": 1,
+            "templateId": "ddos_daemon",
+            "maxHealth": 80,
+            "health": 80
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "name": "SNAP",
+                "id": "snap"
+              }
+            ],
+            "copies": 3,
+            "level": 2,
+            "perks": [
+              "snap"
+            ],
+            "templateId": "vanguard_feeder",
+            "attack": 50
+          },
+          {
+            "attack": 25,
+            "level": 2,
+            "copies": 3,
+            "health": 85,
+            "maxHealth": 85,
+            "templateId": "glitch_rat"
+          },
+          {
+            "level": 1,
+            "attack": 20,
+            "copies": 1,
+            "maxHealth": 50,
+            "health": 50,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "templateId": "goldfish",
+            "health": 45,
+            "copies": 4,
+            "maxHealth": 45,
+            "level": 2,
+            "attack": 35,
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "totalHp": 330,
+        "name": "Invisible Duck",
+        "totalAtk": 190,
+        "timestamp": 1794876222717,
+        "round": 11,
+        "randomSeed": 0.17932666580206802
+      },
       {
         "totalAtk": 390,
         "totalHp": 435,
@@ -59118,6 +60449,174 @@
       }
     ],
     "12": [
+      {
+        "name": "Gigantic Cupcake",
+        "timestamp": 1794871258978,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 30,
+            "copies": 1,
+            "health": 90,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 90,
+            "templateId": "echo_engine"
+          },
+          {
+            "level": 1,
+            "attack": 10,
+            "templateId": "recovery_partition",
+            "copies": 1,
+            "maxHealth": 90,
+            "health": 90,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "copies": 3,
+            "health": 65,
+            "templateId": "data_cow",
+            "attack": 65,
+            "perks": [
+              "snap"
+            ],
+            "mods": [
+              {
+                "name": "SNAP",
+                "bonusAttack": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "id": "snap",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 65
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 150,
+            "health": 170,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "level": 2,
+            "maxHealth": 170,
+            "templateId": "bouncer_exe",
+            "copies": 5
+          },
+          {
+            "attack": 11,
+            "level": 3,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 185,
+            "mods": [
+              {
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "id": "monolith_refactor",
+                "name": "Monolith Refactor",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "refactoring_expert"
+            ],
+            "copies": 8,
+            "health": 185
+          }
+        ],
+        "randomSeed": 0.9374138702426398,
+        "totalHp": 600,
+        "id": "team_r12_1794871258978_xp3vz4",
+        "teamFoilId": "foil_matrix_rain_gold",
+        "round": 12,
+        "totalAtk": 266
+      },
+      {
+        "round": 12,
+        "name": "Invisible Duck",
+        "totalAtk": 245,
+        "slots": [
+          {
+            "copies": 1,
+            "templateId": "ddos_daemon",
+            "attack": 60,
+            "maxHealth": 80,
+            "health": 80,
+            "level": 1
+          },
+          {
+            "health": 100,
+            "perks": [
+              "snap"
+            ],
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 100,
+            "templateId": "vanguard_feeder",
+            "attack": 80,
+            "mods": [
+              {
+                "id": "snap",
+                "bonusAttack": 0,
+                "name": "SNAP",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1)."
+              }
+            ]
+          },
+          {
+            "health": 85,
+            "level": 2,
+            "attack": 25,
+            "copies": 3,
+            "maxHealth": 85,
+            "templateId": "glitch_rat"
+          },
+          {
+            "copies": 2,
+            "attack": 45,
+            "templateId": "armor_pangolin",
+            "level": 1,
+            "maxHealth": 75,
+            "health": 75
+          },
+          {
+            "attack": 35,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "templateId": "goldfish",
+            "level": 2,
+            "maxHealth": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 4,
+            "health": 45
+          }
+        ],
+        "id": "team_r12_1794876399611_ovd7pu",
+        "timestamp": 1794876399611,
+        "totalHp": 385,
+        "randomSeed": 0.732830666308806
+      },
       {
         "name": "Chunky Meatloaf",
         "id": "team_r12_1794778927965_obc5pu",
@@ -65598,6 +67097,186 @@
     ],
     "13": [
       {
+        "totalHp": 645,
+        "name": "Gigantic Cupcake",
+        "totalAtk": 291,
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 90,
+            "attack": 30,
+            "level": 1,
+            "templateId": "echo_engine",
+            "health": 90,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "maxHealth": 95,
+            "templateId": "recovery_partition",
+            "level": 1,
+            "health": 95,
+            "attack": 15,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 2
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "name": "SNAP",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "snap"
+            ],
+            "attack": 65,
+            "maxHealth": 65,
+            "health": 65,
+            "level": 2,
+            "copies": 3,
+            "templateId": "data_cow",
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "templateId": "bouncer_exe",
+            "maxHealth": 180,
+            "perks": [
+              "hardcoded"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "attack": 160,
+            "level": 2,
+            "health": 180,
+            "copies": 5,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "health": 215,
+            "mods": [
+              {
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "id": "monolith_refactor",
+                "bonusHealth": 0
+              }
+            ],
+            "copies": 8,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "maxHealth": 215,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "attack": 21,
+            "level": 3
+          }
+        ],
+        "randomSeed": 0.6942714838190163,
+        "round": 13,
+        "id": "team_r13_1794871427419_1df9k4",
+        "teamFoilId": "foil_matrix_rain_gold",
+        "timestamp": 1794871427419
+      },
+      {
+        "timestamp": 1794876574951,
+        "randomSeed": 0.2583879999490357,
+        "totalAtk": 315,
+        "round": 13,
+        "name": "Invisible Duck",
+        "id": "team_r13_1794876574951_g3ps4e",
+        "totalHp": 395,
+        "slots": [
+          {
+            "level": 1,
+            "templateId": "ddos_daemon",
+            "health": 80,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "maxHealth": 80,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "cascade_trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "name": "Cascade Trigger"
+              }
+            ],
+            "attack": 60,
+            "copies": 1
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "maxHealth": 100,
+            "copies": 3,
+            "attack": 110,
+            "mods": [
+              {
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "name": "SNAP",
+                "id": "snap",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 100,
+            "perks": [
+              "snap"
+            ],
+            "level": 2
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 2,
+            "health": 85,
+            "attack": 25,
+            "maxHealth": 85,
+            "copies": 3
+          },
+          {
+            "attack": 55,
+            "level": 1,
+            "templateId": "armor_pangolin",
+            "copies": 2,
+            "health": 85,
+            "maxHealth": 85
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "health": 45,
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 65,
+            "level": 2,
+            "templateId": "goldfish",
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ]
+      },
+      {
         "teamFoilId": "foil_matrix_rain_red",
         "name": "Chunky Meatloaf",
         "totalAtk": 410,
@@ -71705,6 +73384,198 @@
       }
     ],
     "14": [
+      {
+        "randomSeed": 0.886623001874043,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "totalAtk": 311,
+        "round": 14,
+        "totalHp": 685,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 30,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "echo_engine",
+            "perks": [
+              "temp_buffer"
+            ],
+            "copies": 1,
+            "health": 90,
+            "mods": [
+              {
+                "id": "temp_buffer",
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "maxHealth": 90
+          },
+          {
+            "copies": 2,
+            "templateId": "recovery_partition",
+            "attack": 15,
+            "level": 1,
+            "maxHealth": 95,
+            "foil": "foil_matrix_rain_gold",
+            "health": 95
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "bonusHealth": 0,
+                "id": "blockchain",
+                "name": "Blockchain",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 65,
+            "copies": 3,
+            "perks": [
+              "blockchain"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "data_cow",
+            "maxHealth": 65,
+            "attack": 65,
+            "level": 2
+          },
+          {
+            "copies": 5,
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "templateId": "bouncer_exe",
+            "health": 190,
+            "attack": 170,
+            "maxHealth": 190,
+            "perks": [
+              "hardcoded"
+            ],
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "level": 3,
+            "attack": 31,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "maxHealth": 245,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "copies": 8,
+            "mods": [
+              {
+                "name": "Monolith Refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "monolith_refactor"
+              }
+            ],
+            "health": 245
+          }
+        ],
+        "id": "team_r14_1794871743963_jp0eqj",
+        "name": "Gigantic Cupcake",
+        "timestamp": 1794871743963
+      },
+      {
+        "slots": [
+          {
+            "attack": 60,
+            "templateId": "ddos_daemon",
+            "maxHealth": 80,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "id": "cascade_trigger",
+                "bonusAttack": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "perks": [
+              "cascade_trigger"
+            ],
+            "copies": 1,
+            "level": 1,
+            "health": 80
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "health": 100,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 100,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "SNAP",
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "snap"
+            ],
+            "attack": 110
+          },
+          {
+            "attack": 25,
+            "level": 2,
+            "copies": 3,
+            "templateId": "glitch_rat",
+            "health": 85,
+            "maxHealth": 85
+          },
+          {
+            "attack": 65,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 115,
+            "health": 115,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "health": 50,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 50,
+            "attack": 70,
+            "templateId": "goldfish",
+            "copies": 4
+          }
+        ],
+        "totalAtk": 330,
+        "randomSeed": 0.4003734102259292,
+        "totalHp": 430,
+        "id": "team_r14_1794878254396_k8ddpj",
+        "name": "Invisible Duck",
+        "timestamp": 1794878254396,
+        "round": 14
+      },
       {
         "id": "team_r14_1794779775771_m0t28h",
         "totalAtk": 445,
@@ -78090,6 +79961,111 @@
     ],
     "15": [
       {
+        "id": "team_r15_1794871947770_v9ap2c",
+        "teamFoilId": "foil_matrix_rain_gold",
+        "timestamp": 1794871947770,
+        "round": 15,
+        "randomSeed": 0.4034736065496908,
+        "totalHp": 710,
+        "slots": [
+          {
+            "copies": 1,
+            "templateId": "echo_engine",
+            "level": 1,
+            "mods": [
+              {
+                "id": "temp_buffer",
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "health": 90,
+            "attack": 30,
+            "perks": [
+              "temp_buffer"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 90
+          },
+          {
+            "attack": 15,
+            "templateId": "recovery_partition",
+            "maxHealth": 95,
+            "level": 1,
+            "copies": 2,
+            "foil": "foil_matrix_rain_gold",
+            "health": 95
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "copies": 3,
+            "templateId": "data_cow",
+            "health": 65,
+            "maxHealth": 65,
+            "attack": 65,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "name": "Blockchain",
+                "bonusHealth": 0,
+                "id": "blockchain"
+              }
+            ],
+            "perks": [
+              "blockchain"
+            ]
+          },
+          {
+            "templateId": "bouncer_exe",
+            "health": 205,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 205,
+            "copies": 6,
+            "perks": [
+              "hardcoded"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "attack": 185,
+            "level": 3
+          },
+          {
+            "level": 3,
+            "attack": 41,
+            "templateId": "armor_pangolin",
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 255,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "copies": 8,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "health": 255
+          }
+        ],
+        "name": "Gigantic Cupcake",
+        "totalAtk": 336
+      },
+      {
         "totalAtk": 450,
         "totalHp": 520,
         "id": "team_r15_1794780807538_kg08wn",
@@ -83163,6 +85139,111 @@
     ],
     "16": [
       {
+        "timestamp": 1794872119434,
+        "totalHp": 735,
+        "round": 16,
+        "slots": [
+          {
+            "health": 90,
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "temp_buffer"
+            ],
+            "maxHealth": 90,
+            "copies": 1,
+            "templateId": "echo_engine",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "level": 1,
+            "attack": 30
+          },
+          {
+            "templateId": "recovery_partition",
+            "health": 95,
+            "level": 1,
+            "copies": 2,
+            "maxHealth": 95,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 15
+          },
+          {
+            "attack": 65,
+            "templateId": "data_cow",
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "blockchain",
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "name": "Blockchain",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 65,
+            "copies": 3,
+            "perks": [
+              "blockchain"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "health": 65
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "attack": 195,
+            "health": 215,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 3,
+            "maxHealth": 215,
+            "copies": 6,
+            "templateId": "bouncer_exe"
+          },
+          {
+            "attack": 1,
+            "level": 4,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "name": "Monolith Refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "maxHealth": 270,
+            "copies": 9,
+            "templateId": "armor_pangolin",
+            "perks": [
+              "refactoring_expert"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "health": 270
+          }
+        ],
+        "name": "Gigantic Cupcake",
+        "totalAtk": 306,
+        "randomSeed": 0.06328505618068414,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "id": "team_r16_1794872119434_vz1ol8"
+      },
+      {
         "round": 16,
         "slots": [
           {
@@ -87111,6 +89192,99 @@
       }
     ],
     "17": [
+      {
+        "totalHp": 780,
+        "randomSeed": 0.1734691912827555,
+        "totalAtk": 341,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "copies": 1,
+            "health": 90,
+            "templateId": "echo_engine",
+            "attack": 30,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusAttack": 0,
+                "id": "temp_buffer"
+              }
+            ],
+            "maxHealth": 90,
+            "perks": [
+              "temp_buffer"
+            ]
+          },
+          {
+            "level": 2,
+            "attack": 20,
+            "copies": 3,
+            "templateId": "recovery_partition",
+            "health": 100,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 100
+          },
+          {
+            "maxHealth": 250,
+            "templateId": "bouncer_exe",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 230,
+            "health": 250,
+            "copies": 7,
+            "level": 3,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "maxHealth": 300,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 11,
+            "templateId": "armor_pangolin",
+            "health": 300,
+            "copies": 9,
+            "foil": "foil_matrix_rain_gold",
+            "level": 4
+          },
+          {
+            "attack": 50,
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "vacuum",
+            "copies": 1,
+            "maxHealth": 40,
+            "level": 1,
+            "health": 40
+          }
+        ],
+        "name": "Gigantic Cupcake",
+        "timestamp": 1794872536251,
+        "round": 17,
+        "id": "team_r17_1794872536251_ux0yrt"
+      },
       {
         "randomSeed": 0.041488932557927516,
         "id": "team_r17_1794582493801_hmdaxd",
@@ -91207,6 +93381,99 @@
     ],
     "18": [
       {
+        "totalAtk": 346,
+        "name": "Gigantic Cupcake",
+        "timestamp": 1794872796914,
+        "slots": [
+          {
+            "level": 1,
+            "copies": 1,
+            "templateId": "echo_engine",
+            "foil": "foil_matrix_rain_gold",
+            "health": 90,
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 30,
+            "maxHealth": 90,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ]
+          },
+          {
+            "templateId": "recovery_partition",
+            "health": 100,
+            "maxHealth": 100,
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 20,
+            "copies": 3
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 250,
+            "copies": 7,
+            "foil": "foil_matrix_rain_gold",
+            "level": 3,
+            "maxHealth": 250,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 230,
+            "templateId": "bouncer_exe"
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "templateId": "armor_pangolin",
+            "perks": [
+              "refactoring_expert"
+            ],
+            "maxHealth": 300,
+            "attack": 11,
+            "health": 300,
+            "level": 4,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "name": "Monolith Refactor",
+                "bonusHealth": 0
+              }
+            ],
+            "copies": 9
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 45,
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 55,
+            "level": 2
+          }
+        ],
+        "round": 18,
+        "totalHp": 785,
+        "randomSeed": 0.5293822424071153,
+        "id": "team_r18_1794872796914_o2wah7",
+        "teamFoilId": "foil_matrix_rain_gold"
+      },
+      {
         "randomSeed": 0.46149700359014156,
         "totalHp": 540,
         "id": "team_r18_1794582551356_2d0y98",
@@ -94729,6 +96996,99 @@
     ],
     "19": [
       {
+        "timestamp": 1794872885650,
+        "slots": [
+          {
+            "health": 90,
+            "templateId": "echo_engine",
+            "perks": [
+              "temp_buffer"
+            ],
+            "copies": 1,
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer"
+              }
+            ],
+            "maxHealth": 90,
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "attack": 30
+          },
+          {
+            "templateId": "recovery_partition",
+            "copies": 3,
+            "maxHealth": 100,
+            "attack": 20,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "health": 100
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 250,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 7,
+            "level": 3,
+            "maxHealth": 250,
+            "templateId": "bouncer_exe",
+            "attack": 230,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "copies": 9,
+            "templateId": "armor_pangolin",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "id": "monolith_refactor",
+                "bonusAttack": 0,
+                "name": "Monolith Refactor"
+              }
+            ],
+            "level": 4,
+            "maxHealth": 300,
+            "health": 300,
+            "attack": 11,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "attack": 55,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "maxHealth": 45,
+            "copies": 4,
+            "health": 45,
+            "templateId": "vacuum"
+          }
+        ],
+        "totalHp": 785,
+        "randomSeed": 0.6765187138789364,
+        "totalAtk": 346,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "name": "Gigantic Cupcake",
+        "round": 19,
+        "id": "team_r19_1794872885650_uhafcs"
+      },
+      {
         "slots": [
           {
             "maxHealth": 205,
@@ -97400,6 +99760,99 @@
     ],
     "20": [
       {
+        "timestamp": 1794873175081,
+        "totalHp": 790,
+        "slots": [
+          {
+            "attack": 30,
+            "level": 1,
+            "maxHealth": 90,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusAttack": 0,
+                "id": "temp_buffer"
+              }
+            ],
+            "templateId": "echo_engine",
+            "copies": 1,
+            "perks": [
+              "temp_buffer"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "health": 90
+          },
+          {
+            "templateId": "recovery_partition",
+            "level": 2,
+            "maxHealth": 100,
+            "health": 100,
+            "attack": 20,
+            "copies": 3,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "bouncer_exe",
+            "maxHealth": 255,
+            "attack": 235,
+            "foil": "foil_matrix_rain_gold",
+            "level": 3,
+            "health": 255,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "copies": 8
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "level": 4,
+            "copies": 9,
+            "health": 300,
+            "templateId": "armor_pangolin",
+            "attack": 11,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "mods": [
+              {
+                "id": "monolith_refactor",
+                "bonusAttack": 0,
+                "name": "Monolith Refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 300
+          },
+          {
+            "maxHealth": 45,
+            "copies": 4,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 55,
+            "templateId": "vacuum",
+            "health": 45,
+            "level": 2
+          }
+        ],
+        "randomSeed": 0.30671114625146045,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "id": "team_r20_1794873175081_hphwfl",
+        "name": "Gigantic Cupcake",
+        "totalAtk": 351,
+        "round": 20
+      },
+      {
         "round": 20,
         "id": "team_r20_1793577256118_g9295g",
         "totalAtk": 445,
@@ -99932,6 +102385,99 @@
     ],
     "21": [
       {
+        "slots": [
+          {
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 35,
+            "foil": "foil_matrix_rain_gold",
+            "level": 1,
+            "health": 95,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer"
+              }
+            ],
+            "copies": 2,
+            "maxHealth": 95,
+            "templateId": "echo_engine"
+          },
+          {
+            "maxHealth": 100,
+            "health": 100,
+            "copies": 3,
+            "level": 2,
+            "templateId": "recovery_partition",
+            "foil": "foil_matrix_rain_gold",
+            "attack": 20
+          },
+          {
+            "level": 3,
+            "copies": 8,
+            "health": 255,
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 235,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded"
+              }
+            ],
+            "templateId": "bouncer_exe",
+            "maxHealth": 255
+          },
+          {
+            "templateId": "armor_pangolin",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "perks": [
+              "refactoring_expert"
+            ],
+            "attack": 11,
+            "maxHealth": 300,
+            "health": 300,
+            "copies": 9,
+            "level": 4,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "attack": 55,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "copies": 4,
+            "templateId": "vacuum",
+            "health": 45,
+            "maxHealth": 45
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_gold",
+        "randomSeed": 0.04239735926116728,
+        "id": "team_r21_1794873400818_xzipaa",
+        "totalAtk": 356,
+        "name": "Gigantic Cupcake",
+        "totalHp": 795,
+        "round": 21,
+        "timestamp": 1794873400818
+      },
+      {
         "round": 21,
         "randomSeed": 0.6602260343086326,
         "name": "Glitchy Pants",
@@ -102369,6 +104915,99 @@
       }
     ],
     "22": [
+      {
+        "id": "team_r22_1794873530179_s0ogsn",
+        "slots": [
+          {
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 100,
+            "attack": 40,
+            "perks": [
+              "temp_buffer"
+            ],
+            "templateId": "echo_engine",
+            "health": 100,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 100,
+            "copies": 3,
+            "attack": 20,
+            "maxHealth": 100,
+            "templateId": "recovery_partition",
+            "level": 2
+          },
+          {
+            "attack": 235,
+            "level": 3,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded"
+              }
+            ],
+            "copies": 8,
+            "maxHealth": 255,
+            "templateId": "bouncer_exe",
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 255,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "attack": 11,
+            "level": 4,
+            "maxHealth": 300,
+            "mods": [
+              {
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0,
+                "name": "Monolith Refactor",
+                "id": "monolith_refactor",
+                "bonusAttack": 0
+              }
+            ],
+            "copies": 9,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "health": 300,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 45,
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "copies": 4,
+            "attack": 55,
+            "level": 2
+          }
+        ],
+        "totalHp": 800,
+        "timestamp": 1794873530179,
+        "name": "Gigantic Cupcake",
+        "round": 22,
+        "randomSeed": 0.48091749899012093,
+        "totalAtk": 361,
+        "teamFoilId": "foil_matrix_rain_gold"
+      },
       {
         "id": "team_r22_1793577874659_gwxtbd",
         "slots": [
@@ -105119,6 +107758,99 @@
     ],
     "23": [
       {
+        "id": "team_r23_1794873795089_a3ig4i",
+        "round": 23,
+        "totalAtk": 361,
+        "name": "Gigantic Cupcake",
+        "randomSeed": 0.9816328505903273,
+        "timestamp": 1794873795089,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "totalHp": 800,
+        "slots": [
+          {
+            "maxHealth": 100,
+            "templateId": "echo_engine",
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "name": "Temp Buffer",
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 40,
+            "level": 2,
+            "copies": 3,
+            "foil": "foil_matrix_rain_gold",
+            "health": 100,
+            "perks": [
+              "temp_buffer"
+            ]
+          },
+          {
+            "level": 2,
+            "health": 100,
+            "maxHealth": 100,
+            "templateId": "recovery_partition",
+            "attack": 20,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3
+          },
+          {
+            "level": 3,
+            "templateId": "bouncer_exe",
+            "copies": 8,
+            "maxHealth": 255,
+            "foil": "foil_matrix_rain_gold",
+            "health": 255,
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 235,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded"
+              }
+            ]
+          },
+          {
+            "maxHealth": 300,
+            "attack": 11,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "name": "Monolith Refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 4,
+            "copies": 9,
+            "templateId": "armor_pangolin",
+            "perks": [
+              "refactoring_expert"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "health": 300
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "health": 45,
+            "maxHealth": 45,
+            "copies": 4,
+            "templateId": "vacuum",
+            "level": 2,
+            "attack": 55
+          }
+        ]
+      },
+      {
         "id": "team_r23_1793578010240_p806fv",
         "timestamp": 1793578010240,
         "randomSeed": 0.01958783317660151,
@@ -107535,6 +110267,99 @@
     ],
     "24": [
       {
+        "totalAtk": 366,
+        "round": 24,
+        "randomSeed": 0.15510310729032872,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "temp_buffer"
+            ],
+            "attack": 40,
+            "health": 100,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Temp Buffer",
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              }
+            ],
+            "level": 2,
+            "maxHealth": 100,
+            "templateId": "echo_engine",
+            "copies": 3
+          },
+          {
+            "templateId": "recovery_partition",
+            "health": 100,
+            "maxHealth": 100,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "level": 2,
+            "attack": 20
+          },
+          {
+            "templateId": "bouncer_exe",
+            "maxHealth": 260,
+            "attack": 240,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 4,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 9,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 260
+          },
+          {
+            "attack": 11,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 300,
+            "level": 4,
+            "templateId": "armor_pangolin",
+            "perks": [
+              "refactoring_expert"
+            ],
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Monolith Refactor",
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "id": "monolith_refactor",
+                "bonusAttack": 0
+              }
+            ],
+            "copies": 9,
+            "health": 300
+          },
+          {
+            "templateId": "vacuum",
+            "health": 45,
+            "copies": 4,
+            "level": 2,
+            "maxHealth": 45,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 55
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_gold",
+        "timestamp": 1794873934105,
+        "id": "team_r24_1794873934105_2wxsq8",
+        "totalHp": 805,
+        "name": "Gigantic Cupcake"
+      },
+      {
         "round": 24,
         "teamFoilId": "foil_matrix_rain_purple",
         "timestamp": 1793578168098,
@@ -108823,6 +111648,99 @@
       }
     ],
     "25": [
+      {
+        "round": 25,
+        "name": "Gigantic Cupcake",
+        "id": "team_r25_1794874156153_5tzhry",
+        "timestamp": 1794874156153,
+        "totalHp": 900,
+        "slots": [
+          {
+            "copies": 3,
+            "templateId": "echo_engine",
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 105,
+            "attack": 40,
+            "perks": [
+              "temp_buffer"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 105
+          },
+          {
+            "templateId": "recovery_partition",
+            "health": 135,
+            "level": 2,
+            "maxHealth": 135,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 50,
+            "copies": 5
+          },
+          {
+            "templateId": "bouncer_exe",
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 265,
+            "maxHealth": 265,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 9,
+            "level": 4,
+            "attack": 240,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "attack": 31,
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "refactoring_expert"
+            ],
+            "copies": 9,
+            "maxHealth": 325,
+            "mods": [
+              {
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "health": 325,
+            "templateId": "armor_pangolin"
+          },
+          {
+            "attack": 75,
+            "templateId": "vacuum",
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "copies": 4,
+            "maxHealth": 70,
+            "health": 70
+          }
+        ],
+        "randomSeed": 0.6966952296600595,
+        "totalAtk": 436,
+        "teamFoilId": "foil_matrix_rain_gold"
+      },
       {
         "teamFoilId": "foil_matrix_rain_purple",
         "slots": [
@@ -110163,6 +113081,99 @@
     ],
     "26": [
       {
+        "round": 26,
+        "name": "Gigantic Cupcake",
+        "id": "team_r26_1794874401363_1ndv8o",
+        "totalAtk": 476,
+        "totalHp": 940,
+        "randomSeed": 0.21984464412581284,
+        "timestamp": 1794874401363,
+        "teamFoilId": "foil_matrix_rain_gold",
+        "slots": [
+          {
+            "health": 105,
+            "copies": 3,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0
+              }
+            ],
+            "maxHealth": 105,
+            "perks": [
+              "temp_buffer"
+            ],
+            "templateId": "echo_engine",
+            "level": 2,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 40
+          },
+          {
+            "level": 3,
+            "health": 175,
+            "templateId": "recovery_partition",
+            "attack": 90,
+            "copies": 7,
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 175
+          },
+          {
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 265,
+            "foil": "foil_matrix_rain_gold",
+            "attack": 240,
+            "level": 4,
+            "health": 265,
+            "templateId": "bouncer_exe",
+            "copies": 9,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ]
+          },
+          {
+            "templateId": "armor_pangolin",
+            "maxHealth": 325,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "foil": "foil_matrix_rain_gold",
+            "attack": 31,
+            "health": 325,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "monolith_refactor",
+                "name": "Monolith Refactor",
+                "bonusHealth": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap)."
+              }
+            ],
+            "level": 4,
+            "copies": 9
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "copies": 4,
+            "foil": "foil_matrix_rain_gold",
+            "level": 2,
+            "templateId": "vacuum",
+            "attack": 75
+          }
+        ]
+      },
+      {
         "totalHp": 720,
         "teamFoilId": "foil_matrix_rain_purple",
         "timestamp": 1793578436368,
@@ -111271,6 +114282,99 @@
       }
     ],
     "27": [
+      {
+        "timestamp": 1794874748544,
+        "round": 27,
+        "id": "team_r27_1794874748544_42shfd",
+        "totalHp": 940,
+        "totalAtk": 501,
+        "slots": [
+          {
+            "templateId": "echo_engine",
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 45,
+            "perks": [
+              "temp_buffer"
+            ],
+            "maxHealth": 105,
+            "health": 105,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "level": 3,
+            "health": 175,
+            "templateId": "recovery_partition",
+            "attack": 95,
+            "maxHealth": 175,
+            "copies": 7,
+            "foil": "foil_matrix_rain_gold"
+          },
+          {
+            "health": 265,
+            "foil": "foil_matrix_rain_gold",
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 9,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "level": 4,
+            "attack": 245,
+            "templateId": "bouncer_exe",
+            "maxHealth": 265
+          },
+          {
+            "foil": "foil_matrix_rain_gold",
+            "maxHealth": 325,
+            "perks": [
+              "refactoring_expert"
+            ],
+            "attack": 36,
+            "health": 325,
+            "mods": [
+              {
+                "id": "monolith_refactor",
+                "name": "Monolith Refactor",
+                "bonusAttack": 0,
+                "description": "Held Perk: Giant Buster. Sets base ATK permanently to 1, deals 1 + 20% of target's Max Health as damage on attack, and caps incoming attack damage taken at 50 HP per hit (abilities bypass cap).",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 4,
+            "templateId": "armor_pangolin",
+            "copies": 9
+          },
+          {
+            "level": 2,
+            "health": 70,
+            "maxHealth": 70,
+            "attack": 80,
+            "foil": "foil_matrix_rain_gold",
+            "copies": 4,
+            "templateId": "vacuum"
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_gold",
+        "name": "Gigantic Cupcake",
+        "randomSeed": 0.9584947032942203
+      },
       {
         "totalAtk": 836,
         "name": "Vengeful Vacuum",
