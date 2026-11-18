@@ -1,10 +1,54 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1794934941391,
-  "lastSyncDate": "2026-11-17",
-  "totalReadsPerformed": 6720,
+  "lastSyncTimestamp": 1795020136663,
+  "lastSyncDate": "2026-11-18",
+  "totalReadsPerformed": 6895,
   "rounds": {
     "1": [
+      {
+        "slots": [
+          {
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "level": 1,
+            "attack": 40,
+            "copies": 2,
+            "health": 20
+          },
+          {
+            "level": 1,
+            "maxHealth": 30,
+            "attack": 40,
+            "health": 30,
+            "copies": 1,
+            "templateId": "data_miner"
+          },
+          null,
+          {
+            "templateId": "glitch_rat",
+            "maxHealth": 25,
+            "attack": 15,
+            "copies": 1,
+            "health": 25,
+            "level": 1
+          },
+          {
+            "maxHealth": 30,
+            "copies": 1,
+            "health": 30,
+            "level": 1,
+            "templateId": "goldfish",
+            "attack": 20
+          }
+        ],
+        "round": 1,
+        "timestamp": 1794966219057,
+        "totalHp": 105,
+        "id": "team_r1_1794966219057_54i7x9",
+        "totalAtk": 115,
+        "randomSeed": 0.8968816503480225,
+        "name": "Zesty Chicken"
+      },
       {
         "timestamp": 1794869745148,
         "round": 1,
@@ -4891,70 +4935,60 @@
         "round": 1,
         "timestamp": 1790374804743,
         "id": "team_r1_1790374804743_4m2o94"
-      },
-      {
-        "slots": [
-          {
-            "copies": 1,
-            "health": 25,
-            "templateId": "weapon_proxy",
-            "maxHealth": 25,
-            "level": 1,
-            "attack": 35
-          },
-          {
-            "level": 1,
-            "maxHealth": 35,
-            "copies": 1,
-            "health": 35,
-            "attack": 45,
-            "templateId": "byte_donor"
-          },
-          {
-            "maxHealth": 30,
-            "templateId": "vanguard_feeder",
-            "attack": 30,
-            "copies": 1,
-            "health": 30,
-            "level": 1
-          },
-          {
-            "maxHealth": 45,
-            "attack": 30,
-            "level": 1,
-            "mods": [
-              {
-                "bonusHealth": 15,
-                "description": "Balanced neural coprocessor for adaptive subroutines.",
-                "id": "neural_core",
-                "bonusAttack": 15,
-                "name": "Neural Core"
-              }
-            ],
-            "templateId": "berserk_node",
-            "health": 45,
-            "copies": 1
-          },
-          {
-            "templateId": "glitch_rat",
-            "level": 1,
-            "health": 25,
-            "copies": 1,
-            "attack": 15,
-            "maxHealth": 25
-          }
-        ],
-        "id": "team_r1_1790405401129_5hxkcl",
-        "round": 1,
-        "timestamp": 1790405401129,
-        "name": "Explosive Chihuahua",
-        "wins": 2,
-        "losses": 0,
-        "battlesCount": 2,
-        "lastBattleTime": 1790820683434
       }
     ],
     "2": [
+      {
+        "totalHp": 145,
+        "randomSeed": 0.26027353235561634,
+        "name": "Zesty Chicken",
+        "id": "team_r2_1794966392048_umjym4",
+        "timestamp": 1794966392048,
+        "round": 2,
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "maxHealth": 20,
+            "copies": 2,
+            "health": 20,
+            "level": 1,
+            "attack": 40
+          },
+          {
+            "level": 1,
+            "attack": 40,
+            "templateId": "data_miner",
+            "health": 30,
+            "copies": 1,
+            "maxHealth": 30
+          },
+          {
+            "level": 1,
+            "templateId": "vanguard_feeder",
+            "attack": 20,
+            "copies": 1,
+            "maxHealth": 30,
+            "health": 30
+          },
+          {
+            "attack": 15,
+            "copies": 1,
+            "health": 25,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "maxHealth": 25
+          },
+          {
+            "maxHealth": 40,
+            "health": 40,
+            "level": 2,
+            "copies": 3,
+            "templateId": "goldfish",
+            "attack": 30
+          }
+        ],
+        "totalAtk": 145
+      },
       {
         "id": "team_r2_1794869798523_brvazt",
         "totalHp": 155,
@@ -9723,9 +9757,111 @@
         ],
         "round": 2,
         "totalAtk": 125
+      },
+      {
+        "name": "Cranky Trophy",
+        "totalHp": 190,
+        "totalAtk": 165,
+        "timestamp": 1792030476717,
+        "id": "team_r2_1792030476717_5dtb4g",
+        "randomSeed": 0.6321025586408047,
+        "round": 2,
+        "slots": [
+          {
+            "templateId": "network_patcher",
+            "attack": 25,
+            "copies": 1,
+            "level": 1,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "shield_proxy",
+            "maxHealth": 45,
+            "copies": 3,
+            "health": 45,
+            "level": 2,
+            "attack": 35
+          },
+          {
+            "maxHealth": 40,
+            "health": 40,
+            "templateId": "weapon_proxy",
+            "level": 1,
+            "copies": 2,
+            "attack": 40
+          },
+          {
+            "copies": 1,
+            "health": 35,
+            "templateId": "relay_proxy",
+            "maxHealth": 35,
+            "attack": 35,
+            "level": 1
+          },
+          {
+            "copies": 2,
+            "health": 40,
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "glitch_rat",
+            "level": 1
+          }
+        ]
       }
     ],
     "3": [
+      {
+        "round": 3,
+        "slots": [
+          {
+            "attack": 40,
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "templateId": "turret_program"
+          },
+          {
+            "maxHealth": 45,
+            "templateId": "data_miner",
+            "copies": 1,
+            "health": 45,
+            "level": 1,
+            "attack": 40
+          },
+          {
+            "health": 60,
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 60,
+            "templateId": "vanguard_feeder",
+            "attack": 35
+          },
+          {
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "copies": 2,
+            "health": 35,
+            "level": 1,
+            "attack": 30
+          },
+          {
+            "level": 2,
+            "attack": 35,
+            "maxHealth": 50,
+            "templateId": "goldfish",
+            "health": 50,
+            "copies": 4
+          }
+        ],
+        "randomSeed": 0.05457465074209167,
+        "totalHp": 215,
+        "id": "team_r3_1794966581196_y72l83",
+        "name": "Zesty Chicken",
+        "totalAtk": 180,
+        "timestamp": 1794966581196
+      },
       {
         "totalHp": 145,
         "id": "team_r3_1794869912587_ka6gsp",
@@ -14741,6 +14877,57 @@
       }
     ],
     "4": [
+      {
+        "name": "Zesty Chicken",
+        "round": 4,
+        "slots": [
+          {
+            "copies": 1,
+            "maxHealth": 25,
+            "health": 25,
+            "attack": 30,
+            "templateId": "router_rooster",
+            "level": 1
+          },
+          {
+            "health": 25,
+            "copies": 3,
+            "attack": 30,
+            "level": 2,
+            "maxHealth": 25,
+            "templateId": "crypto_staker"
+          },
+          {
+            "attack": 40,
+            "level": 1,
+            "health": 60,
+            "copies": 1,
+            "maxHealth": 60,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "attack": 30,
+            "level": 1,
+            "health": 65,
+            "copies": 2,
+            "maxHealth": 65,
+            "templateId": "tank"
+          },
+          {
+            "health": 50,
+            "copies": 4,
+            "attack": 40,
+            "level": 2,
+            "templateId": "goldfish",
+            "maxHealth": 50
+          }
+        ],
+        "id": "team_r4_1794967039673_5jsivu",
+        "totalAtk": 170,
+        "totalHp": 225,
+        "timestamp": 1794967039673,
+        "randomSeed": 0.8707093561595232
+      },
       {
         "totalAtk": 165,
         "id": "team_r4_1794870181619_hqdsha",
@@ -20056,6 +20243,57 @@
     ],
     "5": [
       {
+        "id": "team_r5_1794967216432_eagwki",
+        "randomSeed": 0.4699855283010934,
+        "name": "Zesty Chicken",
+        "timestamp": 1794967216432,
+        "totalAtk": 195,
+        "totalHp": 250,
+        "slots": [
+          {
+            "templateId": "router_rooster",
+            "maxHealth": 25,
+            "copies": 1,
+            "health": 25,
+            "level": 1,
+            "attack": 30
+          },
+          {
+            "templateId": "crypto_staker",
+            "maxHealth": 35,
+            "attack": 40,
+            "copies": 3,
+            "level": 2,
+            "health": 35
+          },
+          {
+            "copies": 1,
+            "health": 60,
+            "attack": 40,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 60,
+            "level": 1
+          },
+          {
+            "templateId": "tank",
+            "maxHealth": 70,
+            "copies": 3,
+            "health": 70,
+            "attack": 35,
+            "level": 2
+          },
+          {
+            "maxHealth": 60,
+            "copies": 4,
+            "templateId": "goldfish",
+            "health": 60,
+            "attack": 50,
+            "level": 2
+          }
+        ],
+        "round": 5
+      },
+      {
         "round": 5,
         "totalAtk": 185,
         "totalHp": 260,
@@ -25246,6 +25484,69 @@
       }
     ],
     "6": [
+      {
+        "totalAtk": 245,
+        "randomSeed": 0.10168990740579742,
+        "timestamp": 1794967443272,
+        "id": "team_r6_1794967443272_nzo5gp",
+        "slots": [
+          {
+            "attack": 40,
+            "maxHealth": 30,
+            "copies": 2,
+            "level": 1,
+            "health": 30,
+            "templateId": "router_rooster"
+          },
+          {
+            "level": 2,
+            "mods": [
+              {
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ],
+            "maxHealth": 45,
+            "attack": 55,
+            "templateId": "crypto_staker",
+            "health": 45,
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 3
+          },
+          {
+            "attack": 45,
+            "level": 1,
+            "health": 60,
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 60
+          },
+          {
+            "level": 2,
+            "templateId": "tank",
+            "attack": 50,
+            "health": 80,
+            "maxHealth": 80,
+            "copies": 3
+          },
+          {
+            "maxHealth": 60,
+            "templateId": "goldfish",
+            "copies": 4,
+            "health": 60,
+            "level": 2,
+            "attack": 55
+          }
+        ],
+        "round": 6,
+        "name": "Zesty Chicken",
+        "totalHp": 275
+      },
       {
         "slots": [
           {
@@ -30943,6 +31244,69 @@
       }
     ],
     "7": [
+      {
+        "timestamp": 1794967546989,
+        "totalHp": 305,
+        "slots": [
+          {
+            "copies": 2,
+            "maxHealth": 30,
+            "health": 30,
+            "templateId": "router_rooster",
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "attack": 55,
+            "level": 2,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "health": 45,
+            "copies": 3,
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 45
+          },
+          {
+            "copies": 1,
+            "health": 70,
+            "attack": 50,
+            "maxHealth": 70,
+            "level": 1,
+            "templateId": "priority_queue"
+          },
+          {
+            "level": 2,
+            "templateId": "tank",
+            "attack": 60,
+            "copies": 3,
+            "maxHealth": 90,
+            "health": 90
+          },
+          {
+            "attack": 65,
+            "level": 2,
+            "health": 70,
+            "copies": 4,
+            "maxHealth": 70,
+            "templateId": "goldfish"
+          }
+        ],
+        "name": "Zesty Chicken",
+        "round": 7,
+        "randomSeed": 0.5851433220626149,
+        "id": "team_r7_1794967546989_dnpjhe",
+        "totalAtk": 270
+      },
       {
         "totalHp": 340,
         "totalAtk": 235,
@@ -36927,6 +37291,69 @@
     ],
     "8": [
       {
+        "id": "team_r8_1794968104603_ys32x3",
+        "timestamp": 1794968104603,
+        "slots": [
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "maxHealth": 45,
+            "copies": 3,
+            "health": 45,
+            "attack": 55,
+            "templateId": "crypto_staker",
+            "mods": [
+              {
+                "id": "trojan_load",
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2
+          },
+          {
+            "health": 70,
+            "copies": 1,
+            "attack": 100,
+            "templateId": "trex",
+            "level": 1,
+            "maxHealth": 70
+          },
+          {
+            "copies": 2,
+            "maxHealth": 75,
+            "health": 75,
+            "templateId": "priority_queue",
+            "level": 1,
+            "attack": 55
+          },
+          {
+            "level": 2,
+            "maxHealth": 100,
+            "attack": 70,
+            "templateId": "tank",
+            "copies": 3,
+            "health": 100
+          },
+          {
+            "health": 80,
+            "maxHealth": 80,
+            "templateId": "goldfish",
+            "copies": 4,
+            "attack": 75,
+            "level": 2
+          }
+        ],
+        "round": 8,
+        "totalHp": 370,
+        "name": "Zesty Chicken",
+        "randomSeed": 0.06873645761952285,
+        "totalAtk": 355
+      },
+      {
         "id": "team_r8_1794870646498_n232ww",
         "slots": [
           {
@@ -42875,6 +43302,57 @@
     ],
     "9": [
       {
+        "slots": [
+          {
+            "level": 1,
+            "maxHealth": 40,
+            "attack": 40,
+            "templateId": "ghost_process",
+            "health": 40,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "maxHealth": 80,
+            "health": 80,
+            "attack": 110,
+            "templateId": "trex",
+            "level": 1
+          },
+          {
+            "templateId": "priority_queue",
+            "level": 2,
+            "maxHealth": 90,
+            "attack": 70,
+            "copies": 3,
+            "health": 90
+          },
+          {
+            "maxHealth": 110,
+            "templateId": "tank",
+            "attack": 80,
+            "level": 2,
+            "copies": 3,
+            "health": 110
+          },
+          {
+            "maxHealth": 90,
+            "templateId": "goldfish",
+            "copies": 4,
+            "health": 90,
+            "level": 2,
+            "attack": 85
+          }
+        ],
+        "round": 9,
+        "randomSeed": 0.6313707791954518,
+        "timestamp": 1794968372035,
+        "totalAtk": 385,
+        "totalHp": 410,
+        "id": "team_r9_1794968372035_eymyo8",
+        "name": "Zesty Chicken"
+      },
+      {
         "round": 9,
         "totalAtk": 290,
         "name": "Gigantic Cupcake",
@@ -48365,6 +48843,57 @@
       }
     ],
     "10": [
+      {
+        "randomSeed": 0.54876775171955,
+        "name": "Zesty Chicken",
+        "timestamp": 1794968520743,
+        "id": "team_r10_1794968520743_g2dcx9",
+        "totalAtk": 430,
+        "totalHp": 455,
+        "slots": [
+          {
+            "level": 1,
+            "health": 45,
+            "copies": 2,
+            "attack": 45,
+            "maxHealth": 45,
+            "templateId": "ghost_process"
+          },
+          {
+            "maxHealth": 100,
+            "health": 100,
+            "level": 1,
+            "copies": 1,
+            "templateId": "trex",
+            "attack": 130
+          },
+          {
+            "attack": 70,
+            "level": 2,
+            "health": 90,
+            "copies": 3,
+            "maxHealth": 90,
+            "templateId": "priority_queue"
+          },
+          {
+            "attack": 80,
+            "level": 2,
+            "health": 110,
+            "copies": 3,
+            "maxHealth": 110,
+            "templateId": "tank"
+          },
+          {
+            "copies": 4,
+            "health": 110,
+            "templateId": "goldfish",
+            "attack": 105,
+            "maxHealth": 110,
+            "level": 2
+          }
+        ],
+        "round": 10
+      },
       {
         "id": "team_r10_1794870904811_8mez2p",
         "name": "Gigantic Cupcake",
@@ -54378,6 +54907,57 @@
       }
     ],
     "11": [
+      {
+        "totalAtk": 435,
+        "id": "team_r11_1794968679856_xj8056",
+        "timestamp": 1794968679856,
+        "round": 11,
+        "name": "Zesty Chicken",
+        "slots": [
+          {
+            "maxHealth": 45,
+            "level": 1,
+            "templateId": "ghost_process",
+            "attack": 45,
+            "health": 45,
+            "copies": 2
+          },
+          {
+            "attack": 135,
+            "maxHealth": 105,
+            "level": 1,
+            "copies": 1,
+            "health": 105,
+            "templateId": "trex"
+          },
+          {
+            "maxHealth": 90,
+            "health": 90,
+            "level": 2,
+            "copies": 3,
+            "attack": 70,
+            "templateId": "priority_queue"
+          },
+          {
+            "templateId": "tank",
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 3,
+            "level": 2,
+            "attack": 80
+          },
+          {
+            "templateId": "goldfish",
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 4,
+            "level": 2,
+            "attack": 105
+          }
+        ],
+        "randomSeed": 0.43614106973365696,
+        "totalHp": 460
+      },
       {
         "slots": [
           {
@@ -60449,6 +61029,57 @@
       }
     ],
     "12": [
+      {
+        "id": "team_r12_1794968789233_028z28",
+        "randomSeed": 0.5238614522539995,
+        "timestamp": 1794968789233,
+        "totalHp": 465,
+        "name": "Zesty Chicken",
+        "totalAtk": 440,
+        "slots": [
+          {
+            "attack": 50,
+            "templateId": "ghost_process",
+            "level": 2,
+            "health": 50,
+            "copies": 3,
+            "maxHealth": 50
+          },
+          {
+            "templateId": "trex",
+            "level": 1,
+            "maxHealth": 105,
+            "attack": 135,
+            "copies": 1,
+            "health": 105
+          },
+          {
+            "level": 2,
+            "attack": 70,
+            "maxHealth": 90,
+            "health": 90,
+            "copies": 3,
+            "templateId": "priority_queue"
+          },
+          {
+            "health": 110,
+            "maxHealth": 110,
+            "copies": 3,
+            "attack": 80,
+            "templateId": "tank",
+            "level": 2
+          },
+          {
+            "level": 2,
+            "maxHealth": 110,
+            "attack": 105,
+            "copies": 4,
+            "templateId": "goldfish",
+            "health": 110
+          }
+        ],
+        "round": 12
+      },
       {
         "name": "Gigantic Cupcake",
         "timestamp": 1794871258978,
@@ -67097,6 +67728,81 @@
     ],
     "13": [
       {
+        "randomSeed": 0.5219279047537928,
+        "totalAtk": 440,
+        "timestamp": 1794968926443,
+        "slots": [
+          {
+            "health": 50,
+            "copies": 3,
+            "templateId": "ghost_process",
+            "attack": 50,
+            "level": 2,
+            "maxHealth": 50
+          },
+          {
+            "health": 105,
+            "copies": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 135,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded"
+              }
+            ],
+            "maxHealth": 105,
+            "level": 1,
+            "templateId": "trex"
+          },
+          {
+            "templateId": "priority_queue",
+            "attack": 70,
+            "copies": 3,
+            "health": 90,
+            "level": 2,
+            "maxHealth": 90
+          },
+          {
+            "perks": [
+              "temp_buffer"
+            ],
+            "maxHealth": 110,
+            "copies": 3,
+            "health": 110,
+            "templateId": "tank",
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer"
+              }
+            ],
+            "level": 2,
+            "attack": 80
+          },
+          {
+            "health": 110,
+            "copies": 4,
+            "maxHealth": 110,
+            "attack": 105,
+            "level": 2,
+            "templateId": "goldfish"
+          }
+        ],
+        "round": 13,
+        "id": "team_r13_1794968926443_0ton2d",
+        "name": "Zesty Chicken",
+        "totalHp": 465
+      },
+      {
         "totalHp": 645,
         "name": "Gigantic Cupcake",
         "totalAtk": 291,
@@ -73384,6 +74090,81 @@
       }
     ],
     "14": [
+      {
+        "totalHp": 465,
+        "randomSeed": 0.47429367316762894,
+        "name": "Zesty Chicken",
+        "totalAtk": 440,
+        "round": 14,
+        "slots": [
+          {
+            "maxHealth": 50,
+            "templateId": "ghost_process",
+            "level": 2,
+            "attack": 50,
+            "copies": 3,
+            "health": 50
+          },
+          {
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 135,
+            "templateId": "trex",
+            "maxHealth": 105,
+            "copies": 1,
+            "health": 105,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "hardcoded"
+              }
+            ]
+          },
+          {
+            "templateId": "priority_queue",
+            "health": 90,
+            "maxHealth": 90,
+            "copies": 3,
+            "attack": 70,
+            "level": 2
+          },
+          {
+            "mods": [
+              {
+                "id": "temp_buffer",
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 110,
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 2,
+            "health": 110,
+            "templateId": "tank",
+            "copies": 3,
+            "attack": 80
+          },
+          {
+            "templateId": "goldfish",
+            "attack": 105,
+            "copies": 4,
+            "health": 110,
+            "maxHealth": 110,
+            "level": 2
+          }
+        ],
+        "timestamp": 1794969538689,
+        "id": "team_r14_1794969538689_vim7ld"
+      },
       {
         "randomSeed": 0.886623001874043,
         "teamFoilId": "foil_matrix_rain_gold",
@@ -79961,6 +80742,81 @@
     ],
     "15": [
       {
+        "slots": [
+          {
+            "attack": 50,
+            "templateId": "ghost_process",
+            "copies": 3,
+            "health": 50,
+            "level": 2,
+            "maxHealth": 50
+          },
+          {
+            "copies": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "maxHealth": 110,
+            "health": 110,
+            "attack": 140,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded"
+              }
+            ],
+            "level": 1,
+            "templateId": "trex"
+          },
+          {
+            "templateId": "priority_queue",
+            "maxHealth": 90,
+            "level": 2,
+            "attack": 70,
+            "copies": 3,
+            "health": 90
+          },
+          {
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer"
+              }
+            ],
+            "perks": [
+              "temp_buffer"
+            ],
+            "level": 2,
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 3,
+            "attack": 80,
+            "templateId": "tank"
+          },
+          {
+            "copies": 4,
+            "health": 110,
+            "attack": 105,
+            "maxHealth": 110,
+            "templateId": "goldfish",
+            "level": 2
+          }
+        ],
+        "round": 15,
+        "totalHp": 470,
+        "id": "team_r15_1794969656597_sqhvdm",
+        "totalAtk": 445,
+        "timestamp": 1794969656597,
+        "randomSeed": 0.3242473005556046,
+        "name": "Zesty Chicken"
+      },
+      {
         "id": "team_r15_1794871947770_v9ap2c",
         "teamFoilId": "foil_matrix_rain_gold",
         "timestamp": 1794871947770,
@@ -85139,6 +85995,93 @@
     ],
     "16": [
       {
+        "totalAtk": 450,
+        "randomSeed": 0.5027042798291539,
+        "totalHp": 475,
+        "name": "Zesty Chicken",
+        "timestamp": 1794969773001,
+        "slots": [
+          {
+            "copies": 3,
+            "health": 50,
+            "templateId": "ghost_process",
+            "attack": 50,
+            "level": 2,
+            "maxHealth": 50
+          },
+          {
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 115,
+            "attack": 145,
+            "templateId": "trex",
+            "health": 115,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 3
+          },
+          {
+            "health": 90,
+            "maxHealth": 90,
+            "copies": 3,
+            "attack": 70,
+            "templateId": "priority_queue",
+            "level": 2
+          },
+          {
+            "maxHealth": 110,
+            "perks": [
+              "temp_buffer"
+            ],
+            "mods": [
+              {
+                "id": "temp_buffer",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "name": "Temp Buffer"
+              }
+            ],
+            "health": 110,
+            "templateId": "tank",
+            "copies": 3,
+            "level": 2,
+            "attack": 80
+          },
+          {
+            "perks": [
+              "snap"
+            ],
+            "templateId": "goldfish",
+            "copies": 4,
+            "maxHealth": 110,
+            "health": 110,
+            "mods": [
+              {
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "SNAP"
+              }
+            ],
+            "level": 2,
+            "attack": 105
+          }
+        ],
+        "round": 16,
+        "id": "team_r16_1794969773001_r65wtz"
+      },
+      {
         "timestamp": 1794872119434,
         "totalHp": 735,
         "round": 16,
@@ -89192,6 +90135,105 @@
       }
     ],
     "17": [
+      {
+        "totalHp": 480,
+        "randomSeed": 0.9207162779961572,
+        "name": "Zesty Chicken",
+        "timestamp": 1794969886169,
+        "round": 17,
+        "slots": [
+          {
+            "templateId": "ghost_process",
+            "level": 2,
+            "maxHealth": 50,
+            "attack": 50,
+            "copies": 3,
+            "health": 50
+          },
+          {
+            "copies": 6,
+            "health": 120,
+            "perks": [
+              "hardcoded"
+            ],
+            "attack": 150,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "level": 3,
+            "templateId": "trex",
+            "maxHealth": 120
+          },
+          {
+            "level": 2,
+            "mods": [
+              {
+                "id": "frontload",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusHealth": 0,
+                "name": "Frontload"
+              }
+            ],
+            "attack": 70,
+            "perks": [
+              "frontload"
+            ],
+            "health": 90,
+            "templateId": "priority_queue",
+            "copies": 3,
+            "maxHealth": 90
+          },
+          {
+            "perks": [
+              "temp_buffer"
+            ],
+            "templateId": "tank",
+            "maxHealth": 110,
+            "copies": 3,
+            "mods": [
+              {
+                "name": "Temp Buffer",
+                "id": "temp_buffer",
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              }
+            ],
+            "health": 110,
+            "level": 2,
+            "attack": 80
+          },
+          {
+            "perks": [
+              "snap"
+            ],
+            "maxHealth": 110,
+            "copies": 4,
+            "health": 110,
+            "templateId": "goldfish",
+            "attack": 105,
+            "level": 2,
+            "mods": [
+              {
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "snap",
+                "name": "SNAP"
+              }
+            ]
+          }
+        ],
+        "totalAtk": 455,
+        "id": "team_r17_1794969886169_l5400g"
+      },
       {
         "totalHp": 780,
         "randomSeed": 0.1734691912827555,
@@ -93380,6 +94422,105 @@
       }
     ],
     "18": [
+      {
+        "slots": [
+          {
+            "templateId": "ghost_process",
+            "level": 2,
+            "maxHealth": 50,
+            "attack": 50,
+            "health": 50,
+            "copies": 3
+          },
+          {
+            "attack": 150,
+            "copies": 6,
+            "maxHealth": 120,
+            "level": 3,
+            "health": 120,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "trex",
+            "mods": [
+              {
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ]
+          },
+          {
+            "maxHealth": 90,
+            "templateId": "priority_queue",
+            "perks": [
+              "frontload"
+            ],
+            "mods": [
+              {
+                "name": "Frontload",
+                "id": "frontload",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): The very first attack in combat gains +200 bonus Attack! Consumed after the strike.",
+                "bonusAttack": 0
+              }
+            ],
+            "health": 90,
+            "level": 2,
+            "copies": 3,
+            "attack": 70
+          },
+          {
+            "templateId": "tank",
+            "attack": 80,
+            "copies": 3,
+            "level": 2,
+            "health": 110,
+            "perks": [
+              "temp_buffer"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +80 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "name": "Temp Buffer"
+              }
+            ],
+            "maxHealth": 110
+          },
+          {
+            "mods": [
+              {
+                "id": "snap",
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "SNAP"
+              }
+            ],
+            "maxHealth": 110,
+            "perks": [
+              "snap"
+            ],
+            "templateId": "goldfish",
+            "level": 2,
+            "health": 110,
+            "copies": 4,
+            "attack": 105
+          }
+        ],
+        "timestamp": 1794970053811,
+        "id": "team_r18_1794970053811_wl69ul",
+        "round": 18,
+        "totalHp": 480,
+        "randomSeed": 0.5092417959552648,
+        "totalAtk": 455,
+        "name": "Zesty Chicken"
+      },
       {
         "totalAtk": 346,
         "name": "Gigantic Cupcake",
