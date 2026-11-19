@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795020136663,
-  "lastSyncDate": "2026-11-18",
-  "totalReadsPerformed": 6895,
+  "lastSyncTimestamp": 1795106785013,
+  "lastSyncDate": "2026-11-19",
+  "totalReadsPerformed": 7068,
   "rounds": {
     "1": [
       {
@@ -9808,6 +9808,120 @@
             "level": 1
           }
         ]
+      },
+      {
+        "timestamp": 1791896645458,
+        "totalAtk": 115,
+        "id": "team_r2_1791896645458_cjb1ot",
+        "randomSeed": 0.6835708254432852,
+        "totalHp": 140,
+        "slots": [
+          {
+            "copies": 1,
+            "attack": 20,
+            "level": 1,
+            "templateId": "turret_program",
+            "health": 20,
+            "maxHealth": 20
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "data_miner",
+            "copies": 2,
+            "attack": 40
+          },
+          {
+            "templateId": "trojan_distributor",
+            "health": 35,
+            "level": 1,
+            "copies": 1,
+            "attack": 20,
+            "maxHealth": 35
+          },
+          {
+            "maxHealth": 25,
+            "attack": 15,
+            "copies": 1,
+            "templateId": "glitch_rat",
+            "health": 25,
+            "level": 1
+          },
+          {
+            "maxHealth": 30,
+            "attack": 20,
+            "copies": 1,
+            "templateId": "goldfish",
+            "level": 1,
+            "health": 30
+          }
+        ],
+        "name": "Stinky Vacuum",
+        "round": 2
+      },
+      {
+        "timestamp": 1791765613213,
+        "name": "Flaming Kettle",
+        "id": "team_r2_1791765613213_nyynk2",
+        "randomSeed": 0.6995943458321541,
+        "round": 2,
+        "totalHp": 145,
+        "slots": [
+          {
+            "attack": 20,
+            "copies": 1,
+            "level": 1,
+            "health": 20,
+            "templateId": "turret_program",
+            "maxHealth": 20
+          },
+          {
+            "copies": 2,
+            "attack": 40,
+            "level": 1,
+            "templateId": "data_miner",
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "maxHealth": 30,
+            "attack": 20,
+            "copies": 1,
+            "level": 1,
+            "health": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "templateId": "glitch_rat",
+            "attack": 15,
+            "copies": 1,
+            "level": 1,
+            "health": 25,
+            "maxHealth": 25
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "backup",
+                "name": "Back up",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP."
+              }
+            ],
+            "attack": 30,
+            "copies": 3,
+            "maxHealth": 40,
+            "templateId": "goldfish",
+            "health": 40,
+            "perks": [
+              "backup"
+            ],
+            "level": 2
+          }
+        ],
+        "totalAtk": 125
       }
     ],
     "3": [
@@ -37287,6 +37401,57 @@
         "totalAtk": 280,
         "timestamp": 1791918962008,
         "round": 7
+      },
+      {
+        "randomSeed": 0.9701793207179615,
+        "totalAtk": 250,
+        "totalHp": 215,
+        "timestamp": 1791914157235,
+        "name": "Clumsy Plunger",
+        "round": 7,
+        "id": "team_r7_1791914157235_g1oizy",
+        "slots": [
+          {
+            "copies": 5,
+            "attack": 80,
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "health": 50,
+            "maxHealth": 50
+          },
+          {
+            "maxHealth": 70,
+            "health": 70,
+            "level": 2,
+            "templateId": "shield_proxy",
+            "attack": 80,
+            "copies": 5
+          },
+          {
+            "health": 40,
+            "level": 1,
+            "copies": 1,
+            "attack": 45,
+            "maxHealth": 40,
+            "templateId": "ghost_process"
+          },
+          {
+            "templateId": "rootkit_loader",
+            "maxHealth": 25,
+            "health": 25,
+            "level": 1,
+            "attack": 25,
+            "copies": 1
+          },
+          {
+            "maxHealth": 30,
+            "templateId": "glitch_rat",
+            "health": 30,
+            "level": 1,
+            "attack": 20,
+            "copies": 1
+          }
+        ]
       }
     ],
     "8": [
@@ -80738,6 +80903,124 @@
         "timestamp": 1791807576596,
         "id": "team_r14_1791807576596_iox3j2",
         "name": "Psychic Marmot"
+      },
+      {
+        "wins": 0,
+        "name": "Feral Keyboard",
+        "losses": 1,
+        "totalAtk": 715,
+        "timestamp": 1791919484161,
+        "randomSeed": 0.6742552725085361,
+        "lastBattleTime": 1791974890768,
+        "totalHp": 750,
+        "id": "team_r14_1791919484161_q67w1t",
+        "battlesCount": 1,
+        "round": 14,
+        "slots": [
+          {
+            "health": 175,
+            "maxHealth": 175,
+            "level": 1,
+            "templateId": "drag_n_drop",
+            "copies": 2,
+            "attack": 175
+          },
+          {
+            "templateId": "bandwidth_spider",
+            "maxHealth": 95,
+            "health": 95,
+            "level": 1,
+            "attack": 95,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "attack": 130,
+            "level": 1,
+            "templateId": "armor_pangolin",
+            "health": 165,
+            "maxHealth": 165
+          },
+          {
+            "attack": 195,
+            "copies": 4,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "health": 195,
+            "maxHealth": 195
+          },
+          {
+            "templateId": "golem",
+            "attack": 120,
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 120,
+            "health": 120
+          }
+        ]
+      },
+      {
+        "slots": [
+          {
+            "mods": [
+              {
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 50,
+            "copies": 1,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 1,
+            "maxHealth": 70,
+            "templateId": "priority_queue",
+            "health": 70
+          },
+          {
+            "attack": 100,
+            "copies": 5,
+            "level": 2,
+            "templateId": "holo_triceratops",
+            "health": 110,
+            "maxHealth": 110
+          },
+          {
+            "health": 50,
+            "level": 2,
+            "templateId": "echo_engine",
+            "attack": 25,
+            "copies": 3,
+            "maxHealth": 50
+          },
+          {
+            "health": 50,
+            "level": 2,
+            "templateId": "david_exe",
+            "attack": 50,
+            "copies": 5,
+            "maxHealth": 50
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "copies": 5,
+            "maxHealth": 40,
+            "attack": 55,
+            "templateId": "drone_mosquito"
+          }
+        ],
+        "timestamp": 1791772861821,
+        "round": 14,
+        "totalHp": 320,
+        "randomSeed": 0.6815055305993254,
+        "id": "team_r14_1791772861821_h9ysey",
+        "name": "Prickly Taco",
+        "totalAtk": 280
       }
     ],
     "15": [
