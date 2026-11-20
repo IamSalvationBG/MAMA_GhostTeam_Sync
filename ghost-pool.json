@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795106785013,
-  "lastSyncDate": "2026-11-19",
-  "totalReadsPerformed": 7068,
+  "lastSyncTimestamp": 1795191657673,
+  "lastSyncDate": "2026-11-20",
+  "totalReadsPerformed": 7239,
   "rounds": {
     "1": [
       {
@@ -14988,6 +14988,124 @@
         ],
         "randomSeed": 0.1266891131882789,
         "timestamp": 1791913828068
+      },
+      {
+        "randomSeed": 0.9892389437927446,
+        "slots": [
+          {
+            "health": 45,
+            "templateId": "shield_proxy",
+            "level": 2,
+            "copies": 3,
+            "attack": 35,
+            "maxHealth": 45
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "attack": 25,
+            "maxHealth": 35,
+            "health": 35,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "templateId": "crypto_staker",
+            "perks": [
+              "trojan_load"
+            ]
+          },
+          {
+            "templateId": "glitch_rat",
+            "maxHealth": 55,
+            "health": 55,
+            "copies": 3,
+            "attack": 25,
+            "level": 2
+          },
+          {
+            "templateId": "rootkit_loader",
+            "maxHealth": 45,
+            "health": 45,
+            "level": 1,
+            "copies": 1,
+            "attack": 20
+          },
+          {
+            "health": 50,
+            "maxHealth": 50,
+            "level": 1,
+            "templateId": "goldfish",
+            "copies": 1,
+            "attack": 20
+          }
+        ],
+        "name": "Suspicious Trophy",
+        "round": 3,
+        "id": "team_r3_1791804609025_mf7ivf",
+        "totalHp": 230,
+        "timestamp": 1791804609025,
+        "totalAtk": 125
+      },
+      {
+        "name": "Stinky Vacuum",
+        "losses": 2,
+        "randomSeed": 0.9964218866007917,
+        "slots": [
+          {
+            "copies": 1,
+            "attack": 20,
+            "level": 1,
+            "templateId": "turret_program",
+            "maxHealth": 20,
+            "health": 20
+          },
+          {
+            "copies": 2,
+            "attack": 40,
+            "maxHealth": 30,
+            "templateId": "data_miner",
+            "level": 1,
+            "health": 30
+          },
+          {
+            "level": 1,
+            "attack": 20,
+            "copies": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "trojan_distributor"
+          },
+          {
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1,
+            "attack": 15,
+            "health": 25,
+            "templateId": "glitch_rat"
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "templateId": "goldfish",
+            "copies": 1,
+            "attack": 20
+          }
+        ],
+        "round": 3,
+        "lastBattleTime": 1791920643435,
+        "battlesCount": 2,
+        "id": "team_r3_1791896737986_36l75y",
+        "timestamp": 1791896737986,
+        "wins": 0,
+        "totalHp": 140,
+        "totalAtk": 115
       }
     ],
     "4": [
@@ -37452,6 +37570,112 @@
             "copies": 1
           }
         ]
+      },
+      {
+        "lastBattleTime": 1791919050867,
+        "timestamp": 1791887238840,
+        "name": "Haunted Waffle",
+        "losses": 1,
+        "totalHp": 225,
+        "wins": 0,
+        "id": "team_r7_1791887238840_y49b3q",
+        "totalAtk": 190,
+        "randomSeed": 0.06674374184552367,
+        "round": 7,
+        "battlesCount": 1,
+        "slots": [
+          {
+            "health": 20,
+            "level": 1,
+            "maxHealth": 20,
+            "templateId": "turret_program",
+            "copies": 2,
+            "attack": 40
+          },
+          {
+            "health": 85,
+            "level": 1,
+            "templateId": "hard_freeze",
+            "maxHealth": 85,
+            "attack": 65,
+            "copies": 2
+          },
+          {
+            "copies": 3,
+            "attack": 30,
+            "maxHealth": 40,
+            "templateId": "vanguard_feeder",
+            "level": 2,
+            "health": 40
+          },
+          {
+            "copies": 3,
+            "attack": 25,
+            "maxHealth": 40,
+            "templateId": "berserk_node",
+            "level": 2,
+            "health": 40
+          },
+          {
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "templateId": "goldfish",
+            "attack": 30,
+            "copies": 3
+          }
+        ]
+      },
+      {
+        "randomSeed": 0.08625472270694068,
+        "round": 7,
+        "slots": [
+          {
+            "templateId": "defrag_otter",
+            "maxHealth": 60,
+            "health": 60,
+            "copies": 1,
+            "attack": 45,
+            "level": 1
+          },
+          {
+            "health": 95,
+            "templateId": "scrap_goat",
+            "copies": 1,
+            "attack": 90,
+            "level": 1,
+            "maxHealth": 95
+          },
+          {
+            "attack": 110,
+            "copies": 3,
+            "maxHealth": 95,
+            "level": 2,
+            "templateId": "bouncer_exe",
+            "health": 95
+          },
+          {
+            "health": 120,
+            "level": 1,
+            "templateId": "tank",
+            "maxHealth": 120,
+            "copies": 2,
+            "attack": 65
+          },
+          {
+            "templateId": "trojan_distributor",
+            "health": 70,
+            "copies": 3,
+            "attack": 70,
+            "level": 2,
+            "maxHealth": 70
+          }
+        ],
+        "totalHp": 440,
+        "id": "team_r7_1791917205171_i4xlu0",
+        "timestamp": 1791917205171,
+        "name": "Sarcastic Blender",
+        "totalAtk": 380
       }
     ],
     "8": [
