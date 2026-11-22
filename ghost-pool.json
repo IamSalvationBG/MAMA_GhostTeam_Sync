@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795275310213,
-  "lastSyncDate": "2026-11-21",
-  "totalReadsPerformed": 7406,
+  "lastSyncTimestamp": 1795361921409,
+  "lastSyncDate": "2026-11-22",
+  "totalReadsPerformed": 7573,
   "rounds": {
     "1": [
       {
@@ -10085,6 +10085,136 @@
           }
         ],
         "randomSeed": 0.31481422952364224
+      },
+      {
+        "slots": [
+          {
+            "maxHealth": 25,
+            "copies": 1,
+            "attack": 35,
+            "health": 25,
+            "level": 1,
+            "templateId": "weapon_proxy"
+          },
+          {
+            "copies": 1,
+            "templateId": "crypto_staker",
+            "level": 1,
+            "attack": 25,
+            "health": 35,
+            "maxHealth": 35
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "byte_donor",
+            "maxHealth": 45,
+            "attack": 35,
+            "health": 45
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "level": 1,
+            "health": 35,
+            "attack": 15,
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "bonusAttack": 0,
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "id": "trojan_load"
+              }
+            ],
+            "maxHealth": 35
+          },
+          {
+            "perks": [
+              "trojan_load"
+            ],
+            "copies": 1,
+            "templateId": "relay_proxy",
+            "level": 1,
+            "mods": [
+              {
+                "name": "Trojan Load",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusAttack": 0
+              }
+            ],
+            "maxHealth": 35,
+            "health": 35,
+            "attack": 25
+          }
+        ],
+        "randomSeed": 0.41418334109546295,
+        "name": "Psychic Marmot",
+        "round": 2,
+        "id": "team_r2_1791806200079_h5m27d",
+        "timestamp": 1791806200079,
+        "totalHp": 175,
+        "totalAtk": 135
+      },
+      {
+        "totalAtk": 145,
+        "lastBattleTime": 1791988125851,
+        "id": "team_r2_1791922572588_8fu6o3",
+        "totalHp": 145,
+        "timestamp": 1791922572588,
+        "battlesCount": 2,
+        "name": "Quantum Sandwich",
+        "wins": 2,
+        "round": 2,
+        "slots": [
+          {
+            "maxHealth": 20,
+            "copies": 2,
+            "attack": 40,
+            "health": 20,
+            "templateId": "turret_program",
+            "level": 1
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "attack": 15,
+            "health": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "copies": 1
+          },
+          {
+            "maxHealth": 40,
+            "copies": 3,
+            "templateId": "goldfish",
+            "attack": 30,
+            "health": 40,
+            "level": 2
+          }
+        ],
+        "randomSeed": 0.42037018209878063,
+        "losses": 0
       }
     ],
     "3": [
@@ -49551,6 +49681,175 @@
         "totalAtk": 460,
         "id": "team_r9_1791880227361_9a8h6b",
         "totalHp": 535
+      },
+      {
+        "name": "Haunted Waffle",
+        "wins": 0,
+        "battlesCount": 1,
+        "totalAtk": 185,
+        "timestamp": 1791887474247,
+        "lastBattleTime": 1791889681852,
+        "slots": [
+          {
+            "templateId": "spaghetti_code",
+            "maxHealth": 60,
+            "level": 1,
+            "health": 60,
+            "attack": 30,
+            "copies": 1
+          },
+          {
+            "templateId": "hard_freeze",
+            "maxHealth": 90,
+            "copies": 3,
+            "health": 90,
+            "attack": 70,
+            "level": 2
+          },
+          {
+            "copies": 3,
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "attack": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "level": 2,
+            "templateId": "berserk_node",
+            "health": 40,
+            "attack": 25
+          },
+          {
+            "maxHealth": 40,
+            "level": 2,
+            "health": 40,
+            "attack": 30,
+            "copies": 3,
+            "templateId": "goldfish"
+          }
+        ],
+        "round": 9,
+        "totalHp": 270,
+        "randomSeed": 0.00859140312134854,
+        "losses": 1,
+        "id": "team_r9_1791887474247_jtn4mz"
+      },
+      {
+        "round": 9,
+        "id": "team_r9_1791913111550_gwwv3a",
+        "slots": [
+          {
+            "templateId": "ddos_daemon",
+            "level": 1,
+            "health": 85,
+            "attack": 65,
+            "maxHealth": 85,
+            "copies": 2
+          },
+          {
+            "maxHealth": 40,
+            "level": 2,
+            "health": 40,
+            "attack": 30,
+            "copies": 3,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "level": 2,
+            "attack": 80,
+            "health": 150,
+            "templateId": "berserk_node",
+            "maxHealth": 150,
+            "copies": 3
+          },
+          {
+            "health": 60,
+            "attack": 30,
+            "maxHealth": 60,
+            "templateId": "spaghetti_code",
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "copies": 1,
+            "maxHealth": 50,
+            "attack": 45,
+            "templateId": "relay_proxy",
+            "health": 50,
+            "level": 1
+          }
+        ],
+        "timestamp": 1791913111550,
+        "totalAtk": 250,
+        "name": "Unhinged Goblin",
+        "totalHp": 385,
+        "randomSeed": 0.009479302408317403
+      },
+      {
+        "totalHp": 360,
+        "id": "team_r9_1791812438677_ms4rs5",
+        "round": 9,
+        "timestamp": 1791812438677,
+        "totalAtk": 360,
+        "slots": [
+          {
+            "templateId": "router_rooster",
+            "copies": 6,
+            "attack": 45,
+            "health": 40,
+            "maxHealth": 40,
+            "level": 3
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "attack": 90,
+            "health": 95,
+            "level": 2,
+            "maxHealth": 95,
+            "copies": 4
+          },
+          {
+            "health": 85,
+            "attack": 80,
+            "level": 3,
+            "copies": 6,
+            "maxHealth": 85,
+            "templateId": "glitch_rat"
+          },
+          {
+            "copies": 2,
+            "maxHealth": 55,
+            "attack": 45,
+            "health": 55,
+            "level": 1,
+            "templateId": "bouncer_exe"
+          },
+          {
+            "maxHealth": 85,
+            "copies": 7,
+            "perks": [
+              "backup"
+            ],
+            "health": 85,
+            "templateId": "goldfish",
+            "attack": 100,
+            "level": 3,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "backup",
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "randomSeed": 0.015538016913571706,
+        "name": "Fluffy Pants"
       }
     ],
     "10": [
@@ -81567,6 +81866,81 @@
         "id": "team_r14_1791772861821_h9ysey",
         "name": "Prickly Taco",
         "totalAtk": 280
+      },
+      {
+        "round": 14,
+        "totalAtk": 320,
+        "slots": [
+          {
+            "copies": 5,
+            "level": 2,
+            "maxHealth": 60,
+            "templateId": "siphon_leech",
+            "health": 60,
+            "attack": 40
+          },
+          {
+            "templateId": "trojan_exe",
+            "level": 2,
+            "attack": 45,
+            "health": 95,
+            "copies": 3,
+            "maxHealth": 95
+          },
+          {
+            "maxHealth": 100,
+            "copies": 5,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 2,
+            "templateId": "relay_proxy",
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "health": 100,
+            "attack": 65
+          },
+          {
+            "templateId": "emp_bomber",
+            "copies": 9,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "level": 4,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusAttack": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "maxHealth": 65,
+            "attack": 65,
+            "health": 65
+          },
+          {
+            "health": 25,
+            "attack": 105,
+            "maxHealth": 25,
+            "templateId": "plasma_microwave",
+            "level": 2,
+            "copies": 4
+          }
+        ],
+        "id": "team_r14_1791770948747_zxxkty",
+        "timestamp": 1791770948747,
+        "randomSeed": 0.886018163246707,
+        "name": "Glitchy Croissant",
+        "totalHp": 345
       }
     ],
     "15": [
