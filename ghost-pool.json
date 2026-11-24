@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795462065111,
-  "lastSyncDate": "2026-11-23",
-  "totalReadsPerformed": 7733,
+  "lastSyncTimestamp": 1795547047197,
+  "lastSyncDate": "2026-11-24",
+  "totalReadsPerformed": 7849,
   "rounds": {
     "1": [
       {
@@ -21034,6 +21034,57 @@
         "round": 4,
         "totalHp": 190,
         "timestamp": 1791966331059
+      },
+      {
+        "randomSeed": 0.10784929003312738,
+        "timestamp": 1791977737382,
+        "name": "Cranky Rubberduck",
+        "slots": [
+          {
+            "templateId": "turret_program",
+            "copies": 1,
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35
+          },
+          {
+            "maxHealth": 25,
+            "health": 25,
+            "level": 2,
+            "templateId": "crypto_staker",
+            "copies": 3,
+            "attack": 25
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "maxHealth": 30,
+            "level": 1,
+            "health": 30,
+            "attack": 20,
+            "copies": 1
+          },
+          {
+            "level": 2,
+            "templateId": "goldfish",
+            "maxHealth": 40,
+            "health": 40,
+            "attack": 40,
+            "copies": 3
+          },
+          {
+            "templateId": "relay_proxy",
+            "level": 1,
+            "health": 25,
+            "attack": 25,
+            "copies": 1,
+            "maxHealth": 25
+          }
+        ],
+        "id": "team_r4_1791977737382_a06lq9",
+        "round": 4,
+        "totalAtk": 145,
+        "totalHp": 155
       }
     ],
     "5": [
@@ -69055,6 +69106,85 @@
           }
         ],
         "id": "team_r12_1791880626329_j6iea8"
+      },
+      {
+        "name": "Glitchy Croissant",
+        "losses": 0,
+        "lastBattleTime": 1791913568191,
+        "slots": [
+          {
+            "level": 2,
+            "health": 55,
+            "maxHealth": 55,
+            "templateId": "siphon_leech",
+            "copies": 4,
+            "attack": 35
+          },
+          {
+            "templateId": "trojan_exe",
+            "level": 2,
+            "maxHealth": 95,
+            "health": 95,
+            "attack": 45,
+            "copies": 3
+          },
+          {
+            "attack": 60,
+            "copies": 4,
+            "templateId": "relay_proxy",
+            "health": 95,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "maxHealth": 95,
+            "mods": [
+              {
+                "name": "Self Replicating Code",
+                "bonusHealth": 0,
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusAttack": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "level": 2
+          },
+          {
+            "level": 3,
+            "maxHealth": 60,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "bonusHealth": 0,
+                "id": "self_replicating_code"
+              }
+            ],
+            "templateId": "emp_bomber",
+            "health": 60,
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 60,
+            "copies": 8
+          },
+          {
+            "copies": 3,
+            "attack": 80,
+            "health": 20,
+            "templateId": "plasma_microwave",
+            "level": 2,
+            "maxHealth": 20
+          }
+        ],
+        "totalHp": 325,
+        "battlesCount": 1,
+        "id": "team_r12_1791770828020_ds93oj",
+        "round": 12,
+        "totalAtk": 280,
+        "randomSeed": 0.9978397034687235,
+        "wins": 1,
+        "timestamp": 1791770828020
       }
     ],
     "13": [
