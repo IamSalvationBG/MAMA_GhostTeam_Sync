@@ -1,10 +1,54 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795547047197,
-  "lastSyncDate": "2026-11-24",
-  "totalReadsPerformed": 7849,
+  "lastSyncTimestamp": 1795630204569,
+  "lastSyncDate": "2026-11-25",
+  "totalReadsPerformed": 7963,
   "rounds": {
     "1": [
+      {
+        "round": 1,
+        "id": "team_r1_1795605041749_5n96r5",
+        "randomSeed": 0.478658057646813,
+        "timestamp": 1795605041749,
+        "totalHp": 110,
+        "name": "Glitchy Pineapple",
+        "totalAtk": 80,
+        "slots": [
+          {
+            "health": 30,
+            "attack": 20,
+            "level": 1,
+            "templateId": "goldfish",
+            "maxHealth": 30,
+            "copies": 1
+          },
+          {
+            "templateId": "relay_proxy",
+            "attack": 25,
+            "health": 25,
+            "maxHealth": 25,
+            "copies": 1,
+            "level": 1
+          },
+          {
+            "level": 1,
+            "templateId": "glitch_rat",
+            "copies": 1,
+            "health": 25,
+            "attack": 15,
+            "maxHealth": 25
+          },
+          null,
+          {
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30,
+            "level": 1,
+            "copies": 1,
+            "templateId": "vanguard_feeder"
+          }
+        ]
+      },
       {
         "totalAtk": 95,
         "round": 1,
@@ -4893,54 +4937,60 @@
             "copies": 1
           }
         ]
-      },
-      {
-        "name": "Tactical Burrito",
-        "battlesCount": 1,
-        "timestamp": 1790356300101,
-        "slots": [
-          {
-            "templateId": "shield_proxy",
-            "level": 1,
-            "copies": 1,
-            "health": 35,
-            "attack": 25,
-            "maxHealth": 35
-          },
-          {
-            "attack": 35,
-            "maxHealth": 35,
-            "copies": 1,
-            "health": 35,
-            "level": 1,
-            "templateId": "weapon_proxy"
-          },
-          null,
-          {
-            "attack": 25,
-            "templateId": "berserk_node",
-            "level": 1,
-            "maxHealth": 40,
-            "health": 40,
-            "copies": 1
-          },
-          {
-            "attack": 35,
-            "level": 1,
-            "templateId": "relay_proxy",
-            "maxHealth": 35,
-            "copies": 1,
-            "health": 35
-          }
-        ],
-        "wins": 0,
-        "id": "team_r1_1790356300101_o77gih",
-        "lastBattleTime": 1790883349480,
-        "round": 1,
-        "losses": 1
       }
     ],
     "2": [
+      {
+        "round": 2,
+        "timestamp": 1795605171691,
+        "totalAtk": 95,
+        "totalHp": 140,
+        "id": "team_r2_1795605171691_ab1pr8",
+        "name": "Glitchy Pineapple",
+        "randomSeed": 0.2797945594674709,
+        "slots": [
+          {
+            "level": 1,
+            "health": 30,
+            "attack": 20,
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "goldfish"
+          },
+          {
+            "templateId": "glitch_rat",
+            "health": 25,
+            "attack": 15,
+            "maxHealth": 25,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "maxHealth": 25,
+            "copies": 1,
+            "level": 1,
+            "templateId": "relay_proxy",
+            "attack": 25,
+            "health": 25
+          },
+          {
+            "copies": 1,
+            "templateId": "vanguard_feeder",
+            "level": 1,
+            "attack": 20,
+            "health": 30,
+            "maxHealth": 30
+          },
+          {
+            "attack": 15,
+            "health": 30,
+            "level": 1,
+            "templateId": "berserk_node",
+            "copies": 1,
+            "maxHealth": 30
+          }
+        ]
+      },
       {
         "totalHp": 165,
         "round": 2,
@@ -10272,6 +10322,57 @@
       }
     ],
     "3": [
+      {
+        "randomSeed": 0.2011633793960922,
+        "slots": [
+          {
+            "health": 30,
+            "attack": 20,
+            "level": 1,
+            "templateId": "goldfish",
+            "copies": 1,
+            "maxHealth": 30
+          },
+          {
+            "copies": 2,
+            "templateId": "glitch_rat",
+            "maxHealth": 30,
+            "level": 1,
+            "attack": 20,
+            "health": 30
+          },
+          {
+            "maxHealth": 25,
+            "health": 25,
+            "attack": 25,
+            "templateId": "relay_proxy",
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "attack": 30,
+            "health": 40,
+            "level": 2,
+            "maxHealth": 40,
+            "copies": 3,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "health": 30,
+            "attack": 15,
+            "templateId": "berserk_node",
+            "maxHealth": 30,
+            "copies": 1,
+            "level": 1
+          }
+        ],
+        "timestamp": 1795605283905,
+        "round": 3,
+        "totalHp": 155,
+        "name": "Glitchy Pineapple",
+        "totalAtk": 110,
+        "id": "team_r3_1795605283905_mjmvuk"
+      },
       {
         "id": "team_r3_1795375015889_55apdl",
         "slots": [
@@ -15669,9 +15770,198 @@
         "name": "Spicy Kazoo",
         "round": 3,
         "totalHp": 165
+      },
+      {
+        "name": "Psychic Marmot",
+        "timestamp": 1791806266137,
+        "totalAtk": 155,
+        "slots": [
+          {
+            "templateId": "weapon_proxy",
+            "maxHealth": 45,
+            "copies": 2,
+            "level": 1,
+            "attack": 55,
+            "health": 45
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "maxHealth": 35,
+            "attack": 25,
+            "health": 35,
+            "templateId": "crypto_staker"
+          },
+          {
+            "copies": 1,
+            "templateId": "byte_donor",
+            "level": 1,
+            "attack": 35,
+            "health": 45,
+            "maxHealth": 45
+          },
+          {
+            "health": 35,
+            "attack": 15,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ],
+            "templateId": "glitch_rat",
+            "maxHealth": 35,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "id": "trojan_load",
+                "name": "Trojan Load",
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]"
+              }
+            ]
+          },
+          {
+            "maxHealth": 35,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "name": "Trojan Load",
+                "id": "trojan_load",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 25,
+            "health": 35,
+            "templateId": "relay_proxy",
+            "copies": 1,
+            "level": 1,
+            "perks": [
+              "trojan_load"
+            ]
+          }
+        ],
+        "id": "team_r3_1791806266137_32c573",
+        "totalHp": 195,
+        "round": 3,
+        "randomSeed": 0.0011513803006505396
+      },
+      {
+        "randomSeed": 0.014741915917877102,
+        "totalHp": 225,
+        "name": "Clumsy Watermelon",
+        "round": 3,
+        "totalAtk": 185,
+        "slots": [
+          {
+            "maxHealth": 40,
+            "copies": 2,
+            "level": 1,
+            "attack": 30,
+            "health": 40,
+            "templateId": "shield_proxy"
+          },
+          {
+            "copies": 1,
+            "maxHealth": 45,
+            "templateId": "overclocker",
+            "level": 1,
+            "attack": 35,
+            "health": 45
+          },
+          {
+            "maxHealth": 50,
+            "attack": 40,
+            "health": 50,
+            "copies": 2,
+            "templateId": "byte_donor",
+            "level": 1
+          },
+          {
+            "templateId": "wasp",
+            "health": 35,
+            "attack": 35,
+            "level": 1,
+            "maxHealth": 35,
+            "copies": 2
+          },
+          {
+            "level": 1,
+            "maxHealth": 55,
+            "copies": 2,
+            "health": 55,
+            "attack": 45,
+            "templateId": "crypto_staker"
+          }
+        ],
+        "id": "team_r3_1791820923643_qj5bps",
+        "timestamp": 1791820923643
       }
     ],
     "4": [
+      {
+        "name": "Glitchy Pineapple",
+        "id": "team_r4_1795605479012_b2d1lf",
+        "timestamp": 1795605479012,
+        "totalAtk": 120,
+        "round": 4,
+        "totalHp": 185,
+        "slots": [
+          {
+            "copies": 3,
+            "maxHealth": 40,
+            "level": 2,
+            "health": 40,
+            "attack": 30,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 40,
+            "templateId": "berserk_node",
+            "copies": 3,
+            "level": 2,
+            "health": 40,
+            "attack": 25
+          },
+          {
+            "health": 25,
+            "attack": 25,
+            "maxHealth": 25,
+            "level": 1,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "templateId": "relay_proxy",
+            "copies": 1
+          },
+          {
+            "health": 50,
+            "attack": 20,
+            "templateId": "goldfish",
+            "maxHealth": 50,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "maxHealth": 30,
+            "health": 30,
+            "attack": 20,
+            "level": 1,
+            "templateId": "glitch_rat",
+            "copies": 2
+          }
+        ],
+        "randomSeed": 0.3594189596737092
+      },
       {
         "name": "Zesty Chicken",
         "round": 4,
@@ -21089,6 +21379,69 @@
     ],
     "5": [
       {
+        "randomSeed": 0.01023065633216802,
+        "name": "Glitchy Pineapple",
+        "round": 5,
+        "totalHp": 195,
+        "slots": [
+          {
+            "health": 40,
+            "attack": 30,
+            "level": 2,
+            "maxHealth": 40,
+            "copies": 3,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 40,
+            "attack": 25,
+            "health": 40,
+            "templateId": "berserk_node",
+            "level": 2,
+            "copies": 3
+          },
+          {
+            "maxHealth": 35,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 35,
+            "health": 35,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "copies": 3,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "copies": 2,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "health": 30,
+            "attack": 20,
+            "maxHealth": 30
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "maxHealth": 50,
+            "health": 50,
+            "attack": 20,
+            "templateId": "goldfish"
+          }
+        ],
+        "id": "team_r5_1795605649117_sn4pf7",
+        "totalAtk": 130,
+        "timestamp": 1795605649117
+      },
+      {
         "id": "team_r5_1794967216432_eagwki",
         "randomSeed": 0.4699855283010934,
         "name": "Zesty Chicken",
@@ -26489,6 +26842,69 @@
       }
     ],
     "6": [
+      {
+        "id": "team_r6_1795605861081_1dmanp",
+        "slots": [
+          {
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 40,
+            "attack": 30,
+            "health": 40,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "templateId": "berserk_node",
+            "health": 40,
+            "attack": 25,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 40
+          },
+          {
+            "copies": 4,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusHealth": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "templateId": "relay_proxy",
+            "maxHealth": 40,
+            "health": 40,
+            "attack": 40
+          },
+          {
+            "attack": 25,
+            "health": 85,
+            "level": 1,
+            "templateId": "goldfish",
+            "maxHealth": 85,
+            "copies": 2
+          },
+          {
+            "templateId": "glitch_rat",
+            "copies": 2,
+            "maxHealth": 40,
+            "level": 1,
+            "attack": 30,
+            "health": 40
+          }
+        ],
+        "timestamp": 1795605861081,
+        "randomSeed": 0.9923803982128857,
+        "totalHp": 245,
+        "totalAtk": 150,
+        "round": 6,
+        "name": "Glitchy Pineapple"
+      },
       {
         "totalAtk": 245,
         "randomSeed": 0.10168990740579742,
@@ -32249,6 +32665,81 @@
       }
     ],
     "7": [
+      {
+        "slots": [
+          {
+            "maxHealth": 40,
+            "level": 2,
+            "copies": 3,
+            "health": 40,
+            "attack": 35,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "maxHealth": 60,
+            "copies": 1,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "id": "cascade_trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "perks": [
+              "cascade_trigger"
+            ],
+            "level": 1,
+            "attack": 80,
+            "health": 60,
+            "templateId": "firmware_cloner"
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 4,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40,
+            "attack": 45
+          },
+          {
+            "health": 45,
+            "attack": 40,
+            "templateId": "glitch_rat",
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 45
+          },
+          {
+            "templateId": "goldfish",
+            "maxHealth": 90,
+            "copies": 3,
+            "level": 2,
+            "attack": 35,
+            "health": 90
+          }
+        ],
+        "name": "Glitchy Pineapple",
+        "totalAtk": 235,
+        "id": "team_r7_1795606159151_l8n4ze",
+        "timestamp": 1795606159151,
+        "totalHp": 275,
+        "randomSeed": 0.19899285401587785,
+        "round": 7
+      },
       {
         "timestamp": 1794967546989,
         "totalHp": 305,
@@ -38398,60 +38889,84 @@
             "copies": 3
           }
         ]
-      },
-      {
-        "randomSeed": 0.08625472270694068,
-        "round": 7,
-        "slots": [
-          {
-            "templateId": "defrag_otter",
-            "maxHealth": 60,
-            "health": 60,
-            "copies": 1,
-            "attack": 45,
-            "level": 1
-          },
-          {
-            "health": 95,
-            "templateId": "scrap_goat",
-            "copies": 1,
-            "attack": 90,
-            "level": 1,
-            "maxHealth": 95
-          },
-          {
-            "attack": 110,
-            "copies": 3,
-            "maxHealth": 95,
-            "level": 2,
-            "templateId": "bouncer_exe",
-            "health": 95
-          },
-          {
-            "health": 120,
-            "level": 1,
-            "templateId": "tank",
-            "maxHealth": 120,
-            "copies": 2,
-            "attack": 65
-          },
-          {
-            "templateId": "trojan_distributor",
-            "health": 70,
-            "copies": 3,
-            "attack": 70,
-            "level": 2,
-            "maxHealth": 70
-          }
-        ],
-        "totalHp": 440,
-        "id": "team_r7_1791917205171_i4xlu0",
-        "timestamp": 1791917205171,
-        "name": "Sarcastic Blender",
-        "totalAtk": 380
       }
     ],
     "8": [
+      {
+        "round": 8,
+        "id": "team_r8_1795606298104_iv9zf8",
+        "totalHp": 300,
+        "timestamp": 1795606298104,
+        "randomSeed": 0.2538451528310788,
+        "totalAtk": 260,
+        "name": "Glitchy Pineapple",
+        "slots": [
+          {
+            "copies": 3,
+            "level": 2,
+            "templateId": "vanguard_feeder",
+            "attack": 35,
+            "health": 40,
+            "maxHealth": 40
+          },
+          {
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "firmware_cloner",
+            "copies": 2,
+            "maxHealth": 65,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "level": 1,
+            "health": 65,
+            "attack": 85
+          },
+          {
+            "health": 40,
+            "attack": 45,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "relay_proxy",
+            "copies": 4,
+            "maxHealth": 40,
+            "mods": [
+              {
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ]
+          },
+          {
+            "templateId": "glitch_rat",
+            "level": 2,
+            "copies": 3,
+            "attack": 40,
+            "health": 45,
+            "maxHealth": 45
+          },
+          {
+            "level": 2,
+            "attack": 55,
+            "maxHealth": 110,
+            "health": 110,
+            "copies": 3,
+            "templateId": "goldfish"
+          }
+        ]
+      },
       {
         "id": "team_r8_1794968104603_ys32x3",
         "timestamp": 1794968104603,
@@ -44464,6 +44979,81 @@
     ],
     "9": [
       {
+        "round": 9,
+        "timestamp": 1795606594062,
+        "id": "team_r9_1795606594062_tdtrpa",
+        "totalAtk": 305,
+        "name": "Glitchy Pineapple",
+        "randomSeed": 0.685736375547632,
+        "totalHp": 395,
+        "slots": [
+          {
+            "health": 40,
+            "templateId": "vanguard_feeder",
+            "attack": 35,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 40
+          },
+          {
+            "templateId": "firmware_cloner",
+            "health": 70,
+            "attack": 90,
+            "maxHealth": 70,
+            "level": 2,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "id": "cascade_trigger",
+                "bonusAttack": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "copies": 3
+          },
+          {
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "bonusAttack": 0,
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "copies": 4,
+            "maxHealth": 40,
+            "templateId": "relay_proxy",
+            "level": 2,
+            "health": 40,
+            "attack": 45,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "attack": 60,
+            "health": 65,
+            "templateId": "glitch_rat",
+            "level": 2,
+            "maxHealth": 65,
+            "copies": 3
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "attack": 75,
+            "health": 180,
+            "templateId": "goldfish",
+            "maxHealth": 180
+          }
+        ]
+      },
+      {
         "slots": [
           {
             "level": 1,
@@ -50174,6 +50764,81 @@
       }
     ],
     "10": [
+      {
+        "timestamp": 1795606943263,
+        "slots": [
+          {
+            "maxHealth": 40,
+            "copies": 3,
+            "level": 2,
+            "attack": 35,
+            "health": 40,
+            "templateId": "vanguard_feeder"
+          },
+          {
+            "perks": [
+              "cascade_trigger"
+            ],
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 70,
+            "templateId": "firmware_cloner",
+            "attack": 90,
+            "health": 70,
+            "mods": [
+              {
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0
+              }
+            ]
+          },
+          {
+            "attack": 45,
+            "health": 40,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "level": 2,
+            "maxHealth": 40,
+            "copies": 4,
+            "templateId": "relay_proxy"
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 65,
+            "health": 65,
+            "attack": 60,
+            "templateId": "glitch_rat"
+          },
+          {
+            "templateId": "goldfish",
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 180,
+            "health": 180,
+            "attack": 75
+          }
+        ],
+        "totalHp": 395,
+        "totalAtk": 305,
+        "name": "Glitchy Pineapple",
+        "id": "team_r10_1795606943263_5uu00z",
+        "randomSeed": 0.8547550534505474,
+        "round": 10
+      },
       {
         "randomSeed": 0.54876775171955,
         "name": "Zesty Chicken",
@@ -56238,6 +56903,93 @@
       }
     ],
     "11": [
+      {
+        "id": "team_r11_1795607542169_elnvex",
+        "round": 11,
+        "timestamp": 1795607542169,
+        "name": "Glitchy Pineapple",
+        "randomSeed": 0.11175405649285175,
+        "totalHp": 565,
+        "slots": [
+          {
+            "copies": 4,
+            "level": 2,
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "id": "cascade_trigger"
+              }
+            ],
+            "maxHealth": 85,
+            "templateId": "firmware_cloner",
+            "perks": [
+              "cascade_trigger"
+            ],
+            "attack": 105,
+            "health": 85
+          },
+          {
+            "maxHealth": 40,
+            "attack": 45,
+            "health": 40,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "relay_proxy",
+            "level": 2,
+            "copies": 4
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "copies": 3,
+            "level": 2,
+            "health": 60,
+            "attack": 55,
+            "maxHealth": 60
+          },
+          {
+            "level": 2,
+            "attack": 95,
+            "health": 200,
+            "templateId": "goldfish",
+            "maxHealth": 200,
+            "copies": 3
+          },
+          {
+            "perks": [
+              "cascade_trigger"
+            ],
+            "health": 180,
+            "attack": 180,
+            "level": 1,
+            "maxHealth": 180,
+            "templateId": "trex",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "name": "Cascade Trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusHealth": 0,
+                "id": "cascade_trigger"
+              }
+            ],
+            "copies": 1
+          }
+        ],
+        "totalAtk": 480
+      },
       {
         "totalAtk": 435,
         "id": "team_r11_1794968679856_xj8056",
@@ -62408,9 +63160,297 @@
             "level": 2
           }
         ]
+      },
+      {
+        "timestamp": 1791564382519,
+        "totalAtk": 530,
+        "totalHp": 700,
+        "round": 11,
+        "name": "Bionic Sock",
+        "slots": [
+          {
+            "templateId": "scrap_goat",
+            "attack": 340,
+            "health": 350,
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 350
+          },
+          {
+            "maxHealth": 80,
+            "copies": 3,
+            "level": 2,
+            "templateId": "vanguard_feeder",
+            "attack": 50,
+            "health": 80
+          },
+          {
+            "level": 3,
+            "perks": [
+              "hardcoded"
+            ],
+            "copies": 7,
+            "health": 140,
+            "attack": 70,
+            "templateId": "armor_pangolin",
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 140
+          },
+          {
+            "maxHealth": 65,
+            "copies": 1,
+            "level": 1,
+            "attack": 35,
+            "health": 65,
+            "templateId": "trojan_exe"
+          },
+          {
+            "maxHealth": 65,
+            "copies": 3,
+            "health": 65,
+            "attack": 35,
+            "level": 2,
+            "templateId": "goldfish"
+          }
+        ],
+        "id": "team_r11_1791564382519_iljmmp",
+        "randomSeed": 0.8716851919839109
+      },
+      {
+        "id": "team_r11_1791766832133_qbi1cw",
+        "totalHp": 505,
+        "slots": [
+          {
+            "templateId": "crypto_staker",
+            "attack": 80,
+            "health": 100,
+            "level": 3,
+            "copies": 6,
+            "maxHealth": 100
+          },
+          {
+            "maxHealth": 35,
+            "templateId": "vacuum",
+            "copies": 8,
+            "level": 3,
+            "attack": 40,
+            "health": 35
+          },
+          {
+            "level": 1,
+            "copies": 1,
+            "templateId": "hard_freeze",
+            "health": 80,
+            "attack": 60,
+            "maxHealth": 80
+          },
+          {
+            "copies": 4,
+            "level": 2,
+            "templateId": "berserk_node",
+            "maxHealth": 125,
+            "health": 125,
+            "attack": 90
+          },
+          {
+            "templateId": "goldfish",
+            "mods": [
+              {
+                "bonusAttack": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0
+              }
+            ],
+            "health": 165,
+            "attack": 125,
+            "copies": 6,
+            "level": 3,
+            "maxHealth": 165,
+            "perks": [
+              "backup"
+            ]
+          }
+        ],
+        "round": 11,
+        "totalAtk": 395,
+        "randomSeed": 0.8774032313801338,
+        "name": "Flaming Kettle",
+        "timestamp": 1791766832133
+      },
+      {
+        "name": "Snooty Spoon",
+        "id": "team_r11_1791904067249_hlqyb5",
+        "totalAtk": 300,
+        "round": 11,
+        "totalHp": 300,
+        "timestamp": 1791904067249,
+        "slots": [
+          {
+            "attack": 55,
+            "health": 35,
+            "level": 1,
+            "templateId": "weapon_proxy",
+            "copies": 2,
+            "maxHealth": 35
+          },
+          {
+            "maxHealth": 65,
+            "health": 65,
+            "attack": 65,
+            "copies": 2,
+            "level": 1,
+            "templateId": "shield_proxy"
+          },
+          {
+            "health": 100,
+            "attack": 85,
+            "mods": [
+              {
+                "id": "snap",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Attack, discharges 50 direct bonus damage to the second enemy unit (index 1).",
+                "name": "SNAP",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "ddos_daemon",
+            "perks": [
+              "snap"
+            ],
+            "level": 1,
+            "maxHealth": 100,
+            "copies": 1
+          },
+          {
+            "copies": 3,
+            "templateId": "spam_pigeon",
+            "level": 2,
+            "maxHealth": 30,
+            "attack": 35,
+            "health": 30
+          },
+          {
+            "maxHealth": 70,
+            "copies": 4,
+            "level": 2,
+            "perks": [
+              "backup"
+            ],
+            "templateId": "wasp",
+            "attack": 60,
+            "health": 70,
+            "mods": [
+              {
+                "name": "Back up",
+                "id": "backup",
+                "bonusHealth": 0,
+                "description": "Held Perk: On Crash, gives the back-most friendly unit +10 ATK and +10 HP.",
+                "bonusAttack": 0
+              }
+            ]
+          }
+        ],
+        "randomSeed": 0.8782782347972466
       }
     ],
     "12": [
+      {
+        "totalHp": 595,
+        "name": "Glitchy Pineapple",
+        "id": "team_r12_1795607797787_5mes9g",
+        "round": 12,
+        "slots": [
+          {
+            "perks": [
+              "cascade_trigger"
+            ],
+            "maxHealth": 85,
+            "level": 2,
+            "copies": 4,
+            "health": 85,
+            "attack": 105,
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "bonusHealth": 0,
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "id": "cascade_trigger",
+                "bonusAttack": 0
+              }
+            ],
+            "templateId": "firmware_cloner"
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 4,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ],
+            "health": 40,
+            "attack": 45,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "maxHealth": 40
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "health": 60,
+            "attack": 55,
+            "level": 2,
+            "copies": 3,
+            "maxHealth": 60
+          },
+          {
+            "maxHealth": 200,
+            "copies": 3,
+            "level": 2,
+            "attack": 95,
+            "health": 200,
+            "templateId": "goldfish"
+          },
+          {
+            "mods": [
+              {
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0,
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger"
+              }
+            ],
+            "attack": 190,
+            "health": 210,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "level": 2,
+            "copies": 3,
+            "templateId": "trex",
+            "maxHealth": 210
+          }
+        ],
+        "randomSeed": 0.05704765408505408,
+        "totalAtk": 490,
+        "timestamp": 1795607797787
+      },
       {
         "id": "team_r12_1794968789233_028z28",
         "randomSeed": 0.5238614522539995,
@@ -69189,6 +70229,93 @@
     ],
     "13": [
       {
+        "randomSeed": 0.37783951844599295,
+        "round": 13,
+        "id": "team_r13_1795607994954_off875",
+        "totalAtk": 535,
+        "timestamp": 1795607994954,
+        "totalHp": 660,
+        "name": "Glitchy Pineapple",
+        "slots": [
+          {
+            "level": 2,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "copies": 4,
+            "attack": 105,
+            "health": 85,
+            "templateId": "firmware_cloner",
+            "maxHealth": 85,
+            "mods": [
+              {
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0,
+                "id": "cascade_trigger",
+                "bonusHealth": 0,
+                "name": "Cascade Trigger"
+              }
+            ]
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 5,
+            "mods": [
+              {
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "name": "Hardcoded"
+              }
+            ],
+            "maxHealth": 45,
+            "level": 2,
+            "health": 45,
+            "attack": 50,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "level": 2,
+            "copies": 3,
+            "templateId": "vanguard_feeder",
+            "maxHealth": 80,
+            "attack": 75,
+            "health": 80
+          },
+          {
+            "maxHealth": 200,
+            "health": 200,
+            "attack": 95,
+            "level": 2,
+            "copies": 3,
+            "templateId": "goldfish"
+          },
+          {
+            "health": 250,
+            "maxHealth": 250,
+            "attack": 210,
+            "level": 2,
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "name": "Cascade Trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0,
+                "id": "cascade_trigger"
+              }
+            ],
+            "perks": [
+              "cascade_trigger"
+            ],
+            "copies": 3,
+            "templateId": "trex"
+          }
+        ]
+      },
+      {
         "randomSeed": 0.5219279047537928,
         "totalAtk": 440,
         "timestamp": 1794968926443,
@@ -75551,6 +76678,93 @@
       }
     ],
     "14": [
+      {
+        "name": "Glitchy Pineapple",
+        "slots": [
+          {
+            "health": 175,
+            "attack": 145,
+            "templateId": "firmware_cloner",
+            "perks": [
+              "cascade_trigger"
+            ],
+            "level": 2,
+            "mods": [
+              {
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0,
+                "name": "Cascade Trigger",
+                "bonusHealth": 0,
+                "id": "cascade_trigger"
+              }
+            ],
+            "copies": 4,
+            "maxHealth": 175
+          },
+          {
+            "templateId": "vanguard_feeder",
+            "copies": 3,
+            "maxHealth": 100,
+            "level": 2,
+            "attack": 95,
+            "health": 100
+          },
+          {
+            "maxHealth": 45,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "bonusHealth": 0,
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "attack": 50,
+            "health": 45,
+            "templateId": "relay_proxy",
+            "copies": 5,
+            "level": 2,
+            "perks": [
+              "hardcoded"
+            ]
+          },
+          {
+            "attack": 95,
+            "health": 200,
+            "maxHealth": 200,
+            "templateId": "goldfish",
+            "copies": 3,
+            "level": 2
+          },
+          {
+            "health": 250,
+            "attack": 210,
+            "maxHealth": 250,
+            "perks": [
+              "cascade_trigger"
+            ],
+            "mods": [
+              {
+                "name": "Cascade Trigger",
+                "id": "cascade_trigger",
+                "description": "Strikes twice per clash dealing 50% ATK each. Triggers on-attack & after-attack effects twice.",
+                "bonusAttack": 0,
+                "bonusHealth": 0
+              }
+            ],
+            "level": 2,
+            "templateId": "trex",
+            "copies": 3
+          }
+        ],
+        "randomSeed": 0.7114235691415406,
+        "timestamp": 1795608117699,
+        "round": 14,
+        "id": "team_r14_1795608117699_icqilk",
+        "totalHp": 770,
+        "totalAtk": 595
+      },
       {
         "totalHp": 465,
         "randomSeed": 0.47429367316762894,
@@ -87645,6 +88859,81 @@
         ],
         "name": "Unhinged Goblin",
         "timestamp": 1791913557291
+      },
+      {
+        "randomSeed": 0.16415683136364012,
+        "name": "Glitchy Croissant",
+        "round": 15,
+        "timestamp": 1791771004167,
+        "totalHp": 355,
+        "slots": [
+          {
+            "maxHealth": 60,
+            "attack": 40,
+            "health": 60,
+            "level": 2,
+            "templateId": "siphon_leech",
+            "copies": 5
+          },
+          {
+            "health": 95,
+            "level": 2,
+            "attack": 45,
+            "maxHealth": 95,
+            "copies": 3,
+            "templateId": "trojan_exe"
+          },
+          {
+            "mods": [
+              {
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use.",
+                "name": "Self Replicating Code",
+                "bonusAttack": 0,
+                "id": "self_replicating_code",
+                "bonusHealth": 0
+              }
+            ],
+            "copies": 7,
+            "templateId": "relay_proxy",
+            "perks": [
+              "self_replicating_code"
+            ],
+            "attack": 75,
+            "health": 110,
+            "level": 3,
+            "maxHealth": 110
+          },
+          {
+            "templateId": "emp_bomber",
+            "mods": [
+              {
+                "bonusHealth": 0,
+                "id": "self_replicating_code",
+                "bonusAttack": 0,
+                "name": "Self Replicating Code",
+                "description": "Held Perk (Single-Use): On Crash, resurrects this unit on the spot as a 10/10 process! Consumed after use."
+              }
+            ],
+            "maxHealth": 65,
+            "health": 65,
+            "attack": 65,
+            "level": 4,
+            "copies": 9,
+            "perks": [
+              "self_replicating_code"
+            ]
+          },
+          {
+            "maxHealth": 25,
+            "health": 25,
+            "attack": 105,
+            "templateId": "plasma_microwave",
+            "copies": 4,
+            "level": 2
+          }
+        ],
+        "totalAtk": 330,
+        "id": "team_r15_1791771004167_5wx0an"
       }
     ],
     "16": [
