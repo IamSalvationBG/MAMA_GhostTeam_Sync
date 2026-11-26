@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795630204569,
-  "lastSyncDate": "2026-11-25",
-  "totalReadsPerformed": 7963,
+  "lastSyncTimestamp": 1795715566130,
+  "lastSyncDate": "2026-11-26",
+  "totalReadsPerformed": 8074,
   "rounds": {
     "1": [
       {
@@ -10319,6 +10319,57 @@
         ],
         "randomSeed": 0.42037018209878063,
         "losses": 0
+      },
+      {
+        "round": 2,
+        "slots": [
+          {
+            "level": 1,
+            "attack": 35,
+            "copies": 1,
+            "health": 45,
+            "maxHealth": 45,
+            "templateId": "shield_proxy"
+          },
+          {
+            "health": 35,
+            "maxHealth": 35,
+            "level": 1,
+            "attack": 45,
+            "templateId": "weapon_proxy",
+            "copies": 1
+          },
+          {
+            "health": 35,
+            "copies": 1,
+            "attack": 25,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "maxHealth": 35
+          },
+          {
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "glitch_rat",
+            "level": 1,
+            "attack": 25,
+            "copies": 1
+          },
+          {
+            "maxHealth": 35,
+            "templateId": "glitch_rat",
+            "health": 35,
+            "copies": 1,
+            "level": 1,
+            "attack": 25
+          }
+        ],
+        "totalHp": 195,
+        "timestamp": 1791917704164,
+        "randomSeed": 0.3148568040859956,
+        "name": "Frenetic Spatula",
+        "totalAtk": 155,
+        "id": "team_r2_1791917704164_1xtzdg"
       }
     ],
     "3": [
@@ -32662,6 +32713,57 @@
         "round": 6,
         "name": "Psychic Chihuahua",
         "id": "team_r6_1792029859166_rt1htx"
+      },
+      {
+        "name": "Corrupted Meatloaf",
+        "id": "team_r6_1791989980902_swytt1",
+        "totalHp": 185,
+        "randomSeed": 0.901531046620596,
+        "timestamp": 1791989980902,
+        "round": 6,
+        "totalAtk": 190,
+        "slots": [
+          {
+            "templateId": "crypto_staker",
+            "copies": 3,
+            "attack": 30,
+            "level": 2,
+            "health": 25,
+            "maxHealth": 25
+          },
+          {
+            "templateId": "router_rooster",
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 2,
+            "level": 1,
+            "attack": 30
+          },
+          {
+            "maxHealth": 50,
+            "health": 50,
+            "templateId": "upload_toaster",
+            "level": 2,
+            "copies": 3,
+            "attack": 50
+          },
+          {
+            "copies": 4,
+            "attack": 45,
+            "templateId": "goldfish",
+            "maxHealth": 45,
+            "level": 2,
+            "health": 45
+          },
+          {
+            "health": 35,
+            "level": 2,
+            "templateId": "glitch_rat",
+            "copies": 3,
+            "maxHealth": 35,
+            "attack": 35
+          }
+        ]
       }
     ],
     "7": [
@@ -83606,6 +83708,76 @@
         "randomSeed": 0.886018163246707,
         "name": "Glitchy Croissant",
         "totalHp": 345
+      },
+      {
+        "timestamp": 1794779766603,
+        "slots": [
+          {
+            "foil": "foil_matrix_rain_red",
+            "health": 165,
+            "perks": [
+              "trojan_load"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: On Crash, summon a 10/10 Tiny Trojan token into this unit's slot. [Warning: Recursive payload.]",
+                "id": "trojan_load",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Trojan Load"
+              }
+            ],
+            "copies": 5,
+            "templateId": "crypto_staker",
+            "maxHealth": 165,
+            "level": 2,
+            "attack": 110
+          },
+          {
+            "health": 130,
+            "foil": "foil_matrix_rain_red",
+            "copies": 9,
+            "maxHealth": 130,
+            "attack": 145,
+            "templateId": "emp_bomber",
+            "level": 4
+          },
+          {
+            "health": 75,
+            "templateId": "firewall_umbrella",
+            "level": 2,
+            "maxHealth": 75,
+            "attack": 70,
+            "copies": 3,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "vacuum",
+            "maxHealth": 45,
+            "attack": 65,
+            "copies": 6,
+            "level": 3,
+            "health": 45,
+            "foil": "foil_matrix_rain_red"
+          },
+          {
+            "templateId": "david_exe",
+            "maxHealth": 60,
+            "attack": 55,
+            "copies": 7,
+            "level": 3,
+            "health": 60,
+            "foil": "foil_matrix_rain_red"
+          }
+        ],
+        "teamFoilId": "foil_matrix_rain_red",
+        "randomSeed": 0.6429726943149937,
+        "round": 14,
+        "id": "team_r14_1794779766603_wkb7t5",
+        "totalAtk": 445,
+        "totalHp": 475,
+        "arenaSkinId": "arena_ruhr_valley",
+        "name": "Chunky Meatloaf"
       }
     ],
     "15": [
