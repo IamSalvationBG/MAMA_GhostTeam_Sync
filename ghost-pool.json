@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastSyncTimestamp": 1795715566130,
-  "lastSyncDate": "2026-11-26",
-  "totalReadsPerformed": 8074,
+  "lastSyncTimestamp": 1795801107606,
+  "lastSyncDate": "2026-11-27",
+  "totalReadsPerformed": 8188,
   "rounds": {
     "1": [
       {
@@ -10370,6 +10370,57 @@
         "name": "Frenetic Spatula",
         "totalAtk": 155,
         "id": "team_r2_1791917704164_1xtzdg"
+      },
+      {
+        "id": "team_r2_1791920492011_ehauyc",
+        "timestamp": 1791920492011,
+        "slots": [
+          {
+            "health": 45,
+            "copies": 1,
+            "maxHealth": 45,
+            "attack": 35,
+            "level": 1,
+            "templateId": "shield_proxy"
+          },
+          {
+            "health": 35,
+            "templateId": "weapon_proxy",
+            "copies": 1,
+            "level": 1,
+            "attack": 45,
+            "maxHealth": 35
+          },
+          {
+            "copies": 1,
+            "level": 1,
+            "templateId": "trojan_distributor",
+            "health": 45,
+            "maxHealth": 45,
+            "attack": 30
+          },
+          {
+            "attack": 35,
+            "maxHealth": 35,
+            "templateId": "relay_proxy",
+            "health": 35,
+            "level": 1,
+            "copies": 1
+          },
+          {
+            "health": 35,
+            "templateId": "glitch_rat",
+            "maxHealth": 35,
+            "copies": 1,
+            "attack": 25,
+            "level": 1
+          }
+        ],
+        "totalHp": 195,
+        "randomSeed": 0.24682044368960332,
+        "name": "Crunchy Telescope",
+        "round": 2,
+        "totalAtk": 170
       }
     ],
     "3": [
@@ -21426,6 +21477,108 @@
         "round": 4,
         "totalAtk": 145,
         "totalHp": 155
+      },
+      {
+        "totalAtk": 145,
+        "totalHp": 195,
+        "id": "team_r4_1792032795515_x3uwf9",
+        "slots": [
+          {
+            "health": 35,
+            "copies": 1,
+            "level": 1,
+            "templateId": "byte_donor",
+            "attack": 35,
+            "maxHealth": 35
+          },
+          {
+            "health": 30,
+            "maxHealth": 30,
+            "copies": 1,
+            "templateId": "data_miner",
+            "attack": 40,
+            "level": 1
+          },
+          {
+            "health": 35,
+            "copies": 3,
+            "templateId": "rootkit_loader",
+            "level": 2,
+            "attack": 30,
+            "maxHealth": 35
+          },
+          {
+            "attack": 20,
+            "templateId": "berserk_node",
+            "maxHealth": 35,
+            "level": 1,
+            "health": 35,
+            "copies": 2
+          },
+          {
+            "templateId": "tank",
+            "copies": 1,
+            "health": 60,
+            "level": 1,
+            "maxHealth": 60,
+            "attack": 20
+          }
+        ],
+        "name": "Snooty Burrito",
+        "round": 4,
+        "timestamp": 1792032795515,
+        "randomSeed": 0.7801576993318445
+      },
+      {
+        "slots": [
+          {
+            "attack": 30,
+            "level": 1,
+            "templateId": "gandhi_exe",
+            "copies": 1,
+            "maxHealth": 35,
+            "health": 35
+          },
+          {
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 35,
+            "health": 35,
+            "templateId": "drone_mosquito",
+            "attack": 40
+          },
+          {
+            "copies": 2,
+            "level": 1,
+            "maxHealth": 45,
+            "health": 45,
+            "templateId": "david_exe",
+            "attack": 40
+          },
+          {
+            "copies": 3,
+            "level": 2,
+            "maxHealth": 40,
+            "health": 40,
+            "attack": 45,
+            "templateId": "turret_program"
+          },
+          {
+            "templateId": "relay_proxy",
+            "copies": 1,
+            "level": 1,
+            "health": 60,
+            "maxHealth": 60,
+            "attack": 55
+          }
+        ],
+        "name": "Drunken Bagpipe",
+        "totalAtk": 210,
+        "round": 4,
+        "totalHp": 215,
+        "timestamp": 1791814119605,
+        "id": "team_r4_1791814119605_cjfcj3",
+        "randomSeed": 0.7985968753962887
       }
     ],
     "5": [
@@ -89106,6 +89259,114 @@
         ],
         "totalAtk": 330,
         "id": "team_r15_1791771004167_5wx0an"
+      },
+      {
+        "totalAtk": 355,
+        "round": 15,
+        "name": "Spicy Marshmallow",
+        "randomSeed": 0.893085450258048,
+        "timestamp": 1791901211234,
+        "totalHp": 400,
+        "id": "team_r15_1791901211234_htno2w",
+        "slots": [
+          {
+            "mods": [
+              {
+                "name": "Blockchain",
+                "bonusAttack": 0,
+                "id": "blockchain",
+                "description": "Held Perk: At the end of each shop phase, permanently increases unit's recycle value by +15 Credits.",
+                "bonusHealth": 0
+              }
+            ],
+            "attack": 80,
+            "perks": [
+              "blockchain"
+            ],
+            "templateId": "weapon_proxy",
+            "level": 2,
+            "health": 60,
+            "maxHealth": 60,
+            "copies": 3
+          },
+          {
+            "copies": 1,
+            "mods": [
+              {
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "name": "Hardcoded",
+                "bonusHealth": 0,
+                "bonusAttack": 0
+              },
+              {
+                "bonusAttack": 0,
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "name": "Temp Buffer",
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase."
+              },
+              {
+                "name": "Hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20).",
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "bonusAttack": 0
+              }
+            ],
+            "level": 1,
+            "health": 110,
+            "maxHealth": 110,
+            "perks": [
+              "hardcoded"
+            ],
+            "templateId": "holo_triceratops",
+            "attack": 95
+          },
+          {
+            "level": 1,
+            "templateId": "matrix_golem",
+            "attack": 70,
+            "copies": 1,
+            "maxHealth": 70,
+            "health": 70
+          },
+          {
+            "level": 1,
+            "maxHealth": 75,
+            "attack": 75,
+            "copies": 2,
+            "templateId": "drag_n_drop",
+            "health": 75
+          },
+          {
+            "copies": 2,
+            "health": 85,
+            "templateId": "armor_pangolin",
+            "level": 1,
+            "maxHealth": 85,
+            "perks": [
+              "hardcoded"
+            ],
+            "mods": [
+              {
+                "description": "Held Perk: At combat start, grants +70 Temporary Health for battle. Resets to base Max HP in next shop phase.",
+                "id": "temp_buffer",
+                "bonusHealth": 0,
+                "bonusAttack": 0,
+                "name": "Temp Buffer"
+              },
+              {
+                "name": "Hardcoded",
+                "bonusAttack": 0,
+                "bonusHealth": 0,
+                "id": "hardcoded",
+                "description": "Held Perk: Before taking damage, mitigate incoming damage by 20 (cannot reduce damage below 20)."
+              }
+            ],
+            "attack": 35
+          }
+        ]
       }
     ],
     "16": [
